@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.cn/blog/netscaler-console-14/</loc>
+    
+    <lastmod>2025-01-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/gitea/</loc>
+    
+    <lastmod>2025-01-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/netscaler-14/</loc>
+    
+    <lastmod>2025-01-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/nessus-auto-install-for-windows/</loc>
+    
+    <lastmod>2025-01-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.cn/blog/nessus-auto-install-for-macos/</loc>
     
     <lastmod>2025-01-06</lastmod>
@@ -21,15 +57,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/nessus-auto-install-for-ubuntu/</loc>
-    
-    <lastmod>2025-01-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/nessus-auto-install-for-windows/</loc>
     
     <lastmod>2025-01-06</lastmod>
     
@@ -1298,15 +1325,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/citrix-adc-14/</loc>
-    
-    <lastmod>2024-12-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/citrix-adc-13/</loc>
     
     <lastmod>2024-12-19</lastmod>
@@ -1316,16 +1334,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/netscaler-14/</loc>
-    
-    <lastmod>2024-12-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/netscaler-console-14/</loc>
+    <loc>https://sysin.cn/blog/citrix-adc-14/</loc>
     
     <lastmod>2024-12-19</lastmod>
     
@@ -1542,15 +1551,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/almalinux-9/</loc>
-    
-    <lastmod>2024-12-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/gitea/</loc>
     
     <lastmod>2024-12-16</lastmod>
     
@@ -1856,7 +1856,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/mac-os-x/</loc>
+    <loc>https://sysin.cn/blog/mac-os-x-lion/</loc>
     
     <lastmod>2024-12-10</lastmod>
     
@@ -1865,7 +1865,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/mac-os-x-lion/</loc>
+    <loc>https://sysin.cn/blog/mac-os-x/</loc>
     
     <lastmod>2024-12-10</lastmod>
     
@@ -2252,7 +2252,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-nsx-alb-22/</loc>
+    <loc>https://sysin.cn/blog/vmware-nsx-4/</loc>
     
     <lastmod>2024-12-05</lastmod>
     
@@ -2261,7 +2261,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-nsx-4/</loc>
+    <loc>https://sysin.cn/blog/vmware-nsx-alb-22/</loc>
     
     <lastmod>2024-12-05</lastmod>
     
@@ -2468,6 +2468,15 @@
   </url>
   
   <url>
+    <loc>https://sysin.cn/blog/vmware-aria-automation-orchestrator/</loc>
+    
+    <lastmod>2024-12-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.cn/blog/vmware-aria-automation/</loc>
     
     <lastmod>2024-12-01</lastmod>
@@ -2486,7 +2495,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-aria-automation-orchestrator/</loc>
+    <loc>https://sysin.cn/blog/vmware-aria-operations/</loc>
     
     <lastmod>2024-12-01</lastmod>
     
@@ -2496,15 +2505,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/vmware-aria-suite-lifecycle/</loc>
-    
-    <lastmod>2024-12-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/vmware-aria-operations/</loc>
     
     <lastmod>2024-12-01</lastmod>
     
@@ -3755,7 +3755,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/exchange-patch/</loc>
+    <loc>https://sysin.cn/blog/exchange-2019/</loc>
     
     <lastmod>2024-11-22</lastmod>
     
@@ -3764,7 +3764,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/exchange-2019/</loc>
+    <loc>https://sysin.cn/blog/exchange-patch/</loc>
     
     <lastmod>2024-11-22</lastmod>
     
@@ -5906,7 +5906,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/freebsd-pkg-ports/</loc>
+    <loc>https://sysin.cn/blog/freebsd-zsh-all/</loc>
     
     <lastmod>2024-10-29</lastmod>
     
@@ -5915,7 +5915,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/freebsd-zsh-all/</loc>
+    <loc>https://sysin.cn/blog/freebsd-pkg-ports/</loc>
     
     <lastmod>2024-10-29</lastmod>
     
@@ -6248,7 +6248,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-horizon-8-2103/</loc>
+    <loc>https://sysin.cn/blog/vmware-horizon-8-2012/</loc>
     
     <lastmod>2024-10-29</lastmod>
     
@@ -6257,7 +6257,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-horizon-8-2012/</loc>
+    <loc>https://sysin.cn/blog/vmware-horizon-8-2103/</loc>
     
     <lastmod>2024-10-29</lastmod>
     
@@ -7744,14 +7744,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/CentOS/</loc>
+    <loc>https://sysin.cn/tags/RHEL/</loc>
     <lastmod>2025-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/RHEL/</loc>
+    <loc>https://sysin.cn/tags/CentOS/</loc>
     <lastmod>2025-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
