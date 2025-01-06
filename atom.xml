@@ -6,7 +6,7 @@
   <link href="https://sysin.org/atom.xml" rel="self"/>
   
   <link href="https://sysin.org/"/>
-  <updated>2025-01-04T03:05:42.581Z</updated>
+  <updated>2025-01-06T06:16:18.072Z</updated>
   <id>https://sysin.org/</id>
   
   <author>
@@ -15,6 +15,118 @@
   </author>
   
   <generator uri="https://sysin.org/">sysin</generator>
+  
+  <entry>
+    <title>Nessus Professional 10.8.3 Auto Installer for Windows (updated Jan 2025)</title>
+    <link href="https://sysin.org/blog/nessus-auto-install-for-windows/"/>
+    <id>https://sysin.org/blog/nessus-auto-install-for-windows/</id>
+    <published>2025-01-06T05:15:00.000Z</published>
+    <updated>2025-01-06T06:16:18.072Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/nessus-auto-install-for-windows/&quot; title=&quot;Nessus Professional 10.8.3 Auto Installer for Windows (updated Jan 2025)&quot;&gt;Nessus Professional 10.8.3 Auto Installer for Windows (updated Jan 2025)&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    
+    <category term="Unix" scheme="https://sysin.org/tags/Unix/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Nessus Professional 10.8.3 Auto Installer for Ubuntu 24.04 (updated Jan 2025)</title>
+    <link href="https://sysin.org/blog/nessus-auto-install-for-ubuntu/"/>
+    <id>https://sysin.org/blog/nessus-auto-install-for-ubuntu/</id>
+    <published>2025-01-06T05:13:10.000Z</published>
+    <updated>2025-01-06T06:16:28.466Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/nessus-auto-install-for-ubuntu/&quot; title=&quot;Nessus Professional 10.8.3 Auto Installer for Ubuntu 24.04 (updated Jan 2025)&quot;&gt;Nessus Professional 10.8.3 Auto Installer for Ubuntu 24.04 (updated Jan 2025)&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    
+    
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Nessus Professional 10.8.3 Auto Installer for RHEL 9, AlmaLinux 9, Rocky Linux 9 (updated Jan 2025)</title>
+    <link href="https://sysin.org/blog/nessus-auto-install-for-rhel-9/"/>
+    <id>https://sysin.org/blog/nessus-auto-install-for-rhel-9/</id>
+    <published>2025-01-06T05:12:15.000Z</published>
+    <updated>2025-01-06T06:16:35.846Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/nessus-auto-install-for-rhel-9/&quot; title=&quot;Nessus Professional 10.8.3 Auto Installer for RHEL 9, AlmaLinux 9, Rocky Linux 9 (updated Jan 2025)&quot;&gt;Nessus Professional 10.8.3 Auto Installer for RHEL 9, AlmaLinux 9, Rocky Linux 9 (u</summary>
+        
+      
+    
+    
+    
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    
+    
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Nessus Professional 10.8.3 Auto Installer for macOS Sequoia (updated Jan 2025)</title>
+    <link href="https://sysin.org/blog/nessus-auto-install-for-macos/"/>
+    <id>https://sysin.org/blog/nessus-auto-install-for-macos/</id>
+    <published>2025-01-06T05:11:00.000Z</published>
+    <updated>2025-01-06T06:16:43.630Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/nessus-auto-install-for-macos/&quot; title=&quot;Nessus Professional 10.8.3 Auto Installer for macOS Sequoia (updated Jan 2025)&quot;&gt;Nessus Professional 10.8.3 Auto Installer for macOS Sequoia (updated Jan 2025)&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    
+    <category term="Unix" scheme="https://sysin.org/tags/Unix/"/>
+    
+  </entry>
   
   <entry>
     <title>WPS Office for Mac 6.15.1 - 写作、表格处理、PPT 制作和 PDF 编辑</title>
@@ -296,9 +408,9 @@
     <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
     
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
-    
     <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
   </entry>
   
@@ -323,9 +435,9 @@
     <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
     
     
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
-    
     <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
   </entry>
   
@@ -759,118 +871,6 @@
     <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
     <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Windows 10 version 22H2 中文版、英文版下载 (2024 年 12 月更新)</title>
-    <link href="https://sysin.org/blog/windows-10/"/>
-    <id>https://sysin.org/blog/windows-10/</id>
-    <published>2024-12-22T01:11:00.000Z</published>
-    <updated>2024-12-23T07:01:42.736Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-10/&quot; title=&quot;Windows 10 version 22H2 中文版、英文版下载 (2024 年 12 月更新)&quot;&gt;Windows 10 version 22H2 中文版、英文版下载 (2024 年 12 月更新)&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
-    
-    
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
-    
-    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>如何卸载 Office for Mac</title>
-    <link href="https://sysin.org/blog/how-to-remove-office-mac/"/>
-    <id>https://sysin.org/blog/how-to-remove-office-mac/</id>
-    <published>2024-12-21T06:26:46.000Z</published>
-    <updated>2024-12-21T07:05:56.579Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/how-to-remove-office-mac/&quot; title=&quot;如何卸载 Office for Mac&quot;&gt;如何卸载 Office for Mac&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
-    
-    
-    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
-    
-    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Burp Suite Professional 2024.12 for Windows x64 - 领先的 Web 渗透测试软件</title>
-    <link href="https://sysin.org/blog/burp-suite-pro-win/"/>
-    <id>https://sysin.org/blog/burp-suite-pro-win/</id>
-    <published>2024-12-20T02:18:12.000Z</published>
-    <updated>2024-12-20T03:00:39.049Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/burp-suite-pro-win/&quot; title=&quot;Burp Suite Professional 2024.12 for Windows x64 - 领先的 Web 渗透测试软件&quot;&gt;Burp Suite Professional 2024.12 for Windows x64 - 领先的 Web 渗透测试软件&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
-    
-    
-    <category term="HTTP" scheme="https://sysin.org/tags/HTTP/"/>
-    
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
-    
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Burp Suite Professional 2024.12 for macOS x64 &amp; ARM64 - 领先的 Web 渗透测试软件</title>
-    <link href="https://sysin.org/blog/burp-suite-pro-mac/"/>
-    <id>https://sysin.org/blog/burp-suite-pro-mac/</id>
-    <published>2024-12-20T02:15:10.000Z</published>
-    <updated>2024-12-20T02:57:50.865Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/burp-suite-pro-mac/&quot; title=&quot;Burp Suite Professional 2024.12 for macOS x64 &amp;amp; ARM64 - 领先的 Web 渗透测试软件&quot;&gt;Burp Suite Professional 2024.12 for macOS x64 &amp;amp; ARM64 - 领先的 Web 渗透测试软件&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
-    
-    
-    <category term="HTTP" scheme="https://sysin.org/tags/HTTP/"/>
-    
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
-    
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
   </entry>
   
