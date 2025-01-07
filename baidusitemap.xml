@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/vmware-live-site-recovery-9/</loc>
+    <lastmod>2025-01-07</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/netscaler-console-14/</loc>
     <lastmod>2025-01-06</lastmod>
   </url>
@@ -825,11 +829,11 @@
     <lastmod>2024-12-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/mac-os-x-lion/</loc>
+    <loc>https://sysin.org/blog/mac-os-x/</loc>
     <lastmod>2024-12-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/mac-os-x/</loc>
+    <loc>https://sysin.org/blog/mac-os-x-lion/</loc>
     <lastmod>2024-12-10</lastmod>
   </url>
   <url>
@@ -893,11 +897,11 @@
     <lastmod>2024-12-09</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/adobe-lightroom-classic/</loc>
+    <loc>https://sysin.org/blog/adobe-indesign/</loc>
     <lastmod>2024-12-09</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/adobe-indesign/</loc>
+    <loc>https://sysin.org/blog/adobe-lightroom-classic/</loc>
     <lastmod>2024-12-09</lastmod>
   </url>
   <url>
@@ -954,10 +958,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/virtuozzo-hybrid-server-8/</loc>
-    <lastmod>2024-12-05</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-live-site-recovery-9/</loc>
     <lastmod>2024-12-05</lastmod>
   </url>
   <url>
@@ -1101,11 +1101,11 @@
     <lastmod>2024-12-01</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-aria-automation/</loc>
+    <loc>https://sysin.org/blog/vmware-aria-operations-for-logs/</loc>
     <lastmod>2024-12-01</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-aria-operations-for-logs/</loc>
+    <loc>https://sysin.org/blog/vmware-aria-automation/</loc>
     <lastmod>2024-12-01</lastmod>
   </url>
   <url>
@@ -1297,11 +1297,11 @@
     <lastmod>2024-11-28</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/cisco-secure-network-analytics/</loc>
+    <loc>https://sysin.org/blog/cisco-sma-15/</loc>
     <lastmod>2024-11-28</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/cisco-sma-15/</loc>
+    <loc>https://sysin.org/blog/cisco-secure-network-analytics/</loc>
     <lastmod>2024-11-28</lastmod>
   </url>
   <url>
@@ -1341,19 +1341,19 @@
     <lastmod>2024-11-28</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/sql-server-2017/</loc>
-    <lastmod>2024-11-28</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/sql-server-2012/</loc>
     <lastmod>2024-11-28</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/sql-server-2022/</loc>
+    <loc>https://sysin.org/blog/sql-server-2016/</loc>
     <lastmod>2024-11-28</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/sql-server-2016/</loc>
+    <loc>https://sysin.org/blog/sql-server-2017/</loc>
+    <lastmod>2024-11-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/sql-server-2022/</loc>
     <lastmod>2024-11-28</lastmod>
   </url>
   <url>
@@ -1665,11 +1665,11 @@
     <lastmod>2024-11-23</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/exchange-patch/</loc>
+    <loc>https://sysin.org/blog/exchange-2019/</loc>
     <lastmod>2024-11-22</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/exchange-2019/</loc>
+    <loc>https://sysin.org/blog/exchange-patch/</loc>
     <lastmod>2024-11-22</lastmod>
   </url>
   <url>
@@ -2621,11 +2621,11 @@
     <lastmod>2024-10-29</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/freebsd-zsh-all/</loc>
+    <loc>https://sysin.org/blog/freebsd-pkg-ports/</loc>
     <lastmod>2024-10-29</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/freebsd-pkg-ports/</loc>
+    <loc>https://sysin.org/blog/freebsd-zsh-all/</loc>
     <lastmod>2024-10-29</lastmod>
   </url>
   <url>
@@ -3205,11 +3205,11 @@
     <lastmod>2024-10-29</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/cisco-firepower-6/</loc>
+    <loc>https://sysin.org/blog/cisco-firepower-9300/</loc>
     <lastmod>2024-10-29</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/cisco-firepower-9300/</loc>
+    <loc>https://sysin.org/blog/cisco-firepower-6/</loc>
     <lastmod>2024-10-29</lastmod>
   </url>
   <url>

@@ -1,3 +1,4 @@
+https://sysin.org/blog/vmware-live-site-recovery-9/
 https://sysin.org/blog/netscaler-console-14/
 https://sysin.org/blog/gitea/
 https://sysin.org/blog/netscaler-14/
@@ -7,4 +8,3 @@ https://sysin.org/blog/nessus-auto-install-for-rhel-9/
 https://sysin.org/blog/nessus-auto-install-for-ubuntu/
 https://sysin.org/blog/office-2024-for-mac/
 https://sysin.org/blog/office-2021-for-mac/
-https://sysin.org/blog/office-2019-for-mac/
