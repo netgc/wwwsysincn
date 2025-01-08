@@ -6,7 +6,7 @@
   <link href="https://sysin.org/atom.xml" rel="self"/>
   
   <link href="https://sysin.org/"/>
-  <updated>2025-01-08T03:30:10.709Z</updated>
+  <updated>2025-01-08T06:55:17.789Z</updated>
   <id>https://sysin.org/</id>
   
   <author>
@@ -17,18 +17,18 @@
   <generator uri="https://sysin.org/">sysin</generator>
   
   <entry>
-    <title>Magnet AXIOM 8.8 Windows x64 Multilingual - 数字取证与分析</title>
+    <title>Magnet Axiom 8.8 Windows x64 Multilingual - 数字取证与分析</title>
     <link href="https://sysin.org/blog/magnet-axiom/"/>
     <id>https://sysin.org/blog/magnet-axiom/</id>
     <published>2025-01-08T01:35:45.000Z</published>
-    <updated>2025-01-08T03:30:10.709Z</updated>
+    <updated>2025-01-08T06:55:17.789Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/magnet-axiom/&quot; title=&quot;Magnet AXIOM 8.8 Windows x64 Multilingual - 数字取证与分析&quot;&gt;Magnet AXIOM 8.8 Windows x64 Multilingual - 数字取证与分析&lt;/a&gt; 查看最新版。</summary>
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/magnet-axiom/&quot; title=&quot;Magnet Axiom 8.8 Windows x64 Multilingual - 数字取证与分析&quot;&gt;Magnet Axiom 8.8 Windows x64 Multilingual - 数字取证与分析&lt;/a&gt; 查看最新版。</summary>
         
       
     
@@ -37,9 +37,9 @@
     <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
     
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
     <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
   </entry>
   
@@ -290,9 +290,9 @@
     <category term="Designer" scheme="https://sysin.org/categories/Designer/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
-    
     <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
     <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
@@ -419,7 +419,7 @@
     <link href="https://sysin.org/blog/oxygen-forensic-detective/"/>
     <id>https://sysin.org/blog/oxygen-forensic-detective/</id>
     <published>2024-12-26T01:13:50.000Z</published>
-    <updated>2024-12-26T03:12:50.544Z</updated>
+    <updated>2025-01-08T07:35:22.410Z</updated>
     
     
       
@@ -435,9 +435,9 @@
     <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
     
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
     <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
   </entry>
   
@@ -462,9 +462,9 @@
     <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
     
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
     <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
   </entry>
   

@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sysin.org/blog/cisco-catalyst-center/</loc>
+    <loc>https://sysin.org/blog/cellebrite-ufed/</loc>
+    
+    <lastmod>2025-01-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/oxygen-forensic-detective/</loc>
     
     <lastmod>2025-01-08</lastmod>
     
@@ -12,6 +21,15 @@
   
   <url>
     <loc>https://sysin.org/blog/magnet-axiom/</loc>
+    
+    <lastmod>2025-01-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/cisco-catalyst-center/</loc>
     
     <lastmod>2025-01-08</lastmod>
     
@@ -480,15 +498,6 @@
   
   <url>
     <loc>https://sysin.org/blog/veritas-netbackup-virtual-appliance-5/</loc>
-    
-    <lastmod>2024-12-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/oxygen-forensic-detective/</loc>
     
     <lastmod>2024-12-26</lastmod>
     
@@ -2045,7 +2054,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/adobe-indesign/</loc>
+    <loc>https://sysin.org/blog/adobe-lightroom-classic/</loc>
     
     <lastmod>2024-12-09</lastmod>
     
@@ -2054,7 +2063,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/adobe-lightroom-classic/</loc>
+    <loc>https://sysin.org/blog/adobe-indesign/</loc>
     
     <lastmod>2024-12-09</lastmod>
     
@@ -2486,7 +2495,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-aria-automation-config/</loc>
+    <loc>https://sysin.org/blog/vmware-aria-automation-orchestrator/</loc>
     
     <lastmod>2024-12-01</lastmod>
     
@@ -2495,7 +2504,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/vmware-aria-automation-orchestrator/</loc>
+    <loc>https://sysin.org/blog/vmware-aria-automation-config/</loc>
     
     <lastmod>2024-12-01</lastmod>
     
@@ -2738,15 +2747,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/cellebrite-ufed/</loc>
-    
-    <lastmod>2024-11-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/vmware-vcenter-converter/</loc>
     
     <lastmod>2024-11-29</lastmod>
@@ -2981,7 +2981,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/cisco-catalyst-8000v/</loc>
+    <loc>https://sysin.org/blog/cisco-catalyst-8000/</loc>
     
     <lastmod>2024-11-28</lastmod>
     
@@ -2990,7 +2990,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/cisco-catalyst-8000/</loc>
+    <loc>https://sysin.org/blog/cisco-catalyst-8000v/</loc>
     
     <lastmod>2024-11-28</lastmod>
     
@@ -6455,7 +6455,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/f5-big-ip-16/</loc>
+    <loc>https://sysin.org/blog/exploit-pack-17/</loc>
     
     <lastmod>2024-10-29</lastmod>
     
@@ -6464,7 +6464,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/exploit-pack-17/</loc>
+    <loc>https://sysin.org/blog/f5-big-ip-16/</loc>
     
     <lastmod>2024-10-29</lastmod>
     
@@ -7688,13 +7688,6 @@
 
   
   <url>
-    <loc>https://sysin.org/tags/macOS/</loc>
-    <lastmod>2025-01-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/tags/Linux/</loc>
     <lastmod>2025-01-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -7702,7 +7695,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/Security/</loc>
+    <loc>https://sysin.org/tags/HTTP/</loc>
+    <lastmod>2025-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/tags/macOS/</loc>
     <lastmod>2025-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7716,7 +7716,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/HTTP/</loc>
+    <loc>https://sysin.org/tags/Security/</loc>
     <lastmod>2025-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7996,7 +7996,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/Dell/</loc>
+    <loc>https://sysin.org/tags/DellEMC/</loc>
     <lastmod>2025-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -8010,7 +8010,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/DellEMC/</loc>
+    <loc>https://sysin.org/tags/Dell/</loc>
     <lastmod>2025-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -8122,14 +8122,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/Gartner/</loc>
+    <loc>https://sysin.org/tags/zsh/</loc>
     <lastmod>2025-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.org/tags/zsh/</loc>
+    <loc>https://sysin.org/tags/Gartner/</loc>
     <lastmod>2025-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

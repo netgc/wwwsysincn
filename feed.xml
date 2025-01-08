@@ -15,11 +15,11 @@
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | SYStem INside | 软件与技术分享</description>
-    <pubDate>Wed, 08 Jan 2025 03:30:10 GMT</pubDate>
+    <pubDate>Wed, 08 Jan 2025 06:55:17 GMT</pubDate>
     <generator>http://sysin.org/</generator>
     
     <item>
-      <title>Magnet AXIOM 8.8 Windows x64 Multilingual - 数字取证与分析</title>
+      <title>Magnet Axiom 8.8 Windows x64 Multilingual - 数字取证与分析</title>
       <link>https://sysin.org/blog/magnet-axiom/</link>
       <guid>https://sysin.org/blog/magnet-axiom/</guid>
       <pubDate>Wed, 08 Jan 2025 01:35:45 GMT</pubDate>
@@ -28,7 +28,7 @@
         
           
           
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/magnet-axiom/&quot; title=&quot;Magnet AXIOM 8.8 Windows x64 Multilingual - 数字取证与分析&quot;&gt;Magnet AXIOM 8.8 Windows x64 Multilingual - 数字取证与分析&lt;/a&gt; 查看最新版。</description>
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/magnet-axiom/&quot; title=&quot;Magnet Axiom 8.8 Windows x64 Multilingual - 数字取证与分析&quot;&gt;Magnet Axiom 8.8 Windows x64 Multilingual - 数字取证与分析&lt;/a&gt; 查看最新版。</description>
           
         
       
@@ -38,9 +38,9 @@
       <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.org/tags/Security/">Security</category>
-      
       <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.org/tags/Security/">Security</category>
       
       
       <comments>https://sysin.org/blog/magnet-axiom/#disqus_thread</comments>
@@ -309,9 +309,9 @@
       <category domain="https://sysin.org/categories/Designer/">Designer</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
-      
       <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
       <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
@@ -464,9 +464,9 @@
       <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.org/tags/Security/">Security</category>
-      
       <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.org/tags/Security/">Security</category>
       
       
       <comments>https://sysin.org/blog/oxygen-forensic-detective/#disqus_thread</comments>
@@ -493,9 +493,9 @@
       <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.org/tags/Security/">Security</category>
-      
       <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.org/tags/Security/">Security</category>
       
       
       <comments>https://sysin.org/blog/cellebrite-inseyets/#disqus_thread</comments>
