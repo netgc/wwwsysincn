@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.cn/blog/cisco-catalyst-center/</loc>
+    
+    <lastmod>2025-01-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.cn/blog/magnet-axiom/</loc>
     
     <lastmod>2025-01-08</lastmod>
@@ -4286,15 +4295,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/cisco-catalyst-center/</loc>
-    
-    <lastmod>2024-11-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/xenserver-8/</loc>
     
     <lastmod>2024-11-12</lastmod>
@@ -8481,14 +8481,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/categories/Linux/</loc>
+    <loc>https://sysin.cn/categories/Windows/</loc>
     <lastmod>2025-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.cn/categories/Windows/</loc>
+    <loc>https://sysin.cn/categories/Linux/</loc>
     <lastmod>2025-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
