@@ -1,3 +1,4 @@
+https://sysin.cn/blog/nexpose-7/
 https://sysin.cn/blog/cellebrite-ufed/
 https://sysin.cn/blog/oxygen-forensic-detective/
 https://sysin.cn/blog/magnet-axiom/
@@ -7,4 +8,3 @@ https://sysin.cn/blog/vmware-live-site-recovery-9/
 https://sysin.cn/blog/netscaler-console-14/
 https://sysin.cn/blog/gitea/
 https://sysin.cn/blog/netscaler-14/
-https://sysin.cn/blog/nessus-auto-install-for-windows/

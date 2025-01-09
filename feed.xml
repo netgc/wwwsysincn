@@ -15,8 +15,41 @@
     <atom:link href="https://sysin.cn/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | 软件与技术分享 | SYStem INside</description>
-    <pubDate>Wed, 08 Jan 2025 06:55:17 GMT</pubDate>
+    <pubDate>Thu, 09 Jan 2025 01:07:20 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>Nexpose 7.2.0 for Linux &amp; Windows - 漏洞扫描</title>
+      <link>https://sysin.cn/blog/nexpose-7/</link>
+      <guid>https://sysin.cn/blog/nexpose-7/</guid>
+      <pubDate>Thu, 09 Jan 2025 01:08:30 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/nexpose-7/&quot; title=&quot;Nexpose 7.2.0 for Linux &amp;amp; Windows - 漏洞扫描&quot;&gt;Nexpose 7.2.0 for Linux &amp;amp; Windows - 漏洞扫描&lt;/a&gt; 查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
+      
+      
+      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.cn/tags/Security/">Security</category>
+      
+      <category domain="https://sysin.cn/tags/Rapid7/">Rapid7</category>
+      
+      
+      <comments>https://sysin.cn/blog/nexpose-7/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Magnet Axiom 8.8 Windows x64 Multilingual - 数字取证与分析</title>
@@ -38,9 +71,9 @@
       <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.cn/tags/Security/">Security</category>
-      
       <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.cn/tags/Security/">Security</category>
       
       
       <comments>https://sysin.cn/blog/magnet-axiom/#disqus_thread</comments>
@@ -67,9 +100,9 @@
       <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
-      
       <category domain="https://sysin.cn/tags/Security/">Security</category>
+      
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
       <category domain="https://sysin.cn/tags/Unix/">Unix</category>
       
@@ -156,9 +189,9 @@
       <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
-      
       <category domain="https://sysin.cn/tags/Security/">Security</category>
+      
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
       <category domain="https://sysin.cn/tags/Unix/">Unix</category>
       
@@ -311,9 +344,9 @@
       
       <category domain="https://sysin.cn/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
-      
       <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
       
       <comments>https://sysin.cn/blog/gimp/#disqus_thread</comments>
@@ -340,11 +373,11 @@
       <category domain="https://sysin.cn/categories/Designer/">Designer</category>
       
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
-      
       <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
       <category domain="https://sysin.cn/tags/Adobe/">Adobe</category>
+      
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
       
       <comments>https://sysin.cn/blog/adobe-acrobat/#disqus_thread</comments>
@@ -464,9 +497,9 @@
       <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.cn/tags/Security/">Security</category>
-      
       <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.cn/tags/Security/">Security</category>
       
       
       <comments>https://sysin.cn/blog/oxygen-forensic-detective/#disqus_thread</comments>
@@ -493,9 +526,9 @@
       <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.cn/tags/Security/">Security</category>
-      
       <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.cn/tags/Security/">Security</category>
       
       
       <comments>https://sysin.cn/blog/cellebrite-inseyets/#disqus_thread</comments>
@@ -739,11 +772,11 @@
       <category domain="https://sysin.cn/categories/Designer/">Designer</category>
       
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
-      
       <category domain="https://sysin.cn/tags/Windows/">Windows</category>
       
       <category domain="https://sysin.cn/tags/Adobe/">Adobe</category>
+      
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
       
       
       <comments>https://sysin.cn/blog/adobe-photoshop/#disqus_thread</comments>
@@ -904,35 +937,6 @@
       
       
       <comments>https://sysin.cn/blog/windows-server-2022/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Windows 11 24H2 中文版、英文版 (x64、ARM64) 下载 (2024 年 12 月更新)</title>
-      <link>https://sysin.cn/blog/windows-11/</link>
-      <guid>https://sysin.cn/blog/windows-11/</guid>
-      <pubDate>Sun, 22 Dec 2024 01:33:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-11/&quot; title=&quot;Windows 11 24H2 中文版、英文版 (x64、ARM64) 下载 (2024 年 12 月更新)&quot;&gt;Windows 11 24H2 中文版、英文版 (x64、ARM64) 下载 (2024 年 12 月更新)&lt;/a&gt; 查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
-      
-      
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
-      
-      <category domain="https://sysin.cn/tags/Microsoft/">Microsoft</category>
-      
-      
-      <comments>https://sysin.cn/blog/windows-11/#disqus_thread</comments>
       
     </item>
     

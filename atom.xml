@@ -6,7 +6,7 @@
   <link href="https://sysin.cn/atom.xml" rel="self"/>
   
   <link href="https://sysin.cn/"/>
-  <updated>2025-01-08T06:55:17.789Z</updated>
+  <updated>2025-01-09T01:07:20.018Z</updated>
   <id>https://sysin.cn/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://sysin.org/">sysin</generator>
+  
+  <entry>
+    <title>Nexpose 7.2.0 for Linux &amp; Windows - 漏洞扫描</title>
+    <link href="https://sysin.cn/blog/nexpose-7/"/>
+    <id>https://sysin.cn/blog/nexpose-7/</id>
+    <published>2025-01-09T01:08:30.000Z</published>
+    <updated>2025-01-09T01:07:20.018Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/nexpose-7/&quot; title=&quot;Nexpose 7.2.0 for Linux &amp;amp; Windows - 漏洞扫描&quot;&gt;Nexpose 7.2.0 for Linux &amp;amp; Windows - 漏洞扫描&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
+    
+    
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
+    
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
+    
+    <category term="Rapid7" scheme="https://sysin.cn/tags/Rapid7/"/>
+    
+  </entry>
   
   <entry>
     <title>Magnet Axiom 8.8 Windows x64 Multilingual - 数字取证与分析</title>
@@ -37,9 +68,9 @@
     <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
     
     
-    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
-    
     <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
     
   </entry>
   
@@ -64,9 +95,9 @@
     <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
     
     
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
-    
     <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
+    
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
     <category term="Unix" scheme="https://sysin.cn/tags/Unix/"/>
     
@@ -147,9 +178,9 @@
     <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
     
     
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
-    
     <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
+    
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
     <category term="Unix" scheme="https://sysin.cn/tags/Unix/"/>
     
@@ -292,9 +323,9 @@
     
     <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
     
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
-    
     <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
   </entry>
   
@@ -319,11 +350,11 @@
     <category term="Designer" scheme="https://sysin.cn/categories/Designer/"/>
     
     
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
-    
     <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
     <category term="Adobe" scheme="https://sysin.cn/tags/Adobe/"/>
+    
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
   </entry>
   
@@ -435,9 +466,9 @@
     <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
     
     
-    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
-    
     <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
     
   </entry>
   
@@ -462,9 +493,9 @@
     <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
     
     
-    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
-    
     <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
     
   </entry>
   
@@ -692,11 +723,11 @@
     <category term="Designer" scheme="https://sysin.cn/categories/Designer/"/>
     
     
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
-    
     <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
     <category term="Adobe" scheme="https://sysin.cn/tags/Adobe/"/>
+    
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
     
   </entry>
   
@@ -844,33 +875,6 @@
     <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
     
     <category term="Server" scheme="https://sysin.cn/tags/Server/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Windows 11 24H2 中文版、英文版 (x64、ARM64) 下载 (2024 年 12 月更新)</title>
-    <link href="https://sysin.cn/blog/windows-11/"/>
-    <id>https://sysin.cn/blog/windows-11/</id>
-    <published>2024-12-22T01:33:00.000Z</published>
-    <updated>2024-12-23T07:03:11.297Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-11/&quot; title=&quot;Windows 11 24H2 中文版、英文版 (x64、ARM64) 下载 (2024 年 12 月更新)&quot;&gt;Windows 11 24H2 中文版、英文版 (x64、ARM64) 下载 (2024 年 12 月更新)&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
-    
-    
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
-    
-    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
     
   </entry>
   
