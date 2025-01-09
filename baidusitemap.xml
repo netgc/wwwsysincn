@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/oxygen-forensic-detective/</loc>
+    <lastmod>2025-01-09</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/apple-silicon-mac-dfu/</loc>
+    <lastmod>2025-01-09</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/nexpose-7/</loc>
     <lastmod>2025-01-09</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/cellebrite-ufed/</loc>
-    <lastmod>2025-01-08</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/oxygen-forensic-detective/</loc>
     <lastmod>2025-01-08</lastmod>
   </url>
   <url>
@@ -609,11 +613,11 @@
     <lastmod>2024-12-19</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/citrix-adc-13/</loc>
+    <loc>https://sysin.org/blog/citrix-adc-14/</loc>
     <lastmod>2024-12-19</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/citrix-adc-14/</loc>
+    <loc>https://sysin.org/blog/citrix-adc-13/</loc>
     <lastmod>2024-12-19</lastmod>
   </url>
   <url>
@@ -1109,11 +1113,11 @@
     <lastmod>2024-12-01</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-aria-automation-config/</loc>
+    <loc>https://sysin.org/blog/vmware-aria-automation-orchestrator/</loc>
     <lastmod>2024-12-01</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-aria-automation-orchestrator/</loc>
+    <loc>https://sysin.org/blog/vmware-aria-automation-config/</loc>
     <lastmod>2024-12-01</lastmod>
   </url>
   <url>
@@ -1530,10 +1534,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/apple-silicon-universal-app/</loc>
-    <lastmod>2024-11-28</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/apple-silicon-mac-dfu/</loc>
     <lastmod>2024-11-28</lastmod>
   </url>
   <url>
@@ -2621,11 +2621,11 @@
     <lastmod>2024-10-29</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/freebsd-pkg-ports/</loc>
+    <loc>https://sysin.org/blog/freebsd-zsh-all/</loc>
     <lastmod>2024-10-29</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/freebsd-zsh-all/</loc>
+    <loc>https://sysin.org/blog/freebsd-pkg-ports/</loc>
     <lastmod>2024-10-29</lastmod>
   </url>
   <url>
