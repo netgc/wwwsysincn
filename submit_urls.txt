@@ -1,10 +1,10 @@
+https://sysin.cn/blog/digikam/
+https://sysin.cn/blog/krita/
+https://sysin.cn/blog/inkscape/
+https://sysin.cn/blog/gimp/
+https://sysin.cn/blog/openoffice/
 https://sysin.cn/blog/jasp/
 https://sysin.cn/blog/audacity/
-https://sysin.cn/blog/digikam/
-https://sysin.cn/blog/libreoffice/
-https://sysin.cn/blog/obs-studio/
 https://sysin.cn/blog/synfig-studio/
-https://sysin.cn/blog/openoffice/
-https://sysin.cn/blog/blender/
-https://sysin.cn/blog/inkscape/
-https://sysin.cn/blog/jamovi/
+https://sysin.cn/blog/freecad/
+https://sysin.cn/blog/libreoffice/

@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.cn/blog/digikam/</loc>
+    
+    <lastmod>2025-01-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/krita/</loc>
+    
+    <lastmod>2025-01-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/inkscape/</loc>
+    
+    <lastmod>2025-01-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/gimp/</loc>
+    
+    <lastmod>2025-01-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/openoffice/</loc>
+    
+    <lastmod>2025-01-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.cn/blog/jasp/</loc>
     
     <lastmod>2025-01-10</lastmod>
@@ -20,7 +65,16 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/digikam/</loc>
+    <loc>https://sysin.cn/blog/synfig-studio/</loc>
+    
+    <lastmod>2025-01-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/freecad/</loc>
     
     <lastmod>2025-01-10</lastmod>
     
@@ -47,34 +101,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/synfig-studio/</loc>
-    
-    <lastmod>2025-01-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/openoffice/</loc>
-    
-    <lastmod>2025-01-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/blender/</loc>
-    
-    <lastmod>2025-01-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/inkscape/</loc>
     
     <lastmod>2025-01-10</lastmod>
     
@@ -92,34 +119,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/freecad/</loc>
-    
-    <lastmod>2025-01-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/shotcut/</loc>
-    
-    <lastmod>2025-01-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/krita/</loc>
-    
-    <lastmod>2025-01-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/gimp/</loc>
     
     <lastmod>2025-01-10</lastmod>
     
@@ -6617,7 +6617,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/cisco-nx-os-9/</loc>
+    <loc>https://sysin.cn/blog/cisco-nx-os-10/</loc>
     
     <lastmod>2024-10-29</lastmod>
     
@@ -6626,7 +6626,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/cisco-nx-os-10/</loc>
+    <loc>https://sysin.cn/blog/cisco-nx-os-9/</loc>
     
     <lastmod>2024-10-29</lastmod>
     
@@ -7858,14 +7858,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Rapid7/</loc>
+    <loc>https://sysin.cn/tags/Unix/</loc>
     <lastmod>2025-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Unix/</loc>
+    <loc>https://sysin.cn/tags/Rapid7/</loc>
     <lastmod>2025-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
