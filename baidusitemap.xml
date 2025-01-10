@@ -1,6 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/jasp/</loc>
+    <lastmod>2025-01-10</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/audacity/</loc>
+    <lastmod>2025-01-10</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/digikam/</loc>
+    <lastmod>2025-01-10</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/libreoffice/</loc>
+    <lastmod>2025-01-10</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/obs-studio/</loc>
+    <lastmod>2025-01-10</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/synfig-studio/</loc>
+    <lastmod>2025-01-10</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/openoffice/</loc>
+    <lastmod>2025-01-10</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/blender/</loc>
+    <lastmod>2025-01-10</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/inkscape/</loc>
+    <lastmod>2025-01-10</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/jamovi/</loc>
+    <lastmod>2025-01-10</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/freecad/</loc>
+    <lastmod>2025-01-10</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/shotcut/</loc>
+    <lastmod>2025-01-10</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/krita/</loc>
+    <lastmod>2025-01-10</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/gimp/</loc>
+    <lastmod>2025-01-10</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/scribus/</loc>
     <lastmod>2025-01-10</lastmod>
   </url>
@@ -135,10 +191,6 @@
   <url>
     <loc>https://sysin.org/blog/anolis-os-8/</loc>
     <lastmod>2025-01-02</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/gimp/</loc>
-    <lastmod>2025-01-01</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/vmware-horizon-8-2312/</loc>
@@ -817,10 +869,6 @@
     <lastmod>2024-12-11</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/freecad/</loc>
-    <lastmod>2024-12-11</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/cobalt-strike/</loc>
     <lastmod>2024-12-11</lastmod>
   </url>
@@ -842,10 +890,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/axon-investigate/</loc>
-    <lastmod>2024-12-11</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/jamovi/</loc>
     <lastmod>2024-12-11</lastmod>
   </url>
   <url>
@@ -909,11 +953,11 @@
     <lastmod>2024-12-09</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/adobe-audition/</loc>
+    <loc>https://sysin.org/blog/adobe-animate/</loc>
     <lastmod>2024-12-09</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/adobe-animate/</loc>
+    <loc>https://sysin.org/blog/adobe-audition/</loc>
     <lastmod>2024-12-09</lastmod>
   </url>
   <url>
@@ -1125,11 +1169,11 @@
     <lastmod>2024-12-01</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-aria-operations-for-logs/</loc>
+    <loc>https://sysin.org/blog/vmware-aria-automation/</loc>
     <lastmod>2024-12-01</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-aria-automation/</loc>
+    <loc>https://sysin.org/blog/vmware-aria-operations-for-logs/</loc>
     <lastmod>2024-12-01</lastmod>
   </url>
   <url>
@@ -1693,10 +1737,6 @@
     <lastmod>2024-11-22</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/krita/</loc>
-    <lastmod>2024-11-21</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/vmware-esxi-7-u2/</loc>
     <lastmod>2024-11-21</lastmod>
   </url>
@@ -1726,18 +1766,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/vmware-esxi-7-u1/</loc>
-    <lastmod>2024-11-21</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/blender/</loc>
-    <lastmod>2024-11-21</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/shotcut/</loc>
-    <lastmod>2024-11-21</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/inkscape/</loc>
     <lastmod>2024-11-21</lastmod>
   </url>
   <url>
