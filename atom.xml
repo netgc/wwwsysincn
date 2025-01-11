@@ -6,7 +6,7 @@
   <link href="https://sysin.org/atom.xml" rel="self"/>
   
   <link href="https://sysin.org/"/>
-  <updated>2025-01-10T06:16:42.985Z</updated>
+  <updated>2025-01-11T01:10:26.969Z</updated>
   <id>https://sysin.org/</id>
   
   <author>
@@ -17,18 +17,47 @@
   <generator uri="https://sysin.org/">sysin</generator>
   
   <entry>
-    <title>Scribus 1.6.3 (Linux, macOS, Windows) - 开源桌面出版软件</title>
+    <title>Synfig Studio 1.5 (Linux, macOS, Windows) - 开源 2D 动画软件</title>
+    <link href="https://sysin.org/blog/synfig-studio/"/>
+    <id>https://sysin.org/blog/synfig-studio/</id>
+    <published>2025-01-11T01:05:01.000Z</published>
+    <updated>2025-01-11T01:10:26.969Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/synfig-studio/&quot; title=&quot;Synfig Studio 1.5 (Linux, macOS, Windows) - 开源 2D 动画软件&quot;&gt;Synfig Studio 1.5 (Linux, macOS, Windows) - 开源 2D 动画软件&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Designer" scheme="https://sysin.org/categories/Designer/"/>
+    
+    
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Scribus 1.6 (Linux, macOS, Windows) - 开源桌面出版软件</title>
     <link href="https://sysin.org/blog/scribus/"/>
     <id>https://sysin.org/blog/scribus/</id>
     <published>2025-01-10T05:01:06.000Z</published>
-    <updated>2025-01-10T06:16:42.985Z</updated>
+    <updated>2025-01-11T01:09:58.214Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/scribus/&quot; title=&quot;Scribus 1.6.3 (Linux, macOS, Windows) - 开源桌面出版软件&quot;&gt;Scribus 1.6.3 (Linux, macOS, Windows) - 开源桌面出版软件&lt;/a&gt; 查看最新版。</summary>
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/scribus/&quot; title=&quot;Scribus 1.6 (Linux, macOS, Windows) - 开源桌面出版软件&quot;&gt;Scribus 1.6 (Linux, macOS, Windows) - 开源桌面出版软件&lt;/a&gt; 查看最新版。</summary>
         
       
     
@@ -68,9 +97,9 @@
     
     <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
     <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
     <category term="Rapid7" scheme="https://sysin.org/tags/Rapid7/"/>
     
@@ -97,9 +126,9 @@
     <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
     
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
     <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
   </entry>
   
@@ -334,7 +363,7 @@
     <link href="https://sysin.org/blog/gimp/"/>
     <id>https://sysin.org/blog/gimp/</id>
     <published>2025-01-01T02:08:20.000Z</published>
-    <updated>2025-01-10T07:09:19.110Z</updated>
+    <updated>2025-01-10T07:55:26.492Z</updated>
     
     
       
@@ -495,9 +524,9 @@
     <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
     
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
     <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
   </entry>
   
@@ -522,9 +551,9 @@
     <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
     
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
     <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
   </entry>
   
@@ -844,37 +873,6 @@
     <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
     
     <category term="Server" scheme="https://sysin.org/tags/Server/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Windows Server 2022 OVF (2024 年 12 月更新) - VMware 虚拟机模板</title>
-    <link href="https://sysin.org/blog/windows-server-2022-ovf/"/>
-    <id>https://sysin.org/blog/windows-server-2022-ovf/</id>
-    <published>2024-12-22T01:35:02.000Z</published>
-    <updated>2024-12-29T05:45:51.415Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-server-2022-ovf/&quot; title=&quot;Windows Server 2022 OVF (2024 年 12 月更新) - VMware 虚拟机模板&quot;&gt;Windows Server 2022 OVF (2024 年 12 月更新) - VMware 虚拟机模板&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
-    
-    
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
-    
-    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
-    
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
-    
-    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
     
   </entry>
   

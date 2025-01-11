@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/synfig-studio/</loc>
+    <lastmod>2025-01-11</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/scribus/</loc>
+    <lastmod>2025-01-11</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/gimp/</loc>
+    <lastmod>2025-01-10</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/digikam/</loc>
     <lastmod>2025-01-10</lastmod>
   </url>
@@ -13,10 +25,6 @@
     <lastmod>2025-01-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/gimp/</loc>
-    <lastmod>2025-01-10</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/openoffice/</loc>
     <lastmod>2025-01-10</lastmod>
   </url>
@@ -26,10 +34,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/audacity/</loc>
-    <lastmod>2025-01-10</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/synfig-studio/</loc>
     <lastmod>2025-01-10</lastmod>
   </url>
   <url>
@@ -54,10 +58,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/shotcut/</loc>
-    <lastmod>2025-01-10</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/scribus/</loc>
     <lastmod>2025-01-10</lastmod>
   </url>
   <url>
@@ -961,11 +961,11 @@
     <lastmod>2024-12-09</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/adobe-incopy/</loc>
+    <loc>https://sysin.org/blog/adobe-indesign/</loc>
     <lastmod>2024-12-09</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/adobe-indesign/</loc>
+    <loc>https://sysin.org/blog/adobe-incopy/</loc>
     <lastmod>2024-12-09</lastmod>
   </url>
   <url>
@@ -1401,11 +1401,11 @@
     <lastmod>2024-11-28</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/sql-server-2012/</loc>
+    <loc>https://sysin.org/blog/sql-server-2008-r2/</loc>
     <lastmod>2024-11-28</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/sql-server-2008-r2/</loc>
+    <loc>https://sysin.org/blog/sql-server-2012/</loc>
     <lastmod>2024-11-28</lastmod>
   </url>
   <url>
