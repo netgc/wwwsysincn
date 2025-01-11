@@ -2630,7 +2630,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-aria-automation/</loc>
+    <loc>https://sysin.cn/blog/vmware-aria-automation-orchestrator/</loc>
     
     <lastmod>2024-12-01</lastmod>
     
@@ -2639,7 +2639,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-aria-automation-orchestrator/</loc>
+    <loc>https://sysin.cn/blog/vmware-aria-automation/</loc>
     
     <lastmod>2024-12-01</lastmod>
     
@@ -7909,20 +7909,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Kubernetes/</loc>
-    <lastmod>2025-01-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/tags/SSL/</loc>
-    <lastmod>2025-01-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/tags/Chrome/</loc>
     <lastmod>2025-01-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -7938,6 +7924,20 @@
   
   <url>
     <loc>https://sysin.cn/tags/Safari/</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/tags/Kubernetes/</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/tags/SSL/</loc>
     <lastmod>2025-01-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -8231,14 +8231,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/SD-WAN/</loc>
+    <loc>https://sysin.cn/tags/SQL/</loc>
     <lastmod>2025-01-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/SQL/</loc>
+    <loc>https://sysin.cn/tags/SD-WAN/</loc>
     <lastmod>2025-01-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
