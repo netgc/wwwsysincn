@@ -15,7 +15,7 @@
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | SYStem INside | 软件与技术分享</description>
-    <pubDate>Sat, 11 Jan 2025 05:22:26 GMT</pubDate>
+    <pubDate>Sat, 11 Jan 2025 05:56:18 GMT</pubDate>
     <generator>http://sysin.org/</generator>
     
     <item>
@@ -69,9 +69,9 @@
       <category domain="https://sysin.org/categories/Designer/">Designer</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
-      
       <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
       <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
@@ -100,9 +100,9 @@
       <category domain="https://sysin.org/categories/Designer/">Designer</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
-      
       <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
       <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
@@ -435,9 +435,9 @@
       <category domain="https://sysin.org/categories/Designer/">Designer</category>
       
       
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
-      
       <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
       <category domain="https://sysin.org/tags/Windows/">Windows</category>
       

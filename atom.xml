@@ -6,7 +6,7 @@
   <link href="https://sysin.org/atom.xml" rel="self"/>
   
   <link href="https://sysin.org/"/>
-  <updated>2025-01-11T05:22:26.884Z</updated>
+  <updated>2025-01-11T05:56:18.082Z</updated>
   <id>https://sysin.org/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://sysin.org/blog/omnissa-dynamic-environment-manager/"/>
     <id>https://sysin.org/blog/omnissa-dynamic-environment-manager/</id>
     <published>2025-01-11T04:16:13.000Z</published>
-    <updated>2025-01-11T05:22:26.884Z</updated>
+    <updated>2025-01-11T05:56:18.082Z</updated>
     
     
       
@@ -66,9 +66,9 @@
     <category term="Designer" scheme="https://sysin.org/categories/Designer/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
-    
     <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
     <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
@@ -95,9 +95,9 @@
     <category term="Designer" scheme="https://sysin.org/categories/Designer/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
-    
     <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
     <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
@@ -408,9 +408,9 @@
     <category term="Designer" scheme="https://sysin.org/categories/Designer/"/>
     
     
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
-    
     <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
     <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
