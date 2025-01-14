@@ -2,6 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.org/blog/omnissa-horizon-8/</loc>
+    
+    <lastmod>2025-01-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/vmware-remote-console/</loc>
+    
+    <lastmod>2025-01-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/omnissa-access/</loc>
+    
+    <lastmod>2025-01-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/obs-studio/</loc>
+    
+    <lastmod>2025-01-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/libreoffice/</loc>
+    
+    <lastmod>2025-01-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/digikam/</loc>
+    
+    <lastmod>2025-01-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/blog/audacity/</loc>
     
     <lastmod>2025-01-14</lastmod>
@@ -74,15 +128,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/digikam/</loc>
-    
-    <lastmod>2025-01-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/krita/</loc>
     
     <lastmod>2025-01-10</lastmod>
@@ -102,24 +147,6 @@
   
   <url>
     <loc>https://sysin.org/blog/freecad/</loc>
-    
-    <lastmod>2025-01-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/libreoffice/</loc>
-    
-    <lastmod>2025-01-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/obs-studio/</loc>
     
     <lastmod>2025-01-10</lastmod>
     
@@ -479,15 +506,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/omnissa-access/</loc>
-    
-    <lastmod>2024-12-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/adobe-acrobat/</loc>
     
     <lastmod>2024-12-31</lastmod>
@@ -588,15 +606,6 @@
   
   <url>
     <loc>https://sysin.org/blog/vmware-esxi-7-u3-oem/</loc>
-    
-    <lastmod>2024-12-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/omnissa-horizon-8/</loc>
     
     <lastmod>2024-12-28</lastmod>
     
@@ -3818,7 +3827,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/jetbrains-rustrover/</loc>
+    <loc>https://sysin.org/blog/jetbrains-phpstorm/</loc>
     
     <lastmod>2024-11-23</lastmod>
     
@@ -3827,7 +3836,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/jetbrains-phpstorm/</loc>
+    <loc>https://sysin.org/blog/jetbrains-rustrover/</loc>
     
     <lastmod>2024-11-23</lastmod>
     
@@ -4647,15 +4656,6 @@
   
   <url>
     <loc>https://sysin.org/blog/vmware-vsphere-7/</loc>
-    
-    <lastmod>2024-11-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/vmware-remote-console/</loc>
     
     <lastmod>2024-11-06</lastmod>
     
@@ -7909,6 +7909,20 @@
   </url>
   
   <url>
+    <loc>https://sysin.org/tags/Kubernetes/</loc>
+    <lastmod>2025-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/tags/SSL/</loc>
+    <lastmod>2025-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/tags/Chrome/</loc>
     <lastmod>2025-01-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -7924,20 +7938,6 @@
   
   <url>
     <loc>https://sysin.org/tags/Safari/</loc>
-    <lastmod>2025-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/tags/Kubernetes/</loc>
-    <lastmod>2025-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/tags/SSL/</loc>
     <lastmod>2025-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
