@@ -6,7 +6,7 @@
   <link href="https://sysin.cn/atom.xml" rel="self"/>
   
   <link href="https://sysin.cn/"/>
-  <updated>2025-01-13T06:29:09.761Z</updated>
+  <updated>2025-01-14T01:49:55.083Z</updated>
   <id>https://sysin.cn/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://sysin.org/">sysin</generator>
+  
+  <entry>
+    <title>Audacity 3.7 (Linux, macOS, Windows) - 开源音频编辑器和录音工具</title>
+    <link href="https://sysin.cn/blog/audacity/"/>
+    <id>https://sysin.cn/blog/audacity/</id>
+    <published>2025-01-14T01:03:07.000Z</published>
+    <updated>2025-01-14T01:49:55.083Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/audacity/&quot; title=&quot;Audacity 3.7 (Linux, macOS, Windows) - 开源音频编辑器和录音工具&quot;&gt;Audacity 3.7 (Linux, macOS, Windows) - 开源音频编辑器和录音工具&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Designer" scheme="https://sysin.cn/categories/Designer/"/>
+    
+    
+    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
+    
+    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
+    
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    
+  </entry>
   
   <entry>
     <title>JASP 0.19 (Linux, macOS, Windows) - 开源免费统计软件</title>
@@ -844,35 +873,6 @@
     
     
     <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Adobe Photoshop 2025 v26.2 (macOS, Windows) - 照片和设计软件</title>
-    <link href="https://sysin.cn/blog/adobe-photoshop/"/>
-    <id>https://sysin.cn/blog/adobe-photoshop/</id>
-    <published>2024-12-23T07:01:18.000Z</published>
-    <updated>2024-12-23T07:16:29.942Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/adobe-photoshop/&quot; title=&quot;Adobe Photoshop 2025 v26.2 (macOS, Windows) - 照片和设计软件&quot;&gt;Adobe Photoshop 2025 v26.2 (macOS, Windows) - 照片和设计软件&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Designer" scheme="https://sysin.cn/categories/Designer/"/>
-    
-    
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
-    
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
-    
-    <category term="Adobe" scheme="https://sysin.cn/tags/Adobe/"/>
     
   </entry>
   

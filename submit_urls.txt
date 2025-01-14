@@ -1,3 +1,4 @@
+https://sysin.cn/blog/audacity/
 https://sysin.cn/blog/jasp/
 https://sysin.cn/blog/openoffice/
 https://sysin.cn/blog/jamovi/
@@ -7,4 +8,3 @@ https://sysin.cn/blog/scribus/
 https://sysin.cn/blog/gimp/
 https://sysin.cn/blog/digikam/
 https://sysin.cn/blog/krita/
-https://sysin.cn/blog/inkscape/

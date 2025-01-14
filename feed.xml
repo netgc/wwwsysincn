@@ -15,8 +15,39 @@
     <atom:link href="https://sysin.cn/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | 软件与技术分享 | SYStem INside</description>
-    <pubDate>Mon, 13 Jan 2025 06:29:09 GMT</pubDate>
+    <pubDate>Tue, 14 Jan 2025 01:49:55 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>Audacity 3.7 (Linux, macOS, Windows) - 开源音频编辑器和录音工具</title>
+      <link>https://sysin.cn/blog/audacity/</link>
+      <guid>https://sysin.cn/blog/audacity/</guid>
+      <pubDate>Tue, 14 Jan 2025 01:03:07 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/audacity/&quot; title=&quot;Audacity 3.7 (Linux, macOS, Windows) - 开源音频编辑器和录音工具&quot;&gt;Audacity 3.7 (Linux, macOS, Windows) - 开源音频编辑器和录音工具&lt;/a&gt; 查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.cn/categories/Designer/">Designer</category>
+      
+      
+      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      
+      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      
+      
+      <comments>https://sysin.cn/blog/audacity/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>JASP 0.19 (Linux, macOS, Windows) - 开源免费统计软件</title>
@@ -904,37 +935,6 @@
       
       
       <comments>https://sysin.cn/blog/pixelmator-pro-3/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Adobe Photoshop 2025 v26.2 (macOS, Windows) - 照片和设计软件</title>
-      <link>https://sysin.cn/blog/adobe-photoshop/</link>
-      <guid>https://sysin.cn/blog/adobe-photoshop/</guid>
-      <pubDate>Mon, 23 Dec 2024 07:01:18 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/adobe-photoshop/&quot; title=&quot;Adobe Photoshop 2025 v26.2 (macOS, Windows) - 照片和设计软件&quot;&gt;Adobe Photoshop 2025 v26.2 (macOS, Windows) - 照片和设计软件&lt;/a&gt; 查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.cn/categories/Designer/">Designer</category>
-      
-      
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
-      
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
-      
-      <category domain="https://sysin.cn/tags/Adobe/">Adobe</category>
-      
-      
-      <comments>https://sysin.cn/blog/adobe-photoshop/#disqus_thread</comments>
       
     </item>
     
