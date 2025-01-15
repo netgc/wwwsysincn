@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.cn/blog/invicti/</loc>
+    <lastmod>2025-01-15</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.cn/blog/omnissa-secure-email-gateway/</loc>
     <lastmod>2025-01-15</lastmod>
   </url>
@@ -757,10 +761,6 @@
     <lastmod>2024-12-17</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/invicti/</loc>
-    <lastmod>2024-12-17</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.cn/blog/macOS-Catalina/</loc>
     <lastmod>2024-12-16</lastmod>
   </url>
@@ -1189,11 +1189,11 @@
     <lastmod>2024-12-01</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/vmware-aria-suite-lifecycle/</loc>
+    <loc>https://sysin.cn/blog/vmware-aria-operations/</loc>
     <lastmod>2024-12-01</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/vmware-aria-operations/</loc>
+    <loc>https://sysin.cn/blog/vmware-aria-suite-lifecycle/</loc>
     <lastmod>2024-12-01</lastmod>
   </url>
   <url>
@@ -1385,11 +1385,11 @@
     <lastmod>2024-11-28</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/cisco-catalyst-8000/</loc>
+    <loc>https://sysin.cn/blog/cisco-catalyst-8000v/</loc>
     <lastmod>2024-11-28</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/cisco-catalyst-8000v/</loc>
+    <loc>https://sysin.cn/blog/cisco-catalyst-8000/</loc>
     <lastmod>2024-11-28</lastmod>
   </url>
   <url>
@@ -2661,11 +2661,11 @@
     <lastmod>2024-10-29</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/freebsd-zsh-all/</loc>
+    <loc>https://sysin.cn/blog/freebsd-pkg-ports/</loc>
     <lastmod>2024-10-29</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/freebsd-pkg-ports/</loc>
+    <loc>https://sysin.cn/blog/freebsd-zsh-all/</loc>
     <lastmod>2024-10-29</lastmod>
   </url>
   <url>
@@ -2813,11 +2813,11 @@
     <lastmod>2024-10-29</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/vmware-horizon-8-2103/</loc>
+    <loc>https://sysin.cn/blog/vmware-horizon-8-2012/</loc>
     <lastmod>2024-10-29</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/vmware-horizon-8-2012/</loc>
+    <loc>https://sysin.cn/blog/vmware-horizon-8-2103/</loc>
     <lastmod>2024-10-29</lastmod>
   </url>
   <url>

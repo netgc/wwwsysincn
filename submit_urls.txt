@@ -1,3 +1,4 @@
+https://sysin.cn/blog/invicti/
 https://sysin.cn/blog/omnissa-secure-email-gateway/
 https://sysin.cn/blog/omnissa-horizon-8/
 https://sysin.cn/blog/vmware-remote-console/
@@ -7,4 +8,3 @@ https://sysin.cn/blog/libreoffice/
 https://sysin.cn/blog/digikam/
 https://sysin.cn/blog/audacity/
 https://sysin.cn/blog/jasp/
-https://sysin.cn/blog/openoffice/

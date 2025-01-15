@@ -6,7 +6,7 @@
   <link href="https://sysin.cn/atom.xml" rel="self"/>
   
   <link href="https://sysin.cn/"/>
-  <updated>2025-01-15T01:58:11.858Z</updated>
+  <updated>2025-01-15T07:00:12.193Z</updated>
   <id>https://sysin.cn/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://sysin.org/">sysin</generator>
+  
+  <entry>
+    <title>Invicti v25.1.0 for Windows - Web 应用程序安全测试</title>
+    <link href="https://sysin.cn/blog/invicti/"/>
+    <id>https://sysin.cn/blog/invicti/</id>
+    <published>2025-01-15T07:10:00.000Z</published>
+    <updated>2025-01-15T07:00:12.193Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/invicti/&quot; title=&quot;Invicti v25.1.0 for Windows - Web 应用程序安全测试&quot;&gt;Invicti v25.1.0 for Windows - Web 应用程序安全测试&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
+    
+    
+    <category term="HTTP" scheme="https://sysin.cn/tags/HTTP/"/>
+    
+    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
+    
+    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    
+  </entry>
   
   <entry>
     <title>Omnissa Secure Email Gateway 2.31 - 电子邮件网关</title>
@@ -848,33 +877,6 @@
     <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
     
     <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
-    
-    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Windows 7 &amp; Windows Server 2008 R2 简体中文版下载 (2024 年 12 月更新)</title>
-    <link href="https://sysin.cn/blog/windows-7/"/>
-    <id>https://sysin.cn/blog/windows-7/</id>
-    <published>2024-12-24T01:01:16.000Z</published>
-    <updated>2024-12-24T01:42:06.708Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-7/&quot; title=&quot;Windows 7 &amp;amp; Windows Server 2008 R2 简体中文版下载 (2024 年 12 月更新)&quot;&gt;Windows 7 &amp;amp; Windows Server 2008 R2 简体中文版下载 (2024 年 12 月更新)&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
-    
-    
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
     
     <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
     
