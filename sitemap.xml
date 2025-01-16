@@ -2,6 +2,141 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.org/blog/nessus-auto-install-for-windows/</loc>
+    
+    <lastmod>2025-01-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/cisco-nexus-dashboard/</loc>
+    
+    <lastmod>2025-01-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/cisco-nexus-9000v/</loc>
+    
+    <lastmod>2025-01-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/cisco-nexus-9000/</loc>
+    
+    <lastmod>2025-01-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/cisco-isr-4000/</loc>
+    
+    <lastmod>2025-01-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/cisco-expressway-15/</loc>
+    
+    <lastmod>2025-01-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/cisco-catalyst-9800/</loc>
+    
+    <lastmod>2025-01-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/cisco-catalyst-9800-cl/</loc>
+    
+    <lastmod>2025-01-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/cisco-catalyst-8000v/</loc>
+    
+    <lastmod>2025-01-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/cisco-catalyst-8000/</loc>
+    
+    <lastmod>2025-01-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/cisco-asav/</loc>
+    
+    <lastmod>2025-01-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/cisco-asa/</loc>
+    
+    <lastmod>2025-01-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/cisco-apic-6/</loc>
+    
+    <lastmod>2025-01-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/cisco-aci-16/</loc>
+    
+    <lastmod>2025-01-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/blog/cisco-acisim-6/</loc>
+    
+    <lastmod>2025-01-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/blog/linux-zsh-all/</loc>
     
     <lastmod>2025-01-16</lastmod>
@@ -47,15 +182,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/cisco-acisim-6/</loc>
-    
-    <lastmod>2025-01-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/cisco-isr-1000/</loc>
     
     <lastmod>2025-01-16</lastmod>
@@ -68,42 +194,6 @@
     <loc>https://sysin.org/blog/invicti/</loc>
     
     <lastmod>2025-01-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/cisco-catalyst-8000/</loc>
-    
-    <lastmod>2025-01-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/cisco-catalyst-8000v/</loc>
-    
-    <lastmod>2025-01-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/cisco-apic-6/</loc>
-    
-    <lastmod>2025-01-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/cisco-aci-16/</loc>
-    
-    <lastmod>2025-01-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -390,15 +480,6 @@
   
   <url>
     <loc>https://sysin.org/blog/netscaler-14/</loc>
-    
-    <lastmod>2025-01-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/nessus-auto-install-for-windows/</loc>
     
     <lastmod>2025-01-06</lastmod>
     
@@ -2207,7 +2288,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/adobe-character-animator/</loc>
+    <loc>https://sysin.org/blog/adobe-illustrator/</loc>
     
     <lastmod>2024-12-09</lastmod>
     
@@ -2216,7 +2297,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/adobe-illustrator/</loc>
+    <loc>https://sysin.org/blog/adobe-character-animator/</loc>
     
     <lastmod>2024-12-09</lastmod>
     
@@ -2325,15 +2406,6 @@
   
   <url>
     <loc>https://sysin.org/blog/adobe-creative-cloud/</loc>
-    
-    <lastmod>2024-12-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/cisco-catalyst-9800-cl/</loc>
     
     <lastmod>2024-12-06</lastmod>
     
@@ -2855,24 +2927,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/cisco-nexus-9000v/</loc>
-    
-    <lastmod>2024-11-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/cisco-asa/</loc>
-    
-    <lastmod>2024-11-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/cisco-sd-wan-20/</loc>
     
     <lastmod>2024-11-30</lastmod>
@@ -2883,15 +2937,6 @@
   
   <url>
     <loc>https://sysin.org/blog/pan-os-11/</loc>
-    
-    <lastmod>2024-11-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/cisco-asav/</loc>
     
     <lastmod>2024-11-30</lastmod>
     
@@ -3144,15 +3189,6 @@
   
   <url>
     <loc>https://sysin.org/blog/veritas-netbackup-10-2/</loc>
-    
-    <lastmod>2024-11-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/cisco-nexus-9000/</loc>
     
     <lastmod>2024-11-28</lastmod>
     
@@ -3450,15 +3486,6 @@
   
   <url>
     <loc>https://sysin.org/blog/apple-logic-pro/</loc>
-    
-    <lastmod>2024-11-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/cisco-isr-4000/</loc>
     
     <lastmod>2024-11-28</lastmod>
     
@@ -4241,15 +4268,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/cisco-nexus-dashboard/</loc>
-    
-    <lastmod>2024-11-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/cisco-ise-3/</loc>
     
     <lastmod>2024-11-14</lastmod>
@@ -4880,15 +4898,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/cisco-expressway-15/</loc>
-    
-    <lastmod>2024-11-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.org/blog/firewall/</loc>
     
     <lastmod>2024-11-02</lastmod>
@@ -4998,15 +5007,6 @@
   
   <url>
     <loc>https://sysin.org/blog/autodesk-maya/</loc>
-    
-    <lastmod>2024-10-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/blog/cisco-catalyst-9800/</loc>
     
     <lastmod>2024-10-29</lastmod>
     
@@ -6536,7 +6536,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/cisco-ios-xrv-9000/</loc>
+    <loc>https://sysin.org/blog/cisco-ise-log4j2-fix/</loc>
     
     <lastmod>2024-10-29</lastmod>
     
@@ -6545,7 +6545,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.org/blog/cisco-ise-log4j2-fix/</loc>
+    <loc>https://sysin.org/blog/cisco-ios-xrv-9000/</loc>
     
     <lastmod>2024-10-29</lastmod>
     
@@ -7918,6 +7918,20 @@
   </url>
   
   <url>
+    <loc>https://sysin.org/tags/Kubernetes/</loc>
+    <lastmod>2025-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.org/tags/SSL/</loc>
+    <lastmod>2025-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.org/tags/Chrome/</loc>
     <lastmod>2025-01-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -7933,20 +7947,6 @@
   
   <url>
     <loc>https://sysin.org/tags/Safari/</loc>
-    <lastmod>2025-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/tags/Kubernetes/</loc>
-    <lastmod>2025-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.org/tags/SSL/</loc>
     <lastmod>2025-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
