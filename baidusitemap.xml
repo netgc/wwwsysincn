@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/cisco-acisim-6/</loc>
+    <lastmod>2025-01-16</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/cisco-isr-1000/</loc>
+    <lastmod>2025-01-16</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/invicti/</loc>
+    <lastmod>2025-01-16</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/cisco-catalyst-8000/</loc>
+    <lastmod>2025-01-15</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/cisco-catalyst-8000v/</loc>
+    <lastmod>2025-01-15</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/cisco-apic-6/</loc>
+    <lastmod>2025-01-15</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/cisco-aci-16/</loc>
     <lastmod>2025-01-15</lastmod>
   </url>
   <url>
@@ -965,11 +989,11 @@
     <lastmod>2024-12-09</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/adobe-animate/</loc>
+    <loc>https://sysin.org/blog/adobe-audition/</loc>
     <lastmod>2024-12-09</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/adobe-audition/</loc>
+    <loc>https://sysin.org/blog/adobe-animate/</loc>
     <lastmod>2024-12-09</lastmod>
   </url>
   <url>
@@ -985,11 +1009,11 @@
     <lastmod>2024-12-09</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/adobe-photoshop-elements/</loc>
+    <loc>https://sysin.org/blog/adobe-premiere-elements/</loc>
     <lastmod>2024-12-09</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/adobe-premiere-elements/</loc>
+    <loc>https://sysin.org/blog/adobe-photoshop-elements/</loc>
     <lastmod>2024-12-09</lastmod>
   </url>
   <url>
@@ -1237,10 +1261,6 @@
     <lastmod>2024-11-30</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/cisco-acisim-6/</loc>
-    <lastmod>2024-11-30</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/cisco-asa/</loc>
     <lastmod>2024-11-30</lastmod>
   </url>
@@ -1385,14 +1405,6 @@
     <lastmod>2024-11-28</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/cisco-catalyst-8000/</loc>
-    <lastmod>2024-11-28</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/cisco-catalyst-8000v/</loc>
-    <lastmod>2024-11-28</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/cisco-wsa-15/</loc>
     <lastmod>2024-11-28</lastmod>
   </url>
@@ -1493,10 +1505,6 @@
     <lastmod>2024-11-28</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/cisco-isr-1000/</loc>
-    <lastmod>2024-11-28</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/affinity/</loc>
     <lastmod>2024-11-28</lastmod>
   </url>
@@ -1510,10 +1518,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/apple-logic-pro/</loc>
-    <lastmod>2024-11-28</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/cisco-apic-6/</loc>
     <lastmod>2024-11-28</lastmod>
   </url>
   <url>
@@ -2381,11 +2385,11 @@
     <lastmod>2024-10-29</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/adobe-camera-raw/</loc>
+    <loc>https://sysin.org/blog/adobe-cc-2024/</loc>
     <lastmod>2024-10-29</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/adobe-cc-2024/</loc>
+    <loc>https://sysin.org/blog/adobe-camera-raw/</loc>
     <lastmod>2024-10-29</lastmod>
   </url>
   <url>
@@ -2661,11 +2665,11 @@
     <lastmod>2024-10-29</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/freebsd-pkg-ports/</loc>
+    <loc>https://sysin.org/blog/freebsd-zsh-all/</loc>
     <lastmod>2024-10-29</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/freebsd-zsh-all/</loc>
+    <loc>https://sysin.org/blog/freebsd-pkg-ports/</loc>
     <lastmod>2024-10-29</lastmod>
   </url>
   <url>
@@ -3086,10 +3090,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/adobe-cc-2023/</loc>
-    <lastmod>2024-10-29</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/cisco-aci-16/</loc>
     <lastmod>2024-10-29</lastmod>
   </url>
   <url>

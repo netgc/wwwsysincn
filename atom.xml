@@ -6,7 +6,7 @@
   <link href="https://sysin.org/atom.xml" rel="self"/>
   
   <link href="https://sysin.org/"/>
-  <updated>2025-01-15T07:00:12.193Z</updated>
+  <updated>2025-01-16T01:38:31.999Z</updated>
   <id>https://sysin.org/</id>
   
   <author>
@@ -17,11 +17,71 @@
   <generator uri="https://sysin.org/">sysin</generator>
   
   <entry>
+    <title>Cisco ACI Simulator 6.1(2g) - ACI 模拟器</title>
+    <link href="https://sysin.org/blog/cisco-acisim-6/"/>
+    <id>https://sysin.org/blog/cisco-acisim-6/</id>
+    <published>2025-01-16T01:13:00.000Z</published>
+    <updated>2025-01-16T01:38:31.999Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-acisim-6/&quot; title=&quot;Cisco ACI Simulator 6.1(2g) - ACI 模拟器&quot;&gt;Cisco ACI Simulator 6.1(2g) - ACI 模拟器&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    
+    
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    
+    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
+    
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    
+    <category term="NX-OS" scheme="https://sysin.org/tags/NX-OS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Cisco ISR 1000 Series IOS XE Release 17.16.1a ED</title>
+    <link href="https://sysin.org/blog/cisco-isr-1000/"/>
+    <id>https://sysin.org/blog/cisco-isr-1000/</id>
+    <published>2025-01-16T01:10:38.000Z</published>
+    <updated>2025-01-16T01:31:38.704Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-isr-1000/&quot; title=&quot;Cisco ISR 1000 Series IOS XE Release 17.16.1a ED&quot;&gt;Cisco ISR 1000 Series IOS XE Release 17.16.1a ED&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
+    
+    
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
+    
+    <category term="IOS-XE" scheme="https://sysin.org/tags/IOS-XE/"/>
+    
+    <category term="Router" scheme="https://sysin.org/tags/Router/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Invicti v25.1.0 for Windows - Web 应用程序安全测试</title>
     <link href="https://sysin.org/blog/invicti/"/>
     <id>https://sysin.org/blog/invicti/</id>
     <published>2025-01-15T07:10:00.000Z</published>
-    <updated>2025-01-15T07:00:12.193Z</updated>
+    <updated>2025-01-16T01:11:58.177Z</updated>
     
     
       
@@ -39,9 +99,9 @@
     
     <category term="HTTP" scheme="https://sysin.org/tags/HTTP/"/>
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
     <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
   </entry>
   
@@ -271,9 +331,9 @@
     
     <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
     <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
     <category term="Rapid7" scheme="https://sysin.org/tags/Rapid7/"/>
     
@@ -300,9 +360,9 @@
     <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
     
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
     <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
   </entry>
   
@@ -698,9 +758,9 @@
     <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
     
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
     <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
   </entry>
   
@@ -725,9 +785,9 @@
     <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
     
     
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
     <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
   </entry>
   
@@ -804,66 +864,6 @@
         
         
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-server-2016-ovf/&quot; title=&quot;Windows Server 2016 OVF (2024 年 12 月更新) - VMware 虚拟机模板&quot;&gt;Windows Server 2016 OVF (2024 年 12 月更新) - VMware 虚拟机模板&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
-    
-    
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
-    
-    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
-    
-    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
-    
-    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Windows Server 2016 中文版、英文版下载 (2024 年 12 月更新)</title>
-    <link href="https://sysin.org/blog/windows-server-2016/"/>
-    <id>https://sysin.org/blog/windows-server-2016/</id>
-    <published>2024-12-24T01:08:00.000Z</published>
-    <updated>2024-12-24T01:42:22.776Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-server-2016/&quot; title=&quot;Windows Server 2016 中文版、英文版下载 (2024 年 12 月更新)&quot;&gt;Windows Server 2016 中文版、英文版下载 (2024 年 12 月更新)&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
-    
-    
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
-    
-    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
-    
-    <category term="Server" scheme="https://sysin.org/tags/Server/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Windows Server 2008 R2 OVF (2024 年 12 月更新) - VMware 虚拟机模板</title>
-    <link href="https://sysin.org/blog/windows-server-2008-r2-ovf/"/>
-    <id>https://sysin.org/blog/windows-server-2008-r2-ovf/</id>
-    <published>2024-12-24T01:02:25.000Z</published>
-    <updated>2024-12-29T05:45:02.882Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-server-2008-r2-ovf/&quot; title=&quot;Windows Server 2008 R2 OVF (2024 年 12 月更新) - VMware 虚拟机模板&quot;&gt;Windows Server 2008 R2 OVF (2024 年 12 月更新) - VMware 虚拟机模板&lt;/a&gt; 查看最新版。</summary>
         
       
     
