@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.cn/blog/linux-root/</loc>
+    
+    <lastmod>2025-01-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/linux-zsh-all/</loc>
+    
+    <lastmod>2025-01-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/freebsd-zsh-all/</loc>
+    
+    <lastmod>2025-01-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.cn/blog/studio-3t/</loc>
     
     <lastmod>2025-01-16</lastmod>
@@ -4529,15 +4556,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/linux-root/</loc>
-    
-    <lastmod>2024-11-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/quic-http3-support/</loc>
     
     <lastmod>2024-11-09</lastmod>
@@ -6014,15 +6032,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/freebsd-zsh-all/</loc>
-    
-    <lastmod>2024-10-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/gartner-magic-quadrant-firewalls-2020/</loc>
     
     <lastmod>2024-10-29</lastmod>
@@ -6681,15 +6690,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/f5/</loc>
-    
-    <lastmod>2024-10-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/linux-zsh-all/</loc>
     
     <lastmod>2024-10-29</lastmod>
     
@@ -8086,7 +8086,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Dell/</loc>
+    <loc>https://sysin.cn/tags/DellEMC/</loc>
     <lastmod>2025-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -8100,7 +8100,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/DellEMC/</loc>
+    <loc>https://sysin.cn/tags/Dell/</loc>
     <lastmod>2025-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

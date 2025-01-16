@@ -578,6 +578,7 @@
 </li>
 <li>
 <p>取消每周自动检查更新</p>
+<p>取消注释 /etc/skel/.zshrc 中的 <code># zstyle ':omz:update' mode disabled  # disable automatic updates</code></p>
 <p>取消注释 <code>/usr/share/skel/dot.zshrc</code> 中的 “# DISABLE_AUTO_UPDATE=“true””</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">sed -i &#x27;s/^#[ ]\(DISABLE_AUTO_UPDATE=&quot;true&quot;\)/\1/&#x27; /usr/share/skel/dot.zshrc</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">-i 写入文件</span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash"><span class="string">&quot;&quot;</span> Unix sed 备份机制，直接引号表示不备份</span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">s 替换指定字符</span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">^ 匹配行开始</span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">[ ] 中括号中间有空格表示要替换的内容是一个空格，注意被替换的内容是空格用 <span class="string">&quot; &quot;</span>（双引号中间有空格）表示。</span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">\1 的意思就类似于前面的 (DISABLE_AUTO_UPDATE=<span class="string">&quot;true&quot;</span>\)，\1 就是复制这个位置的内容，</span></span><br></pre></td></tr></table></figure>
 <p>上述配置在 2022年6月仍有效，现在已经更新为：</p>
@@ -662,7 +663,7 @@
 <p>FreeBSD 安装 sudo 后，并且配置 wheel 组获得 sudo 权限，新建一个管理员账号并使用 zsh 作为默认 shell：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">pw useradd -n &lt;username&gt; -G wheel -s /usr/local/bin/zsh -m &amp;&amp; passwd &lt;username&gt;</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">&lt;username&gt; 替换为实际用户名</span></span><br></pre></td></tr></table></figure>
 <p>以下是 Linux 中的配置，备忘：</p>
-<p>在 visudo (/etc/sudoers）默认配置下，创建管理员账号的命令如下：</p>
+<p>在 visudo (/etc/sudoers) 默认配置下，创建管理员账号的命令如下：</p>
 <p>CentOS：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">useradd -m -s /bin/zsh -G wheel sysin  #sysin 为用户名</span><br><span class="line">passwd sysin  #为 sysin 设置密码</span><br></pre></td></tr></table></figure>
 <p>Ubuntu：</p>

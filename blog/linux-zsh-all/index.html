@@ -570,8 +570,8 @@
 </li>
 <li>
 <p>取消每周自动检查更新</p>
-<p>取消注释 /etc/skel/.zshrc 中的 “# DISABLE_AUTO_UPDATE=“true””</p>
-<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">sed -i &#x27;s/^#[]\(DISABLE_AUTO_UPDATE=&quot;true&quot;\)/\1/&#x27; /etc/skel/.zshrc</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">-i 写入文件</span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">s 替换指定字符</span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">^ 匹配行开始</span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">[ ] 中括号中间有空格表示要替换的内容是一个空格，注意被替换的内容是空格用 <span class="string">&quot; &quot;</span>（双引号中间有空格）表示。</span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">\1 的意思就类似于前面的 (DISABLE_AUTO_UPDATE=<span class="string">&quot;true&quot;</span>\)，\1 就是复制这个位置的内容，</span></span><br></pre></td></tr></table></figure>
+<p>取消注释 /etc/skel/.zshrc 中的 <code># zstyle ':omz:update' mode disabled  # disable automatic updates</code></p>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash">Uncomment one of the following lines to change the auto-update behavior</span></span><br><span class="line">zstyle &#x27;:omz:update&#x27; mode disabled  # disable automatic updates</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash"><span class="built_in">zstyle</span> <span class="string">&#x27;:omz:update&#x27;</span> mode auto      <span class="comment"># update automatically without asking</span></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash"><span class="built_in">zstyle</span> <span class="string">&#x27;:omz:update&#x27;</span> mode reminder  <span class="comment"># just remind me to update when it&#x27;s time</span></span></span><br></pre></td></tr></table></figure>
 <p>手动更新：<code>omz update</code>（旧版命令：upgrade_oh_my_zsh）</p>
 </li>
 <li>
@@ -590,7 +590,7 @@
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">plugins=([plugins...] zsh-syntax-highlighting)</span><br></pre></td></tr></table></figure>
 <p>快速修改：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sed -i &#x27;/^plugins=.*/c plugins=(git zsh-syntax-highlighting)&#x27; /etc/skel/.zshrc</span><br></pre></td></tr></table></figure>
-<h3 id="zsh-completions"><a target="_blank" rel="noopener" href="https://github.com/zsh-users/zsh-completions">zsh-completions</a></h3>
+<h3 id="zsh-completions-2"><a target="_blank" rel="noopener" href="https://github.com/zsh-users/zsh-completions">zsh-completions</a></h3>
 <p>额外的自动补全功能，用于补充 zsh 中尚不支持的命令补全，该项目将在完善时合并到 zsh。</p>
 <ul>
 <li>
@@ -603,12 +603,12 @@
 </li>
 </ul>
 <p>Note: adding it as a regular Oh My ZSH! plugin will not work properly (see <a target="_blank" rel="noopener" href="https://github.com/zsh-users/zsh-completions/issues/603">#603</a>).</p>
-<h3 id="zsh-autosuggestions"><a target="_blank" rel="noopener" href="https://github.com/zsh-users/zsh-autosuggestions">zsh-autosuggestions</a></h3>
+<h3 id="zsh-autosuggestions-2"><a target="_blank" rel="noopener" href="https://github.com/zsh-users/zsh-autosuggestions">zsh-autosuggestions</a></h3>
 <p>作用是根据历史输入命令的记录即时的提示（建议补全），然后按 → 键即可补全。*</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git clone --depth=1 https://github.com/zsh-users/zsh-autosuggestions.git /etc/oh-my-zsh/custom/plugins/zsh-autosuggestions</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">注意：以下命令包含变量需要当前用户 .zshrc 配置后才有效</span></span><br><span class="line"><span class="meta prompt_">#</span><span class="language-bash">git <span class="built_in">clone</span> --depth=1 https://github.com/zsh-users/zsh-autosuggestions.git <span class="variable">$&#123;ZSH_CUSTOM:-<span class="variable">$&#123;ZSH:-~/.oh-my-zsh&#125;</span>/custom&#125;</span>/plugins/zsh-autosuggestions</span></span><br></pre></td></tr></table></figure>
 <p>编辑 <code>/etc/skel/.zshrc</code>，找到 plugins=(git) 这一行，修改为：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">plugins=(</span><br><span class="line">    git</span><br><span class="line">    # other plugins...</span><br><span class="line">    zsh-autosuggestions</span><br><span class="line">)</span><br></pre></td></tr></table></figure>
-<h3 id="Incremental-completion-on-zsh">Incremental completion on zsh</h3>
+<h3 id="Incremental-completion-on-zsh-2">Incremental completion on zsh</h3>
 <p>增强的实时自动命令补全插件：<a target="_blank" rel="noopener" href="https://mimosa-pudica.net/zsh-incremental.html">Incremental completion on zsh</a></p>
 <blockquote>
 <p>该插件对性能似乎有一点点影响，请根据需要启用。</p>
@@ -633,7 +633,7 @@
 </li>
 </ul>
 <p><strong>参考：创建管理员账号的正确姿势（默认配置）。</strong></p>
-<p>在 visudo (/etc/sudoers）默认配置下，创建管理员账号的命令如下：</p>
+<p>在 visudo (/etc/sudoers) 默认配置下，创建管理员账号的命令如下：</p>
 <p>CentOS：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">useradd -m -s /bin/zsh -G wheel sysin  #sysin 为用户名</span><br><span class="line">passwd sysin  #为 sysin 设置密码</span><br></pre></td></tr></table></figure>
 <p>Ubuntu：</p>
@@ -827,7 +827,7 @@
         <div id="toc" class="toc-article">
         <strong class="toc-title">目录</strong>
         
-          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%87%86%E5%A4%87-zsh-2"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">准备 zsh</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%85%A8%E5%B1%80%E9%85%8D%E7%BD%AE-zsh-2"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">全局配置 zsh</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%85%A8%E5%B1%80%E9%85%8D%E7%BD%AE%E6%8F%92%E4%BB%B6-2"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">全局配置插件</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#zsh-syntax-highlighting%EF%BC%9A%E8%AF%AD%E6%B3%95%E9%AB%98%E4%BA%AE%E6%8F%92%E4%BB%B6"><span class="toc-nav-number">3.1.</span> <span class="toc-nav-text">zsh-syntax-highlighting：语法高亮插件</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#zsh-completions"><span class="toc-nav-number">3.2.</span> <span class="toc-nav-text">zsh-completions</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#zsh-autosuggestions"><span class="toc-nav-number">3.3.</span> <span class="toc-nav-text">zsh-autosuggestions</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#Incremental-completion-on-zsh"><span class="toc-nav-number">3.4.</span> <span class="toc-nav-text">Incremental completion on zsh</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%BD%BF%E7%94%A8%E7%94%A8%E6%88%B7%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6-2"><span class="toc-nav-number">4.</span> <span class="toc-nav-text">使用用户配置文件</span></a></li></ol>
+          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%87%86%E5%A4%87-zsh-2"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">准备 zsh</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%85%A8%E5%B1%80%E9%85%8D%E7%BD%AE-zsh-2"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">全局配置 zsh</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%85%A8%E5%B1%80%E9%85%8D%E7%BD%AE%E6%8F%92%E4%BB%B6-2"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">全局配置插件</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#zsh-syntax-highlighting%EF%BC%9A%E8%AF%AD%E6%B3%95%E9%AB%98%E4%BA%AE%E6%8F%92%E4%BB%B6"><span class="toc-nav-number">3.1.</span> <span class="toc-nav-text">zsh-syntax-highlighting：语法高亮插件</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#zsh-completions-2"><span class="toc-nav-number">3.2.</span> <span class="toc-nav-text">zsh-completions</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#zsh-autosuggestions-2"><span class="toc-nav-number">3.3.</span> <span class="toc-nav-text">zsh-autosuggestions</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#Incremental-completion-on-zsh-2"><span class="toc-nav-number">3.4.</span> <span class="toc-nav-text">Incremental completion on zsh</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%BD%BF%E7%94%A8%E7%94%A8%E6%88%B7%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6-2"><span class="toc-nav-number">4.</span> <span class="toc-nav-text">使用用户配置文件</span></a></li></ol>
         
         </div>
       </aside>

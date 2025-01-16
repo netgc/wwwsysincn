@@ -1,3 +1,6 @@
+https://sysin.cn/blog/linux-root/
+https://sysin.cn/blog/linux-zsh-all/
+https://sysin.cn/blog/freebsd-zsh-all/
 https://sysin.cn/blog/studio-3t/
 https://sysin.cn/blog/cisco-acisim-6/
 https://sysin.cn/blog/cisco-isr-1000/
@@ -5,6 +8,3 @@ https://sysin.cn/blog/invicti/
 https://sysin.cn/blog/cisco-catalyst-8000/
 https://sysin.cn/blog/cisco-catalyst-8000v/
 https://sysin.cn/blog/cisco-apic-6/
-https://sysin.cn/blog/cisco-aci-16/
-https://sysin.cn/blog/omnissa-secure-email-gateway/
-https://sysin.cn/blog/omnissa-horizon-8/

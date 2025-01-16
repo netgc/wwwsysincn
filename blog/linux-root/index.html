@@ -523,7 +523,7 @@
 <p>将新建用户加入到 sudo 组中即可获得 root 权限，即通过 sudo 命令执行 root 权限的操作（默认需要输入当前用户的密码）：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">usermod -G sudo sysin  #一般使用 -G 修改附加数组即可</span><br></pre></td></tr></table></figure>
 <h2 id="创建管理员账号的正确姿势（默认配置）">创建管理员账号的正确姿势（默认配置）</h2>
-<p>在 visudo (/etc/sudoers）默认配置下，创建管理员账号的命令如下：</p>
+<p>在 visudo (/etc/sudoers) 默认配置下，创建管理员账号的命令如下：</p>
 <p>CentOS：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">useradd -m -s /bin/bash -G wheel sysin  #sysin 为用户名</span><br><span class="line">passwd sysin  #为 sysin 设置密码</span><br></pre></td></tr></table></figure>
 <p>Ubuntu：</p>
@@ -613,7 +613,7 @@
 <p>sudo 不需要密码配置上述部分有所描述。</p>
 </blockquote>
 <h3 id="su-简介">su 简介</h3>
-<p>su：su（英文：switch user，中译：切换用户)，普通用户切换至超级用户、其他用户或临时拥有切换用户的权限，切换需要输入密码；超级用户也可切换至普通用户，以临时低权限身份处理事务，此时无需输入密码。</p>
+<p>su：su（英文：switch user，中译：切换用户），普通用户切换至超级用户、其他用户或临时拥有切换用户的权限，切换需要输入密码；超级用户也可切换至普通用户，以临时低权限身份处理事务，此时无需输入密码。</p>
 <h3 id="sudo-su-用法">sudo su 用法</h3>
 <ul>
 <li>
