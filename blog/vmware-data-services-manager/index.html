@@ -40,21 +40,19 @@
   <meta charset="utf-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
   
-  <meta name="google-site-verification" content="cQdiYmfnUizHR5_mlq5DfwwqcUc7QOET5xiRSYR135k"/>
   
   
-  
-  <meta name="bytedance-verification-code" content="gxLK9s/GZWOg4uM84+f4"/>
+  <meta name="bytedance-verification-code" content="ogpqLENT9c9pWmb2XWie"/>
   
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title> VMware Data Services Manager 2.1 - 数据库管理和数据服务管理 - sysin | 软件与技术分享 | SYStem INside </title>
-  <meta name="description" content=" VMware Data Services Manager 2.1 - 数据库管理和数据服务管理 - sysin | 软件与技术分享 | SYStem INside "/>
-  <meta name="keyword" content=" VMware Data Services Manager 2.1 - 数据库管理和数据服务管理 "/>
+  <title> VMware Data Services Manager 2.2 - 数据库管理和数据服务管理 - sysin | SYStem INside | 软件与技术分享 </title>
+  <meta name="description" content=" VMware Data Services Manager 2.2 - 数据库管理和数据服务管理 - sysin | SYStem INside | 软件与技术分享 "/>
+  <meta name="keyword" content=" VMware Data Services Manager 2.2 - 数据库管理和数据服务管理 "/>
   <link rel="shortcut icon" href="/img/favicon.png"/>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
   <link rel="manifest" href="/site.webmanifest"/>
   <!-- ga & ba script hoook -->
-  <link rel="canonical" href="https://sysin.cn/blog/vmware-data-services-manager/">
+  <link rel="canonical" href="https://sysin.org/blog/vmware-data-services-manager/">
 
   <!-- Place this tag in your head or just before your close body tag. -->
   <!-- <script async="async" defer="defer" src="https://buttons.github.io/buttons.js"></script> -->
@@ -391,11 +389,11 @@
               <a class="tag" href="/tags/#Cloud" title="Cloud">Cloud</a>
               
             </div>
-            <h1>VMware Data Services Manager 2.1 - 数据库管理和数据服务管理</h1>
+            <h1>VMware Data Services Manager 2.2 - 数据库管理和数据服务管理</h1>
             <h2 class="subheading">在 vSphere 环境中按需配置和自动管理 PostgreSQL 和 MySQL 数据库</h2>
             <span class="meta">
               Posted by sysin on
-              2024-10-03
+              2025-01-18
             </span>
 
 
@@ -403,11 +401,11 @@
             <!-- WordCount start -->
             <div class="blank_box"></div>
             <span class="meta">
-              Estimated Reading Time <span class="post-count">4</span> Minutes
+              Estimated Reading Time <span class="post-count">8</span> Minutes
             </span>
             <div class="blank_box"></div>
             <span class="meta">
-              Words <span class="post-count">1.1k</span> In Total
+              Words <span class="post-count">2.2k</span> In Total
             </span>
             <div class="blank_box"></div>
             <!-- WordCount end -->
@@ -466,11 +464,11 @@
         <!-- pageview_count start -->
         
         <div style="color:gray" align="left">
-        更新日期：Thu Oct 03 2024 07:25:38 GMT+0800，阅读量: <span class="waline-pageview-count" />
+        更新日期：Sat Jan 18 2025 13:25:38 GMT+0800，阅读量: <span class="waline-pageview-count" />
         <script type="module">
           import { pageviewCount } from '/js/pageview.mjs';
           pageviewCount({
-            serverURL: 'https://discuss.sysin.cn',
+            serverURL: 'https://discuss.sysin.org',
             path: window.location.pathname,
             // 可选的，用于自定选择器，默认为 `'.waline-pageview-count'`
             // selector: 'waline-pageview-count',
@@ -486,8 +484,8 @@
         
         <!-- toppromotion end -->
 
-        <p>请访问原文链接：<a href="/blog/vmware-data-services-manager/" title="VMware Data Services Manager 2.1 - 数据库管理和数据服务管理">VMware Data Services Manager 2.1 - 数据库管理和数据服务管理</a> 查看最新版。原创作品，转载请保留出处。</p>
-<p>作者主页：<a target="_blank" rel="noopener" href="https://sysin.org">sysin.org</a></p>
+        <p>请访问原文链接：<a href="/blog/vmware-data-services-manager/" title="VMware Data Services Manager 2.2 - 数据库管理和数据服务管理">VMware Data Services Manager 2.2 - 数据库管理和数据服务管理</a> 查看最新版。原创作品，转载请保留出处。</p>
+<p>作者主页：<a href="https://sysin.org">sysin.org</a></p>
 <hr>
 <p>VMware Data Services Manager</p>
 <p>为 IT 组织提供关键的 VMware Cloud Foundation 本机数据服务，这些服务经过企业强化且易于大规模管理。</p>
@@ -587,6 +585,51 @@
 <p>矢量数据库对于 RAG 工作流程变得非常重要。它们可以快速查询数据和实时更新，以增强 LLMs 的输出，而无需对这些 LLMs 进行重新培训，这可能非常昂贵且耗时。这些已成为 GenAI 和 RAG 工作负载的事实上的标准。数据服务管理器通过利用 PostgreSQL 上的 pgvector 来交付和管理矢量数据库。<a target="_blank" rel="noopener" href="https://core.vmware.com/resource/data-modernization-vmware-data-services-manager">阅读参考架构</a></p>
 </li>
 </ul>
+<h2 id="新增功能-44">新增功能</h2>
+<p>VMware Data Services Manager 2.2 | 15 DEC 2024 | Build 24490681</p>
+<p>VMware Data Services Manager 2.2 提供以下功能：</p>
+<ul>
+<li>
+<p><strong>多集群支持高可用性</strong><br>
+以前，在 PostgreSQL 和 MySQL 部署中，高可用性的副本节点被限制在与主节点相同的 vSphere 集群中。借助 VMware Data Services Manager 2.2，高可用性得到了增强，从而在计算集群发生故障时提供更高的弹性和数据持久性。现在，副本部署在同一 vCenter 内的多个 vSphere 集群中，从而确保基础架构更加强大和容错。</p>
+</li>
+<li>
+<p><strong>多站点部署，为 PostgreSQL 数据库启用灾难恢复</strong><br>
+PostgreSQL 数据库的灾难恢复功能允许用户增强弹性并确保业务连续性。它允许在不同的 vCenter 实例或数据中心部署辅助 VMware Data Services Manager，用户可以在其中部署一个备用数据库，以持续从主站点复制数据。如果主站点发生计划外中断或计划关闭，备用数据库可以无缝提升为主状态并进行扩展，以维持运行，同时将停机时间降至最低。此外，此功能还有助于在区域之间迁移数据库，从而实现灵活性。</p>
+</li>
+<li>
+<p><strong>PostgreSQL 主要版本升级</strong><br>
+VMware Data Services Manager 现在支持将 PostgreSQL 数据库集群升级到更新的主要版本，使用户能够利用最新的功能、性能改进和安全增强功能，同时保持运维效率。</p>
+</li>
+<li>
+<p><strong>备份改进 – 删除保护</strong><br>
+VMware Data Services Manager 现在提供增强的备份功能和删除保护功能。即使在数据库删除后，用户也可以在指定的保留期内恢复数据库，从而确保数据安全并最大限度地降低意外丢失的风险。</p>
+</li>
+<li>
+<p><strong>缩减 PostgreSQL 的 VM 类</strong><br>
+VMware Data Services Manager 现在支持缩减 PostgreSQL 数据库的 VM 类，从而灵活地优化资源使用并降低成本。此功能使用户能够调整其数据库基础设施，以适应不断变化的工作负载需求，而不会影响性能或可用性。</p>
+</li>
+<li>
+<p><strong>MinIO 对象存储即服务（技术预览版）</strong><br>
+VMware Data Services Manager 现在引入了 MinIO 作为对象存储服务，提供简化、高效的对象存储管理。借助自带注册表/映像功能，用户可以直接通过 VMware Data Services Manager 部署自定义 MinIO 映像。此功能还允许用户创建和管理多个 Object Store 实例，从而提供更高的灵活性、可扩展性和适应性，以满足不同的存储需求。（目前作为技术预览版提供。</p>
+</li>
+<li>
+<p><strong>证书管理增强功能</strong><br>
+除了标准 RSA 证书外，VMware Data Services Manager 现在还支持 ECDSA 和 Ed25519 证书，从而为数据库提供更安全、更高效的加密选项。该平台还通过 VMware Data Services Manager 用户界面引入了自定义证书管理，从而简化了证书管理。对于数据库，VMware Data Services Manager 支持 ECDSA、Ed25519 和 RSA 证书。对于提供程序，仅支持 RSA 自定义证书。</p>
+</li>
+<li>
+<p><strong>受单个警报影响的数据库的全局视图</strong><br>
+VMware Data Services Manager 现在提供了一个全面的全局视图，允许用户识别和监控受单个警报影响的所有数据库。此功能增强了整个基础架构的可见性，通过将相关的数据库警报整合到一个统一界面中，实现更快的响应时间和更高效的故障排除。</p>
+</li>
+<li>
+<p><strong>通过本地和 LDAP 用户进行 PostgreSQL 数据库身份验证</strong><br>
+VMware Data Services Manager 通过启用对本地和 LDAP 用户身份验证的支持，增强了 PostgreSQL 数据库身份验证。以前，用户只能配置 LDAP 或本地数据库用户。使用 VMware Data Services 2.2，管理员可以同时配置和管理这两种类型的身份验证。</p>
+</li>
+<li>
+<p><strong>日志包 API</strong><br>
+VMware Data Services Manager 用户现在可以从数据库集群中正在运行的节点中的数据库引擎容器中收集日志。该功能通过新的 API 公开。有关 VMware Data Services Manager 2.2.X API 的其他信息，请参见 Broadcom 开发人员门户页面。</p>
+</li>
+</ul>
 <h2 id="学习、评估、实施-2">学习、评估、实施</h2>
 <ul>
 <li>
@@ -594,7 +637,7 @@
 <p>探索技术文档、报告、试用、社区等。</p>
 </li>
 <li>
-<p><a target="_blank" rel="noopener" href="https://docs.vmware.com/en/VMware-Data-Services-Manager/index.html">文档</a></p>
+<p><a target="_blank" rel="noopener" href="https://techdocs.broadcom.com/us/en/vmware-cis/dsm.html">文档</a></p>
 <p>浏览 Data Services Manager 文档，了解有关设置、用户角色、控制台管理等的信息。</p>
 </li>
 </ul>
@@ -602,6 +645,8 @@
 File info: <a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1VW2NgIix0ae5pht7qJks1w?pwd=2wvj">https://pan.baidu.com/s/1VW2NgIix0ae5pht7qJks1w?pwd=2wvj</a></p>
 <p><strong>VMware Data Services Manager</strong> 2.1<br>
 File info: <a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1Eewn9VokqTPA0gelCdMZxw?pwd=kpuk">https://pan.baidu.com/s/1Eewn9VokqTPA0gelCdMZxw?pwd=kpuk</a></p>
+<p><strong>VMware Data Services Manager</strong> 2.2<br>
+File info: <a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1f1rsG3LRx-9HBAE4Pq_6Jw?pwd=pnj9">https://pan.baidu.com/s/1f1rsG3LRx-9HBAE4Pq_6Jw?pwd=pnj9</a></p>
 <p>相关产品：</p>
 <ul>
 <li>
@@ -634,13 +679,9 @@ File info: <a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1Eewn
         <!-- Pager -->
         <ul class="pager">
           
-          <li class="previous">
-            <a href="/blog/cisco-meeting-server-3/" data-toggle="tooltip" data-placement="top" title="Cisco Meeting Server 3.10 - 会议与协作">&larr; Previous Post</a>
-          </li>
-          
           
           <li class="next">
-            <a href="/blog/vmware-aria-operations-for-logs/" data-toggle="tooltip" data-placement="top" title="VMware Aria Operations for Logs 8.18 - 集中式日志管理">Next Post &rarr;</a>
+            <a href="/blog/nexpose-7/" data-toggle="tooltip" data-placement="top" title="Nexpose 7.3.0 for Linux & Windows - 漏洞扫描">Next Post &rarr;</a>
           </li>
           
         </ul>
@@ -729,7 +770,7 @@ File info: <a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1Eewn
   <script type="text/javascript">
       Waline.init({
         el: '#waline',
-        serverURL: 'https://discuss.sysin.cn',
+        serverURL: 'https://discuss.sysin.org',
         login: 'force',
         wordLimit: [3, 300],
         pageSize: 10,
@@ -792,7 +833,7 @@ File info: <a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1Eewn
         <div id="toc" class="toc-article">
         <strong class="toc-title">目录</strong>
         
-          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E7%AE%80%E5%8C%96%E7%9A%84%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%A1%E7%90%86"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">简化的数据库管理</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%BB%E8%A6%81%E7%89%B9%E7%82%B9-5"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">主要特点</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E6%95%B0%E6%8D%AE%E6%9C%8D%E5%8A%A1%E7%AE%A1%E7%90%86%E5%99%A8%E7%9A%84%E7%94%A8%E4%BE%8B"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">数据服务管理器的用例</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%AD%A6%E4%B9%A0%E3%80%81%E8%AF%84%E4%BC%B0%E3%80%81%E5%AE%9E%E6%96%BD-2"><span class="toc-nav-number">4.</span> <span class="toc-nav-text">学习、评估、实施</span></a></li></ol>
+          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E7%AE%80%E5%8C%96%E7%9A%84%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%A1%E7%90%86"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">简化的数据库管理</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%BB%E8%A6%81%E7%89%B9%E7%82%B9-5"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">主要特点</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E6%95%B0%E6%8D%AE%E6%9C%8D%E5%8A%A1%E7%AE%A1%E7%90%86%E5%99%A8%E7%9A%84%E7%94%A8%E4%BE%8B"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">数据服务管理器的用例</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E6%96%B0%E5%A2%9E%E5%8A%9F%E8%83%BD-44"><span class="toc-nav-number">4.</span> <span class="toc-nav-text">新增功能</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%AD%A6%E4%B9%A0%E3%80%81%E8%AF%84%E4%BC%B0%E3%80%81%E5%AE%9E%E6%96%BD-2"><span class="toc-nav-number">5.</span> <span class="toc-nav-text">学习、评估、实施</span></a></li></ol>
         
         </div>
       </aside>
@@ -1034,7 +1075,7 @@ https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
 <!-- <script> async ("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js", function () { hljs.initHighlightingOnLoad(); }) </script> <link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet"> -->
 
 <!-- jquery.tagcloud.js -->
-<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.cn/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
+<!-- <script> // only load tagcloud.js in tag.html if ($('#tag_cloud').length !== 0) { async ("https://sysin.org/js/jquery.tagcloud.js", function () { $.fn.tagcloud.defaults = { // size: { start: 1, end: 1, unit: 'em' }, color: {
 start: '#bbbbee', end: '#0085a1' } }; $('#tag_cloud a').tagcloud(); }) } </script> -->
 
 
