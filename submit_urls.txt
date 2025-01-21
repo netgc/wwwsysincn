@@ -1,10 +1,10 @@
+https://sysin.cn/blog/cisco-nexus-9000/
+https://sysin.cn/blog/cisco-aci-16/
+https://sysin.cn/blog/devices-unsupported-in-esxi-8/
+https://sysin.cn/blog/vmware-tools-13/
+https://sysin.cn/blog/cisco-nx-os-10/
 https://sysin.cn/blog/cisco-nexus-9000v/
 https://sysin.cn/blog/coreldraw/
 https://sysin.cn/blog/mobaxterm/
-https://sysin.cn/blog/vmware-tools-13/
 https://sysin.cn/blog/cisco-asa/
 https://sysin.cn/blog/cisco-asav/
-https://sysin.cn/blog/cisco-catalyst-9800/
-https://sysin.cn/blog/cisco-catalyst-9800-cl/
-https://sysin.cn/blog/cisco-apic-6/
-https://sysin.cn/blog/cisco-aci-16/

@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.cn/blog/cisco-nexus-9000/</loc>
+    
+    <lastmod>2025-01-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/cisco-aci-16/</loc>
+    
+    <lastmod>2025-01-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/devices-unsupported-in-esxi-8/</loc>
+    
+    <lastmod>2025-01-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/vmware-tools-13/</loc>
+    
+    <lastmod>2025-01-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/cisco-nx-os-10/</loc>
+    
+    <lastmod>2025-01-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.cn/blog/cisco-nexus-9000v/</loc>
     
     <lastmod>2025-01-21</lastmod>
@@ -21,15 +66,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/mobaxterm/</loc>
-    
-    <lastmod>2025-01-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/vmware-tools-13/</loc>
     
     <lastmod>2025-01-21</lastmod>
     
@@ -83,25 +119,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/cisco-aci-16/</loc>
-    
-    <lastmod>2025-01-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/cisco-catalyst-8000v/</loc>
-    
-    <lastmod>2025-01-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/cisco-nexus-9000/</loc>
     
     <lastmod>2025-01-19</lastmod>
     
@@ -3269,7 +3287,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/cisco-sma-15/</loc>
+    <loc>https://sysin.cn/blog/cisco-secure-network-analytics/</loc>
     
     <lastmod>2024-11-28</lastmod>
     
@@ -3278,7 +3296,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/cisco-secure-network-analytics/</loc>
+    <loc>https://sysin.cn/blog/cisco-sma-15/</loc>
     
     <lastmod>2024-11-28</lastmod>
     
@@ -6680,15 +6698,6 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/cisco-nx-os-10/</loc>
-    
-    <lastmod>2024-10-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sysin.cn/blog/cisco-nx-os-9/</loc>
     
     <lastmod>2024-10-29</lastmod>
@@ -7230,15 +7239,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/cisco-firepower-1000/</loc>
-    
-    <lastmod>2024-10-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/devices-unsupported-in-esxi-8/</loc>
     
     <lastmod>2024-10-29</lastmod>
     
@@ -7817,14 +7817,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Windows/</loc>
+    <loc>https://sysin.cn/tags/Security/</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Security/</loc>
+    <loc>https://sysin.cn/tags/Windows/</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -7936,6 +7936,20 @@
   </url>
   
   <url>
+    <loc>https://sysin.cn/tags/Kubernetes/</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/tags/SSL/</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.cn/tags/Chrome/</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -7951,20 +7965,6 @@
   
   <url>
     <loc>https://sysin.cn/tags/Safari/</loc>
-    <lastmod>2025-01-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/tags/Kubernetes/</loc>
-    <lastmod>2025-01-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/tags/SSL/</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
