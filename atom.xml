@@ -6,7 +6,7 @@
   <link href="https://sysin.org/atom.xml" rel="self"/>
   
   <link href="https://sysin.org/"/>
-  <updated>2025-01-21T02:41:02.704Z</updated>
+  <updated>2025-01-22T03:02:54.845Z</updated>
   <id>https://sysin.org/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://sysin.org/">sysin</generator>
+  
+  <entry>
+    <title>CrossOver 24.0.6 for macOS &amp; Linux - 在 macOS 和 Linux 上运行 Windows 应用</title>
+    <link href="https://sysin.org/blog/crossover/"/>
+    <id>https://sysin.org/blog/crossover/</id>
+    <published>2025-01-22T01:11:00.000Z</published>
+    <updated>2025-01-22T03:02:54.845Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/crossover/&quot; title=&quot;CrossOver 24.0.6 for macOS &amp;amp; Linux - 在 macOS 和 Linux 上运行 Windows 应用&quot;&gt;CrossOver 24.0.6 for macOS &amp;amp; Linux - 在 macOS 和 Linux 上运行 Windows 应用&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
+    
+    
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    
+  </entry>
   
   <entry>
     <title>Cisco Nexus 9000v Switch, NX-OS Release 10.5(2)F</title>
@@ -858,31 +885,6 @@
     <category term="Citrix" scheme="https://sysin.org/tags/Citrix/"/>
     
     <category term="ADC" scheme="https://sysin.org/tags/ADC/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>openEuler 24.03 LTS SP1 - EulerOS 开源版 | 华为 RHEL 兼容增强发行版</title>
-    <link href="https://sysin.org/blog/openeuler-2403/"/>
-    <id>https://sysin.org/blog/openeuler-2403/</id>
-    <published>2025-01-02T01:30:23.000Z</published>
-    <updated>2025-01-02T08:25:03.774Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/openeuler/&quot; title=&quot;openEuler LTS 下载 - EulerOS 开源版 | 华为 RHEL 兼容增强发行版&quot;&gt;openEuler LTS 下载 - EulerOS 开源版 | 华为 RHEL 兼容增强发行版&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Linux" scheme="https://sysin.org/categories/Linux/"/>
-    
-    
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
     
   </entry>
   

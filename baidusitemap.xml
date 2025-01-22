@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/crossover/</loc>
+    <lastmod>2025-01-22</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/windows-server-2022-ovf/</loc>
+    <lastmod>2025-01-22</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/cisco-apic-6/</loc>
+    <lastmod>2025-01-21</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/cisco-nexus-9000/</loc>
     <lastmod>2025-01-21</lastmod>
   </url>
@@ -46,10 +58,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/cisco-catalyst-9800-cl/</loc>
-    <lastmod>2025-01-19</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/cisco-apic-6/</loc>
     <lastmod>2025-01-19</lastmod>
   </url>
   <url>
@@ -409,10 +417,6 @@
     <lastmod>2024-12-29</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/windows-server-2022-ovf/</loc>
-    <lastmod>2024-12-29</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/windows-server-2019-ovf/</loc>
     <lastmod>2024-12-29</lastmod>
   </url>
@@ -753,11 +757,11 @@
     <lastmod>2024-12-22</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/almalinux-9-ovf/</loc>
+    <loc>https://sysin.org/blog/almalinux-9-aarch64-ovf/</loc>
     <lastmod>2024-12-22</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/almalinux-9-aarch64-ovf/</loc>
+    <loc>https://sysin.org/blog/almalinux-9-ovf/</loc>
     <lastmod>2024-12-22</lastmod>
   </url>
   <url>
@@ -1983,10 +1987,6 @@
   <url>
     <loc>https://sysin.org/blog/how-to-change-file-date/</loc>
     <lastmod>2024-11-13</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/crossover/</loc>
-    <lastmod>2024-11-12</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/ssms/</loc>
