@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.cn/blog/vmware-esxi-8-u3-sysin/</loc>
+    <lastmod>2025-01-23</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.cn/blog/cisco-secure-client-5/</loc>
+    <lastmod>2025-01-23</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.cn/blog/cisco-asav/</loc>
     <lastmod>2025-01-23</lastmod>
   </url>
@@ -10,10 +18,6 @@
   </url>
   <url>
     <loc>https://sysin.cn/blog/vmware-esxi-7-u3-sysin/</loc>
-    <lastmod>2025-01-23</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/vmware-esxi-8-u3-sysin/</loc>
     <lastmod>2025-01-23</lastmod>
   </url>
   <url>
@@ -1137,11 +1141,11 @@
     <lastmod>2024-12-09</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/adobe-photoshop-elements/</loc>
+    <loc>https://sysin.cn/blog/adobe-premiere-elements/</loc>
     <lastmod>2024-12-09</lastmod>
   </url>
   <url>
-    <loc>https://sysin.cn/blog/adobe-premiere-elements/</loc>
+    <loc>https://sysin.cn/blog/adobe-photoshop-elements/</loc>
     <lastmod>2024-12-09</lastmod>
   </url>
   <url>
@@ -1354,10 +1358,6 @@
   </url>
   <url>
     <loc>https://sysin.cn/blog/pan-os-11/</loc>
-    <lastmod>2024-11-30</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.cn/blog/cisco-secure-client-5/</loc>
     <lastmod>2024-11-30</lastmod>
   </url>
   <url>

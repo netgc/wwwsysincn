@@ -405,11 +405,11 @@
             <!-- WordCount start -->
             <div class="blank_box"></div>
             <span class="meta">
-              Estimated Reading Time <span class="post-count">35</span> Minutes
+              Estimated Reading Time <span class="post-count">42</span> Minutes
             </span>
             <div class="blank_box"></div>
             <span class="meta">
-              Words <span class="post-count">7.6k</span> In Total
+              Words <span class="post-count">8.8k</span> In Total
             </span>
             <div class="blank_box"></div>
             <!-- WordCount end -->
@@ -491,6 +491,7 @@
         <p>请访问原文链接：<a href="/blog/vmware-esxi-8-u3-sysin/" title="VMware ESXi 8.0U3c macOS Unlocker &amp; OEM BIOS 2.7 集成网卡驱动和 NVMe 驱动 (集成驱动版)">VMware ESXi 8.0U3c macOS Unlocker &amp; OEM BIOS 2.7 集成网卡驱动和 NVMe 驱动 (集成驱动版)</a> 查看最新版。原创作品，转载请保留出处。</p>
 <p>作者主页：<a target="_blank" rel="noopener" href="https://sysin.org">sysin.org</a></p>
 <hr>
+<p>2025-01-23，新增 Intel 网卡特殊定制版，增加 80 多款网卡，此版本通常配合 OEM 版定制。</p>
 <p>2024-12-12，ESXi 8.0U3c 发布，本站同步更新。</p>
 <p>2024-09-18，ESXi 8.0U3b 发布，本站同步更新。</p>
 <p>2024-09-01，更新 OEM BIOS 2.7，现已支持 Windows Server 2025。</p>
@@ -1751,6 +1752,732 @@ CPU_SUPPORT_WARNING: The CPUs in this host may not be supported in future ESXi r
 </tbody>
 </table>
 <p>备注：AQC113、AQC114 和 AQC115 暂不受支持。</p>
+<h3 id="Intel-网卡特殊定制版">Intel 网卡特殊定制版</h3>
+<p>此特殊定制版增加如下网卡支持。</p>
+<p>另外，这些网卡通常为品牌服务器配件，通常用于 OEM 版本的特殊定制版，可访问如下链接定制：</p>
+<ul>
+<li>
+<a href="/blog/vmware-esxi-8-u3-oem/" title="VMware ESXi 8.0U3c macOS Unlocker &amp; OEM BIOS 2.7 标准版和厂商定制版">VMware ESXi 8.0U3c macOS Unlocker &amp; OEM BIOS 2.7 标准版和厂商定制版</a>
+</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Brand Name</th>
+<th>Model</th>
+<th><strong>VID</strong></th>
+<th>DID</th>
+<th>SVID</th>
+<th>SSID</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>xFusion Digital Technologies Co., Ltd</td>
+<td>2*GE Copper with 10GBASE-T X722 LOM</td>
+<td>8086</td>
+<td>37d1</td>
+<td>1f24</td>
+<td>200f</td>
+</tr>
+<tr>
+<td>xFusion Digital Technologies Co., Ltd</td>
+<td>2*10GE Copper X722 LOM</td>
+<td>8086</td>
+<td>37d1</td>
+<td>1f24</td>
+<td>200f</td>
+</tr>
+<tr>
+<td>xFusion Digital Technologies Co., Ltd</td>
+<td>2*10GE KR X722 LOM</td>
+<td>8086</td>
+<td>37ce</td>
+<td>1f24</td>
+<td>2f2a</td>
+</tr>
+<tr>
+<td>Stratus Technologies</td>
+<td>Ethernet Controller X710 for 10GbE SFP+ (U117)</td>
+<td>8086</td>
+<td>1572</td>
+<td>8086</td>
+<td>0007</td>
+</tr>
+<tr>
+<td>IBM</td>
+<td>Intel Ethernet Network Adapter E810-XXVDA4</td>
+<td>8086</td>
+<td>1593</td>
+<td>8086</td>
+<td>0005</td>
+</tr>
+<tr>
+<td>IEIT SYSTEMS Co., Ltd.</td>
+<td>Intel® Ethernet Network Adapter E810-XXVDA4</td>
+<td>8086</td>
+<td>1593</td>
+<td>8086</td>
+<td>0007</td>
+</tr>
+<tr>
+<td>IEIT SYSTEMS Co., Ltd.</td>
+<td>Intel E810-XXVDA4 Ethernet 10/25Gb 4-port SFP28 OCP3 Adapter</td>
+<td>8086</td>
+<td>1593</td>
+<td>8086</td>
+<td>000c</td>
+</tr>
+<tr>
+<td>IEIT SYSTEMS Co., Ltd.</td>
+<td>Intel® Ethernet Network Adapter E810-XXVDA4</td>
+<td>8086</td>
+<td>1593</td>
+<td>8086</td>
+<td>0005</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel 82580 Gigabit Network Connection</td>
+<td>8086</td>
+<td>150e</td>
+<td>0000</td>
+<td>0000</td>
+</tr>
+<tr>
+<td>HP</td>
+<td>Ethernet I210-T1 GbE NIC</td>
+<td>8086</td>
+<td>1533</td>
+<td>103c</td>
+<td>0003</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel Corporation I210 Gigabit Backplane Connection</td>
+<td>8086</td>
+<td>1537</td>
+<td>ffff</td>
+<td>0000</td>
+</tr>
+<tr>
+<td>Dell</td>
+<td>Intel GbE 4P I350c rNDC</td>
+<td>8086</td>
+<td>1521</td>
+<td>1028</td>
+<td>1f60</td>
+</tr>
+<tr>
+<td>Dell</td>
+<td>Intel Gigabit 4P X520/I350 rNDC</td>
+<td>8086</td>
+<td>1521</td>
+<td>1028</td>
+<td>1f73</td>
+</tr>
+<tr>
+<td>Dell</td>
+<td>Intel Ethernet 10G 4P X540/I350 rNDC</td>
+<td>8086</td>
+<td>1528</td>
+<td>1028</td>
+<td>1f61</td>
+</tr>
+<tr>
+<td>Dell</td>
+<td>Intel GbE 2P I350c rNDC</td>
+<td>8086</td>
+<td>1521</td>
+<td>1028</td>
+<td>1f62</td>
+</tr>
+<tr>
+<td>Dell</td>
+<td>Intel® Ethernet 10G 4P X520/I350 rNDC</td>
+<td>8086</td>
+<td>10fb</td>
+<td>1028</td>
+<td>1f72</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel Ethernet Server Adapter I350-T2</td>
+<td>8086</td>
+<td>1522</td>
+<td>0000</td>
+<td>0000</td>
+</tr>
+<tr>
+<td>Lenovo</td>
+<td>Intel I350-T4 4xGbE BaseT Adapter for IBM System x (00AG520)</td>
+<td>8086</td>
+<td>1521</td>
+<td>8086</td>
+<td>00a1</td>
+</tr>
+<tr>
+<td>Lenovo</td>
+<td>Intel I350-T2 2xGbE BaseT Adapter for IBM System x (00AG510)</td>
+<td>8086</td>
+<td>1521</td>
+<td>8086</td>
+<td>00a2</td>
+</tr>
+<tr>
+<td>Lenovo</td>
+<td>Intel I350-F1 1xGbE Fiber Adapter for IBM System x (00AG500)</td>
+<td>8086</td>
+<td>1522</td>
+<td>8086</td>
+<td>0005</td>
+</tr>
+<tr>
+<td>Stratus Technologies</td>
+<td>I350 Gigabit Network Connection</td>
+<td>8086</td>
+<td>1521</td>
+<td>1bcf</td>
+<td>804e</td>
+</tr>
+<tr>
+<td>IEIT SYSTEMS Co., Ltd.</td>
+<td>F102I82599(PCIe x8)</td>
+<td>8086</td>
+<td>10fb</td>
+<td>0067</td>
+<td>1bd4</td>
+</tr>
+<tr>
+<td>IEIT SYSTEMS Co., Ltd.</td>
+<td>F102I82599</td>
+<td>8086</td>
+<td>10fb</td>
+<td>1bd4</td>
+<td>0032</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel 82599 10 Gigabit Dual Port Network Connection</td>
+<td>8086</td>
+<td>10fc</td>
+<td>0000</td>
+<td>0000</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel 82599 10 Gigabit Dual Port Backplane Connection</td>
+<td>8086</td>
+<td>10f8</td>
+<td>0000</td>
+<td>0000</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>82599EB 10 Gigabit Network Connection</td>
+<td>8086</td>
+<td>1507</td>
+<td>0000</td>
+<td>0000</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel 82599EB 10 Gigabit TN Network Connection</td>
+<td>8086</td>
+<td>151c</td>
+<td>0000</td>
+<td>0000</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel 82599 10 Gigabit Dual Port Network Connection with FCoE</td>
+<td>8086</td>
+<td>1529</td>
+<td>0000</td>
+<td>0000</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>82599EB 10 Gigabit Network Connection</td>
+<td>8086</td>
+<td>10fb</td>
+<td>0000</td>
+<td>0000</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel 82599 10 Gigabit Dual Port Network Connection</td>
+<td>8086</td>
+<td>10fb</td>
+<td>1028</td>
+<td>06ee</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel 82599 10 Gigabit Dual Port Backplane Connection with FCoE</td>
+<td>8086</td>
+<td>152a</td>
+<td>0000</td>
+<td>0000</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>82599EB 10 Gigabit Network Connection</td>
+<td>8086</td>
+<td>10fb</td>
+<td>8086</td>
+<td>0000</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>82599ES 10 Gigabit Network Connection</td>
+<td>8086</td>
+<td>1517</td>
+<td>0000</td>
+<td>0000</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel 82599 10 Gigabit Network Connection</td>
+<td>8086</td>
+<td>1557</td>
+<td>0000</td>
+<td>0000</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel 82599 10 Gigabit Dual Port Network Connection</td>
+<td>8086</td>
+<td>10fb</td>
+<td>0000</td>
+<td>0000</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel 82599 10 Gigabit CX4 Dual Port Network Connection</td>
+<td>8086</td>
+<td>10f9</td>
+<td>0000</td>
+<td>0000</td>
+</tr>
+<tr>
+<td>Quanta Computer Inc.</td>
+<td>ON 10GbE 82599ES</td>
+<td>8086</td>
+<td>10fb</td>
+<td>152d</td>
+<td>89d1</td>
+</tr>
+<tr>
+<td>Stratus Technologies</td>
+<td>82599EB 10 Gigabit Network Connection</td>
+<td>8086</td>
+<td>10fb</td>
+<td>8086</td>
+<td>0006</td>
+</tr>
+<tr>
+<td>Dell</td>
+<td>Intel Ethernet X520 10GbE Dual Port KX4-KR Mezz</td>
+<td>8086</td>
+<td>10f8</td>
+<td>8086</td>
+<td>000c</td>
+</tr>
+<tr>
+<td>Dell</td>
+<td>Intel® Ethernet 10G X520 LOM</td>
+<td>8086</td>
+<td>10fb</td>
+<td>1028</td>
+<td>06ee</td>
+</tr>
+<tr>
+<td>Dell</td>
+<td>Intel® Ethernet 10G 4P X520/I350 rNDC</td>
+<td>8086</td>
+<td>10fb</td>
+<td>1028</td>
+<td>1f72</td>
+</tr>
+<tr>
+<td>Dell</td>
+<td>Intel Ethernet Server Adapter X520-T2</td>
+<td>8086</td>
+<td>151c</td>
+<td>8086</td>
+<td>a03c</td>
+</tr>
+<tr>
+<td>Dell</td>
+<td>Intel Ethernet X520 10GbE Dual Port KX4 Mezz</td>
+<td>8086</td>
+<td>1514</td>
+<td>8086</td>
+<td>000b</td>
+</tr>
+<tr>
+<td>Dell</td>
+<td>Intel Ethernet Server Adapter X520-2</td>
+<td>8086</td>
+<td>10fb</td>
+<td>8086</td>
+<td>7a11</td>
+</tr>
+<tr>
+<td>Dell</td>
+<td>Intel Ethernet 10G 2P X520 Adapter</td>
+<td>8086</td>
+<td>154d</td>
+<td>8086</td>
+<td>7b11</td>
+</tr>
+<tr>
+<td>Dell</td>
+<td>Intel Gigabit 4P X520/I350 rNDC</td>
+<td>8086</td>
+<td>1521</td>
+<td>1028</td>
+<td>1f73</td>
+</tr>
+<tr>
+<td>Dell</td>
+<td>Intel Ethernet 10G 2P x520-k bNDC</td>
+<td>8086</td>
+<td>10f8</td>
+<td>1028</td>
+<td>1f63</td>
+</tr>
+<tr>
+<td>IBM</td>
+<td>Intel® Ethernet 10GSFP+ DP Embedded CNA X520-2</td>
+<td>8086</td>
+<td>10fb</td>
+<td>8086</td>
+<td>0470</td>
+</tr>
+<tr>
+<td>IBM</td>
+<td>Intel Ethernet Mezzanine Adapter X520-KX4-2</td>
+<td>8086</td>
+<td>10f7</td>
+<td>8086</td>
+<td>000d</td>
+</tr>
+<tr>
+<td>IBM</td>
+<td>Intel® Ethernet Server Adapter X520-2 (49Y7960)</td>
+<td>8086</td>
+<td>10fb</td>
+<td>8086</td>
+<td>7a12</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Ethernet X520 10GbE Dual Port KX4 Mezz</td>
+<td>8086</td>
+<td>1514</td>
+<td>0000</td>
+<td>0000</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel® Ethernet OCP Server Adapter X520-2</td>
+<td>8086</td>
+<td>10fb</td>
+<td>8086</td>
+<td>0008</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel® Ethernet OCP Server Adapter X520-1</td>
+<td>8086</td>
+<td>1557</td>
+<td>8086</td>
+<td>0001</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel Ethernet Server Adapter X520-LR1</td>
+<td>8086</td>
+<td>10fb</td>
+<td>0000</td>
+<td>0000</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Ethernet 10G 2P X520 Adapter</td>
+<td>8086</td>
+<td>154d</td>
+<td>0000</td>
+<td>0000</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel Ethernet Server Adapter X520-SR1</td>
+<td>8086</td>
+<td>10fb</td>
+<td>0000</td>
+<td>0000</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel® Ethernet Converged Network Adapter X520-Q1</td>
+<td>8086</td>
+<td>10fb</td>
+<td>8086</td>
+<td>011b</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel® Ethernet Converged Network Adapter X520-4</td>
+<td>8086</td>
+<td>10fb</td>
+<td>8086</td>
+<td>011a</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel® Ethernet Converged Network Adapter X520-DA1</td>
+<td>8086</td>
+<td>10fb</td>
+<td>8086</td>
+<td>000c</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel® Ethernet Server Adapter X520-1</td>
+<td>8086</td>
+<td>10fb</td>
+<td>8086</td>
+<td>0006</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel® Ethernet Converged Network Adapter X520-4</td>
+<td>8086</td>
+<td>10fb</td>
+<td>8086</td>
+<td>011c</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Ethernet Express Module X520-P2</td>
+<td>8086</td>
+<td>1507</td>
+<td>0000</td>
+<td>0000</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel® Ethernet Server Adapter X520-DA2</td>
+<td>8086</td>
+<td>10fb</td>
+<td>8086</td>
+<td>0002</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Ethernet Converged Network Adapter X520-Q1</td>
+<td>8086</td>
+<td>1558</td>
+<td>0000</td>
+<td>0000</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel® Ethernet Converged Network Adapter X520-SR2, OEM Gen</td>
+<td>8086</td>
+<td>10fb</td>
+<td>8086</td>
+<td>000c</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel® Ethernet Converged Network Adapter X520-4</td>
+<td>8086</td>
+<td>10fb</td>
+<td>8086</td>
+<td>011b</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel Ethernet Server Adapter X520-DA2</td>
+<td>8086</td>
+<td>10fb</td>
+<td>0000</td>
+<td>0000</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel Ethernet Server Adapter X520-SR2</td>
+<td>8086</td>
+<td>10fb</td>
+<td>0000</td>
+<td>0000</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel® Ethernet Server Adapter X520-2</td>
+<td>8086</td>
+<td>10fb</td>
+<td>8086</td>
+<td>0003</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel Ethernet Server Adapter X520-T2</td>
+<td>8086</td>
+<td>151c</td>
+<td>0000</td>
+<td>0000</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel® Ethernet Converged Network Adapter X520-Q1</td>
+<td>8086</td>
+<td>10fb</td>
+<td>8086</td>
+<td>011a</td>
+</tr>
+<tr>
+<td>Lenovo</td>
+<td>Lenovo ThinkServer X520-2 AnyFabric</td>
+<td>8086</td>
+<td>10fb</td>
+<td>17aa</td>
+<td>1071</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Dual Port Intel® X540 10GbE I/O Module AXX10GBTWLHW3</td>
+<td>8086</td>
+<td>1528</td>
+<td>8086</td>
+<td>355b</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Dual Port Intel® X540-BT2 10GbE I/O Module AXX10GBTWLIOM</td>
+<td>8086</td>
+<td>1528</td>
+<td>8086</td>
+<td>3558</td>
+</tr>
+<tr>
+<td>Stratus Technologies</td>
+<td>Ethernet Controller 10G X550</td>
+<td>8086</td>
+<td>1563</td>
+<td>1bcf</td>
+<td>8074</td>
+</tr>
+<tr>
+<td>Dell</td>
+<td>Intel Ethernet 10G 2P X540-t Adapter</td>
+<td>8086</td>
+<td>1528</td>
+<td>8086</td>
+<td>5003</td>
+</tr>
+<tr>
+<td>Dell</td>
+<td>Intel Ethernet 10G 4P X540/I350 rNDC</td>
+<td>8086</td>
+<td>1528</td>
+<td>1028</td>
+<td>1f61</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel Ethernet Controller 10 Gigabit X540-AT2</td>
+<td>8086</td>
+<td>1528</td>
+<td>0000</td>
+<td>0000</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel Ethernet Converged Network Adapter X540-T1</td>
+<td>8086</td>
+<td>1528</td>
+<td>0000</td>
+<td>0000</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel Ethernet Server Adapter X540-T2</td>
+<td>8086</td>
+<td>1528</td>
+<td>0000</td>
+<td>0000</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel X540 ML2 Dual Port 10GbaseT Adapter for IBM System x (00D1994)</td>
+<td>8086</td>
+<td>1528</td>
+<td>8086</td>
+<td>0000</td>
+</tr>
+<tr>
+<td>IBM</td>
+<td>Intel X540-T2 Dual Port 10GBaseT Adapter for IBM System x (49Y7970)</td>
+<td>8086</td>
+<td>1528</td>
+<td>8086</td>
+<td>001a</td>
+</tr>
+<tr>
+<td>IBM</td>
+<td>Intel® Ethernet 10GBT DP Embedded CNA X540-T2</td>
+<td>8086</td>
+<td>1528</td>
+<td>8086</td>
+<td>0471</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel® Ethernet Controller X540-AT1</td>
+<td>8086</td>
+<td>1560</td>
+<td>0000</td>
+<td>0000</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel® Ethernet Converged Network Adapter X540-T1</td>
+<td>8086</td>
+<td>1528</td>
+<td>8086</td>
+<td>00a2</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel® Ethernet Converged Network Adapter X540-T2</td>
+<td>8086</td>
+<td>1528</td>
+<td>8086</td>
+<td>001a</td>
+</tr>
+<tr>
+<td>Intel Corporation</td>
+<td>Intel® Ethernet Converged Network Adapter X540-T2</td>
+<td>8086</td>
+<td>1528</td>
+<td>8086</td>
+<td>0001</td>
+</tr>
+<tr>
+<td>Lenovo</td>
+<td>Lenovo ThinkServer X540-T2 AnyFabric</td>
+<td>8086</td>
+<td>1528</td>
+<td>17aa</td>
+<td>1073</td>
+</tr>
+</tbody>
+</table>
 <h3 id="NVMe-驱动特殊定制版-4">NVMe 驱动特殊定制版</h3>
 <p>可以增加已经被 ESXi 8.0 弃用，但是可以验证在 ESXi 6.x 或者 7.0 中受支持的 NVMe 驱动。此项需要额外定制。</p>
 <p>ESXi 版本的更新，总是伴随着部分硬件被弃用，通常是在大版本中，当然也可能在某些 Update 版本中。只要能验证在旧版中（6.x 或者 7.0 的任意版本）受支持，在 8.0 系列版本中就有机会获得支持。这些可能是一些消费品牌的 SSD，当然也包括数据中心级 SSD。</p>
@@ -1924,7 +2651,7 @@ CPU_SUPPORT_WARNING: The CPUs in this host may not be supported in future ESXi r
 <p>1️⃣2️⃣ <a href="/blog/create-bootable-esxi-usb-installer/" title="如何创建可引导的 ESXi USB 安装介质 (macOS, Linux, Windows)">如何创建可引导的 ESXi USB 安装介质 (macOS, Linux, Windows)</a></p>
 <p>1️⃣3️⃣ <a href="/blog/how-to-get-vendorid-deviceid/" title="如何查看设备的 VendorID 和 DeviceID">如何查看设备的 VendorID 和 DeviceID</a></p>
 <p>1️⃣4️⃣ <a href="/blog/intel-core-14th-gen-cpu-for-esxi/" title="Intel 最新发布的第 14 代酷睿处理器全面支持 ESXi 8.0">Intel 最新发布的第 14 代酷睿处理器全面支持 ESXi 8.0</a></p>
-<h2 id="下载地址-482">下载地址</h2>
+<h2 id="下载地址-503">下载地址</h2>
 <p><img src="/blog/vmware-esxi-8-sysin/esxi-8-u3-sysin-image-profile.webp" alt="ImageProfile"><br>
 <em>ImageProfile Name：ESXi-8.0U3-24022510-SYSIN，Vendor：<a target="_blank" rel="noopener" href="http://sysin.org">sysin.org</a>，AcceptanceLevel：CommunitySupported</em></p>
 <p><strong>VMware ESXi 8.0U3 Unlocker &amp; OEM BIOS 集成网卡驱动和 NVMe 驱动 (集成驱动版)</strong>：</p>
@@ -2181,7 +2908,7 @@ CPU_SUPPORT_WARNING: The CPUs in this host may not be supported in future ESXi r
         <div id="toc" class="toc-article">
         <strong class="toc-title">目录</strong>
         
-          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E9%80%9A%E7%94%A8%E7%89%B9%E6%80%A7%E6%A6%82%E8%A7%88-8"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">通用特性概览</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E7%9B%B4%E6%8E%A5%E8%BF%90%E8%A1%8C-macOS-Sequoia-2"><span class="toc-nav-number">1.1.</span> <span class="toc-nav-text">直接运行 macOS Sequoia</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#VMware-Dell-2-7-BIOS-EFI64-4"><span class="toc-nav-number">1.2.</span> <span class="toc-nav-text">VMware_Dell_2.7_BIOS-EFI64</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E6%94%AF%E6%8C%81%E4%B8%8D%E5%8F%97%E5%AE%98%E6%96%B9%E6%94%AF%E6%8C%81%E7%9A%84%E6%97%A7%E6%AC%BE-CPU-7"><span class="toc-nav-number">1.3.</span> <span class="toc-nav-text">支持不受官方支持的旧款 CPU</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#ESX-OSData-%E5%8D%B7%E5%A4%A7%E5%B0%8F%E4%BF%AE%E6%94%B9%E4%B8%BA-8G-2"><span class="toc-nav-number">1.4.</span> <span class="toc-nav-text">ESX-OSData 卷大小修改为 8G</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E6%9C%89%E9%99%90%E6%94%AF%E6%8C%81%E7%AC%AC-12-%E4%BB%A3-Intel-CPU-%E6%B7%B7%E5%90%88%E6%9E%B6%E6%9E%84-3"><span class="toc-nav-number">1.5.</span> <span class="toc-nav-text">有限支持第 12 代+ Intel CPU 混合架构</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E9%9B%86%E6%88%90%E7%9A%84%E9%A9%B1%E5%8A%A8-7"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">集成的驱动</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E6%96%B0%E5%A2%9E%E7%BD%91%E5%8D%A1%E5%85%BC%E5%AE%B9%E6%80%A7-4"><span class="toc-nav-number">2.1.</span> <span class="toc-nav-text">新增网卡兼容性</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#Intel-%E7%BD%91%E5%8D%A1%E5%A2%9E%E5%BC%BA%E5%AE%9A%E5%88%B6%E7%89%88-4"><span class="toc-nav-number">2.2.</span> <span class="toc-nav-text">Intel 网卡增强定制版</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E9%9B%86%E6%88%90-NVMe-%E9%A9%B1%E5%8A%A8-6"><span class="toc-nav-number">2.3.</span> <span class="toc-nav-text">集成 NVMe 驱动</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#ConnectX-3-%E7%BD%91%E5%8D%A1%E7%89%B9%E6%AE%8A%E5%AE%9A%E5%88%B6%E7%89%88-4"><span class="toc-nav-number">2.4.</span> <span class="toc-nav-text">ConnectX-3 网卡特殊定制版</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#Marvell-AQC-%E7%BD%91%E5%8D%A1%E7%89%B9%E6%AE%8A%E5%AE%9A%E5%88%B6%E7%89%88-4"><span class="toc-nav-number">2.5.</span> <span class="toc-nav-text">Marvell AQC 网卡特殊定制版</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#NVMe-%E9%A9%B1%E5%8A%A8%E7%89%B9%E6%AE%8A%E5%AE%9A%E5%88%B6%E7%89%88-4"><span class="toc-nav-number">2.6.</span> <span class="toc-nav-text">NVMe 驱动特殊定制版</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%B9%B3%E5%8F%B0%E5%85%BC%E5%AE%B9%E6%80%A7-5"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">平台兼容性</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#Intel-NUC-5"><span class="toc-nav-number">3.1.</span> <span class="toc-nav-text">Intel NUC</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#Apple-Mac-5"><span class="toc-nav-number">3.2.</span> <span class="toc-nav-text">Apple Mac</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%9B%BD%E4%BA%A7%E5%B0%8F%E4%B8%BB%E6%9C%BA-4"><span class="toc-nav-number">3.3.</span> <span class="toc-nav-text">国产小主机</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%85%BC%E5%AE%B9%E6%9C%BA-4"><span class="toc-nav-number">3.4.</span> <span class="toc-nav-text">兼容机</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%85%B6%E4%BB%96%E7%A1%AC%E4%BB%B6-4"><span class="toc-nav-number">3.5.</span> <span class="toc-nav-text">其他硬件</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94-FAQ-10"><span class="toc-nav-number">4.</span> <span class="toc-nav-text">常见问题解答 (FAQ)</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80-482"><span class="toc-nav-number">5.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
+          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E9%80%9A%E7%94%A8%E7%89%B9%E6%80%A7%E6%A6%82%E8%A7%88-8"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">通用特性概览</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E7%9B%B4%E6%8E%A5%E8%BF%90%E8%A1%8C-macOS-Sequoia-2"><span class="toc-nav-number">1.1.</span> <span class="toc-nav-text">直接运行 macOS Sequoia</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#VMware-Dell-2-7-BIOS-EFI64-4"><span class="toc-nav-number">1.2.</span> <span class="toc-nav-text">VMware_Dell_2.7_BIOS-EFI64</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E6%94%AF%E6%8C%81%E4%B8%8D%E5%8F%97%E5%AE%98%E6%96%B9%E6%94%AF%E6%8C%81%E7%9A%84%E6%97%A7%E6%AC%BE-CPU-7"><span class="toc-nav-number">1.3.</span> <span class="toc-nav-text">支持不受官方支持的旧款 CPU</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#ESX-OSData-%E5%8D%B7%E5%A4%A7%E5%B0%8F%E4%BF%AE%E6%94%B9%E4%B8%BA-8G-2"><span class="toc-nav-number">1.4.</span> <span class="toc-nav-text">ESX-OSData 卷大小修改为 8G</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E6%9C%89%E9%99%90%E6%94%AF%E6%8C%81%E7%AC%AC-12-%E4%BB%A3-Intel-CPU-%E6%B7%B7%E5%90%88%E6%9E%B6%E6%9E%84-3"><span class="toc-nav-number">1.5.</span> <span class="toc-nav-text">有限支持第 12 代+ Intel CPU 混合架构</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E9%9B%86%E6%88%90%E7%9A%84%E9%A9%B1%E5%8A%A8-7"><span class="toc-nav-number">2.</span> <span class="toc-nav-text">集成的驱动</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E6%96%B0%E5%A2%9E%E7%BD%91%E5%8D%A1%E5%85%BC%E5%AE%B9%E6%80%A7-4"><span class="toc-nav-number">2.1.</span> <span class="toc-nav-text">新增网卡兼容性</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#Intel-%E7%BD%91%E5%8D%A1%E5%A2%9E%E5%BC%BA%E5%AE%9A%E5%88%B6%E7%89%88-4"><span class="toc-nav-number">2.2.</span> <span class="toc-nav-text">Intel 网卡增强定制版</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E9%9B%86%E6%88%90-NVMe-%E9%A9%B1%E5%8A%A8-6"><span class="toc-nav-number">2.3.</span> <span class="toc-nav-text">集成 NVMe 驱动</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#ConnectX-3-%E7%BD%91%E5%8D%A1%E7%89%B9%E6%AE%8A%E5%AE%9A%E5%88%B6%E7%89%88-4"><span class="toc-nav-number">2.4.</span> <span class="toc-nav-text">ConnectX-3 网卡特殊定制版</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#Marvell-AQC-%E7%BD%91%E5%8D%A1%E7%89%B9%E6%AE%8A%E5%AE%9A%E5%88%B6%E7%89%88-4"><span class="toc-nav-number">2.5.</span> <span class="toc-nav-text">Marvell AQC 网卡特殊定制版</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#Intel-%E7%BD%91%E5%8D%A1%E7%89%B9%E6%AE%8A%E5%AE%9A%E5%88%B6%E7%89%88"><span class="toc-nav-number">2.6.</span> <span class="toc-nav-text">Intel 网卡特殊定制版</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#NVMe-%E9%A9%B1%E5%8A%A8%E7%89%B9%E6%AE%8A%E5%AE%9A%E5%88%B6%E7%89%88-4"><span class="toc-nav-number">2.7.</span> <span class="toc-nav-text">NVMe 驱动特殊定制版</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%B9%B3%E5%8F%B0%E5%85%BC%E5%AE%B9%E6%80%A7-5"><span class="toc-nav-number">3.</span> <span class="toc-nav-text">平台兼容性</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#Intel-NUC-5"><span class="toc-nav-number">3.1.</span> <span class="toc-nav-text">Intel NUC</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#Apple-Mac-5"><span class="toc-nav-number">3.2.</span> <span class="toc-nav-text">Apple Mac</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%9B%BD%E4%BA%A7%E5%B0%8F%E4%B8%BB%E6%9C%BA-4"><span class="toc-nav-number">3.3.</span> <span class="toc-nav-text">国产小主机</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%85%BC%E5%AE%B9%E6%9C%BA-4"><span class="toc-nav-number">3.4.</span> <span class="toc-nav-text">兼容机</span></a></li><li class="toc-nav-item toc-nav-level-3"><a class="toc-nav-link" href="#%E5%85%B6%E4%BB%96%E7%A1%AC%E4%BB%B6-4"><span class="toc-nav-number">3.5.</span> <span class="toc-nav-text">其他硬件</span></a></li></ol></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94-FAQ-10"><span class="toc-nav-number">4.</span> <span class="toc-nav-text">常见问题解答 (FAQ)</span></a></li><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80-503"><span class="toc-nav-number">5.</span> <span class="toc-nav-text">下载地址</span></a></li></ol>
         
         </div>
       </aside>

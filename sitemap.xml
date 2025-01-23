@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.cn/blog/vmware-esxi-8-u3-sysin/</loc>
+    
+    <lastmod>2025-01-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sysin.cn/blog/cisco-secure-client-5/</loc>
+    
+    <lastmod>2025-01-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.cn/blog/cisco-asav/</loc>
     
     <lastmod>2025-01-23</lastmod>
@@ -21,15 +39,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/vmware-esxi-7-u3-sysin/</loc>
-    
-    <lastmod>2025-01-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/vmware-esxi-8-u3-sysin/</loc>
     
     <lastmod>2025-01-23</lastmod>
     
@@ -2558,7 +2567,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/adobe-photoshop-elements/</loc>
+    <loc>https://sysin.cn/blog/adobe-premiere-elements/</loc>
     
     <lastmod>2024-12-09</lastmod>
     
@@ -2567,7 +2576,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/adobe-premiere-elements/</loc>
+    <loc>https://sysin.cn/blog/adobe-photoshop-elements/</loc>
     
     <lastmod>2024-12-09</lastmod>
     
@@ -3045,15 +3054,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/pan-os-11/</loc>
-    
-    <lastmod>2024-11-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/cisco-secure-client-5/</loc>
     
     <lastmod>2024-11-30</lastmod>
     
@@ -7992,14 +7992,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/IOS-XR/</loc>
+    <loc>https://sysin.cn/tags/Router/</loc>
     <lastmod>2025-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Router/</loc>
+    <loc>https://sysin.cn/tags/IOS-XR/</loc>
     <lastmod>2025-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -8118,14 +8118,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/DellEMC/</loc>
+    <loc>https://sysin.cn/tags/Header/</loc>
     <lastmod>2025-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Header/</loc>
+    <loc>https://sysin.cn/tags/DellEMC/</loc>
     <lastmod>2025-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -8517,14 +8517,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/NSX/</loc>
+    <loc>https://sysin.cn/tags/Tanzu/</loc>
     <lastmod>2025-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Tanzu/</loc>
+    <loc>https://sysin.cn/tags/NSX/</loc>
     <lastmod>2025-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
