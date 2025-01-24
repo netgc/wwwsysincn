@@ -6,7 +6,7 @@
   <link href="https://sysin.org/atom.xml" rel="self"/>
   
   <link href="https://sysin.org/"/>
-  <updated>2025-01-23T03:01:36.742Z</updated>
+  <updated>2025-01-24T01:28:58.237Z</updated>
   <id>https://sysin.org/</id>
   
   <author>
@@ -15,6 +15,182 @@
   </author>
   
   <generator uri="https://sysin.org/">sysin</generator>
+  
+  <entry>
+    <title>SonarQube Server 2025.1 LTA - 代码质量、安全与静态分析工具</title>
+    <link href="https://sysin.org/blog/sonarqube/"/>
+    <id>https://sysin.org/blog/sonarqube/</id>
+    <published>2025-01-24T01:25:20.000Z</published>
+    <updated>2025-01-24T01:28:58.237Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/sonarqube/&quot; title=&quot;SonarQube Server 2025.1 LTA - 代码质量、安全与静态分析工具&quot;&gt;SonarQube Server 2025.1 LTA - 代码质量、安全与静态分析工具&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    
+    
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Code" scheme="https://sysin.org/tags/Code/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows Server 2025 中文版、英文版下载 (2025 年 1 月更新)</title>
+    <link href="https://sysin.org/blog/windows-server-2025/"/>
+    <id>https://sysin.org/blog/windows-server-2025/</id>
+    <published>2025-01-24T01:18:15.000Z</published>
+    <updated>2025-01-24T01:25:28.027Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-server-2025/&quot; title=&quot;Windows Server 2025 中文版、英文版下载 (2025 年 1 月更新)&quot;&gt;Windows Server 2025 中文版、英文版下载 (2025 年 1 月更新)&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
+    
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
+    
+    <category term="Server" scheme="https://sysin.org/tags/Server/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows Server 2022 中文版、英文版下载 (2025 年 1 月更新)</title>
+    <link href="https://sysin.org/blog/windows-server-2022/"/>
+    <id>https://sysin.org/blog/windows-server-2022/</id>
+    <published>2025-01-24T01:15:00.000Z</published>
+    <updated>2025-01-24T01:25:16.889Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-server-2022/&quot; title=&quot;Windows Server 2022 中文版、英文版下载 (2025 年 1 月更新)&quot;&gt;Windows Server 2022 中文版、英文版下载 (2025 年 1 月更新)&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
+    
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
+    
+    <category term="Server" scheme="https://sysin.org/tags/Server/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows 11 24H2 中文版、英文版 (x64、ARM64) 下载 (2025 年 1 月更新)</title>
+    <link href="https://sysin.org/blog/windows-11/"/>
+    <id>https://sysin.org/blog/windows-11/</id>
+    <published>2025-01-24T01:13:00.000Z</published>
+    <updated>2025-01-24T01:24:20.623Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-11/&quot; title=&quot;Windows 11 24H2 中文版、英文版 (x64、ARM64) 下载 (2025 年 1 月更新)&quot;&gt;Windows 11 24H2 中文版、英文版 (x64、ARM64) 下载 (2025 年 1 月更新)&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
+    
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows 10 version 22H2 中文版、英文版下载 (2025 年 1 月更新)</title>
+    <link href="https://sysin.org/blog/windows-10/"/>
+    <id>https://sysin.org/blog/windows-10/</id>
+    <published>2025-01-24T01:11:00.000Z</published>
+    <updated>2025-01-23T09:40:02.049Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-10/&quot; title=&quot;Windows 10 version 22H2 中文版、英文版下载 (2025 年 1 月更新)&quot;&gt;Windows 10 version 22H2 中文版、英文版下载 (2025 年 1 月更新)&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
+    
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Nexpose 7.3.2 for Linux &amp; Windows - 漏洞扫描</title>
+    <link href="https://sysin.org/blog/nexpose-7/"/>
+    <id>https://sysin.org/blog/nexpose-7/</id>
+    <published>2025-01-24T01:08:30.000Z</published>
+    <updated>2025-01-24T01:15:34.658Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/nexpose-7/&quot; title=&quot;Nexpose 7.3.2 for Linux &amp;amp; Windows - 漏洞扫描&quot;&gt;Nexpose 7.3.2 for Linux &amp;amp; Windows - 漏洞扫描&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    
+    
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+    <category term="Rapid7" scheme="https://sysin.org/tags/Rapid7/"/>
+    
+  </entry>
   
   <entry>
     <title>Cisco ASAv 9.22.1.3 - 思科自适应安全虚拟设备 (ASAv)</title>
@@ -247,37 +423,6 @@
     <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
     
     <category term="Cloud" scheme="https://sysin.org/tags/Cloud/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Nexpose 7.3.0 for Linux &amp; Windows - 漏洞扫描</title>
-    <link href="https://sysin.org/blog/nexpose-7/"/>
-    <id>https://sysin.org/blog/nexpose-7/</id>
-    <published>2025-01-18T01:08:30.000Z</published>
-    <updated>2025-01-18T01:32:06.340Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/nexpose-7/&quot; title=&quot;Nexpose 7.3.0 for Linux &amp;amp; Windows - 漏洞扫描&quot;&gt;Nexpose 7.3.0 for Linux &amp;amp; Windows - 漏洞扫描&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
-    
-    
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
-    
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
-    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
-    
-    <category term="Rapid7" scheme="https://sysin.org/tags/Rapid7/"/>
     
   </entry>
   
@@ -742,145 +887,6 @@
     <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
     <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Nessus Professional 10.8.3 Auto Installer for Windows (updated Jan 2025)</title>
-    <link href="https://sysin.org/blog/nessus-auto-install-for-windows/"/>
-    <id>https://sysin.org/blog/nessus-auto-install-for-windows/</id>
-    <published>2025-01-06T05:15:00.000Z</published>
-    <updated>2025-01-16T10:28:48.479Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/nessus-auto-install-for-windows/&quot; title=&quot;Nessus Professional 10.8.3 Auto Installer for Windows (updated Jan 2025)&quot;&gt;Nessus Professional 10.8.3 Auto Installer for Windows (updated Jan 2025)&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
-    
-    
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
-    
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
-    <category term="Unix" scheme="https://sysin.org/tags/Unix/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Nessus Professional 10.8.3 Auto Installer for Ubuntu 24.04 (updated Jan 2025)</title>
-    <link href="https://sysin.org/blog/nessus-auto-install-for-ubuntu/"/>
-    <id>https://sysin.org/blog/nessus-auto-install-for-ubuntu/</id>
-    <published>2025-01-06T05:13:10.000Z</published>
-    <updated>2025-01-06T06:16:28.466Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/nessus-auto-install-for-ubuntu/&quot; title=&quot;Nessus Professional 10.8.3 Auto Installer for Ubuntu 24.04 (updated Jan 2025)&quot;&gt;Nessus Professional 10.8.3 Auto Installer for Ubuntu 24.04 (updated Jan 2025)&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
-    
-    
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
-    
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Nessus Professional 10.8.3 Auto Installer for RHEL 9, AlmaLinux 9, Rocky Linux 9 (updated Jan 2025)</title>
-    <link href="https://sysin.org/blog/nessus-auto-install-for-rhel-9/"/>
-    <id>https://sysin.org/blog/nessus-auto-install-for-rhel-9/</id>
-    <published>2025-01-06T05:12:15.000Z</published>
-    <updated>2025-01-06T06:16:35.846Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/nessus-auto-install-for-rhel-9/&quot; title=&quot;Nessus Professional 10.8.3 Auto Installer for RHEL 9, AlmaLinux 9, Rocky Linux 9 (updated Jan 2025)&quot;&gt;Nessus Professional 10.8.3 Auto Installer for RHEL 9, AlmaLinux 9, Rocky Linux 9 (u</summary>
-        
-      
-    
-    
-    
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
-    
-    
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
-    
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Nessus Professional 10.8.3 Auto Installer for macOS Sequoia (updated Jan 2025)</title>
-    <link href="https://sysin.org/blog/nessus-auto-install-for-macos/"/>
-    <id>https://sysin.org/blog/nessus-auto-install-for-macos/</id>
-    <published>2025-01-06T05:11:00.000Z</published>
-    <updated>2025-01-06T06:16:43.630Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/nessus-auto-install-for-macos/&quot; title=&quot;Nessus Professional 10.8.3 Auto Installer for macOS Sequoia (updated Jan 2025)&quot;&gt;Nessus Professional 10.8.3 Auto Installer for macOS Sequoia (updated Jan 2025)&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
-    
-    
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
-    
-    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
-    
-    <category term="Unix" scheme="https://sysin.org/tags/Unix/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>WPS Office for Mac 6.15.1 - 写作、表格处理、PPT 制作和 PDF 编辑</title>
-    <link href="https://sysin.org/blog/wps-for-mac-6/"/>
-    <id>https://sysin.org/blog/wps-for-mac-6/</id>
-    <published>2025-01-04T01:10:00.000Z</published>
-    <updated>2025-01-04T03:05:42.581Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/wps-for-mac-6/&quot; title=&quot;WPS Office for Mac 6.15.1 - 写作、表格处理、PPT 制作和 PDF 编辑&quot;&gt;WPS Office for Mac 6.15.1 - 写作、表格处理、PPT 制作和 PDF 编辑&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
-    
-    
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
-    
-    <category term="Office" scheme="https://sysin.org/tags/Office/"/>
     
   </entry>
   

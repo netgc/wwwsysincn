@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/sonarqube/</loc>
+    <lastmod>2025-01-24</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/sonarqube-10/</loc>
+    <lastmod>2025-01-24</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/windows-server-2025/</loc>
+    <lastmod>2025-01-24</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/windows-server-2025-ovf/</loc>
+    <lastmod>2025-01-24</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/windows-server-2022-ovf/</loc>
+    <lastmod>2025-01-24</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/windows-server-2022/</loc>
+    <lastmod>2025-01-24</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/windows-server-2019-ovf/</loc>
+    <lastmod>2025-01-24</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/windows-11/</loc>
+    <lastmod>2025-01-24</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/nexpose-7/</loc>
+    <lastmod>2025-01-24</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/windows-10/</loc>
+    <lastmod>2025-01-23</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/windows-server-2019/</loc>
+    <lastmod>2025-01-23</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/vmware-esxi-8-u3-sysin/</loc>
     <lastmod>2025-01-23</lastmod>
   </url>
@@ -34,10 +78,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/crossover/</loc>
-    <lastmod>2025-01-22</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/windows-server-2022-ovf/</loc>
     <lastmod>2025-01-22</lastmod>
   </url>
   <url>
@@ -134,10 +174,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/vmware-nsx-alb-22/</loc>
-    <lastmod>2025-01-18</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/nexpose-7/</loc>
     <lastmod>2025-01-18</lastmod>
   </url>
   <url>
@@ -429,14 +465,6 @@
     <lastmod>2024-12-29</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/windows-server-2025-ovf/</loc>
-    <lastmod>2024-12-29</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/windows-server-2019-ovf/</loc>
-    <lastmod>2024-12-29</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/windows-server-2016-ovf/</loc>
     <lastmod>2024-12-29</lastmod>
   </url>
@@ -537,10 +565,6 @@
     <lastmod>2024-12-24</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/windows-server-2019/</loc>
-    <lastmod>2024-12-24</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/windows-server-2016/</loc>
     <lastmod>2024-12-24</lastmod>
   </url>
@@ -558,22 +582,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/pixelmator-pro-3/</loc>
-    <lastmod>2024-12-23</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/windows-server-2025/</loc>
-    <lastmod>2024-12-23</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/windows-server-2022/</loc>
-    <lastmod>2024-12-23</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/windows-11/</loc>
-    <lastmod>2024-12-23</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/windows-10/</loc>
     <lastmod>2024-12-23</lastmod>
   </url>
   <url>
@@ -1065,11 +1073,11 @@
     <lastmod>2024-12-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/mac-os-x-lion/</loc>
+    <loc>https://sysin.org/blog/mac-os-x/</loc>
     <lastmod>2024-12-10</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/mac-os-x/</loc>
+    <loc>https://sysin.org/blog/mac-os-x-lion/</loc>
     <lastmod>2024-12-10</lastmod>
   </url>
   <url>
@@ -1174,14 +1182,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/vmware-vcenter-8-ovf/</loc>
-    <lastmod>2024-12-05</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/sonarqube-10/</loc>
-    <lastmod>2024-12-05</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/sonarqube/</loc>
     <lastmod>2024-12-05</lastmod>
   </url>
   <url>
