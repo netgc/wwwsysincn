@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>sysin</title>
-  <icon>https://sysin.cn/img/favicon.png</icon>
-  <subtitle>软件与技术分享</subtitle>
-  <link href="https://sysin.cn/atom.xml" rel="self"/>
+  <icon>https://sysin.org/img/favicon.png</icon>
+  <subtitle>SYStem INside | 软件与技术分享</subtitle>
+  <link href="https://sysin.org/atom.xml" rel="self"/>
   
-  <link href="https://sysin.cn/"/>
-  <updated>2025-01-25T01:08:02.573Z</updated>
-  <id>https://sysin.cn/</id>
+  <link href="https://sysin.org/"/>
+  <updated>2025-01-25T04:28:55.548Z</updated>
+  <id>https://sysin.org/</id>
   
   <author>
     <name>sysin</name>
@@ -17,9 +17,100 @@
   <generator uri="https://sysin.org/">sysin</generator>
   
   <entry>
+    <title>Burp Suite Professional 2025.1 for Windows x64 - 领先的 Web 渗透测试软件</title>
+    <link href="https://sysin.org/blog/burp-suite-pro-win/"/>
+    <id>https://sysin.org/blog/burp-suite-pro-win/</id>
+    <published>2025-01-25T02:18:12.000Z</published>
+    <updated>2025-01-25T04:28:55.548Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/burp-suite-pro-win/&quot; title=&quot;Burp Suite Professional 2025.1 for Windows x64 - 领先的 Web 渗透测试软件&quot;&gt;Burp Suite Professional 2025.1 for Windows x64 - 领先的 Web 渗透测试软件&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    
+    
+    <category term="HTTP" scheme="https://sysin.org/tags/HTTP/"/>
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Burp Suite Professional 2025.1 for macOS x64 &amp; ARM64 - 领先的 Web 渗透测试软件</title>
+    <link href="https://sysin.org/blog/burp-suite-pro-mac/"/>
+    <id>https://sysin.org/blog/burp-suite-pro-mac/</id>
+    <published>2025-01-25T02:15:10.000Z</published>
+    <updated>2025-01-25T04:29:10.691Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/burp-suite-pro-mac/&quot; title=&quot;Burp Suite Professional 2025.1 for macOS x64 &amp;amp; ARM64 - 领先的 Web 渗透测试软件&quot;&gt;Burp Suite Professional 2025.1 for macOS x64 &amp;amp; ARM64 - 领先的 Web 渗透测试软件&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    
+    
+    <category term="HTTP" scheme="https://sysin.org/tags/HTTP/"/>
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Burp Suite Professional 2025.1 (macOS, Linux, Windows) - Web 应用安全、测试和扫描</title>
+    <link href="https://sysin.org/blog/burp-suite-pro/"/>
+    <id>https://sysin.org/blog/burp-suite-pro/</id>
+    <published>2025-01-25T02:10:10.000Z</published>
+    <updated>2025-01-25T04:28:25.038Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/burp-suite-pro/&quot; title=&quot;Burp Suite Professional 2025.1 (macOS, Linux, Windows) - Web 应用安全、测试和扫描&quot;&gt;Burp Suite Professional 2025.1 (macOS, Linux, Windows) - Web 应用安全、测试和扫描&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
+    
+    
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    
+    <category term="HTTP" scheme="https://sysin.org/tags/HTTP/"/>
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
+    
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Metasploit Pro 4.22.7-2025012201 (Linux, Windows) - 专业渗透测试框架</title>
-    <link href="https://sysin.cn/blog/metasploit-pro-4/"/>
-    <id>https://sysin.cn/blog/metasploit-pro-4/</id>
+    <link href="https://sysin.org/blog/metasploit-pro-4/"/>
+    <id>https://sysin.org/blog/metasploit-pro-4/</id>
     <published>2025-01-25T01:10:10.000Z</published>
     <updated>2025-01-25T01:08:02.573Z</updated>
     
@@ -34,23 +125,23 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
     
     
-    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
     
-    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="Rapid7" scheme="https://sysin.cn/tags/Rapid7/"/>
+    <category term="Rapid7" scheme="https://sysin.org/tags/Rapid7/"/>
     
   </entry>
   
   <entry>
     <title>Metasploit Framework 6.4.44 (macOS, Linux, Windows) - 开源渗透测试框架</title>
-    <link href="https://sysin.cn/blog/metasploit-framework-6/"/>
-    <id>https://sysin.cn/blog/metasploit-framework-6/</id>
+    <link href="https://sysin.org/blog/metasploit-framework-6/"/>
+    <id>https://sysin.org/blog/metasploit-framework-6/</id>
     <published>2025-01-25T01:10:00.000Z</published>
     <updated>2025-01-25T01:07:53.530Z</updated>
     
@@ -65,58 +156,58 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
     
     
-    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
     
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
-    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="Rapid7" scheme="https://sysin.cn/tags/Rapid7/"/>
+    <category term="Rapid7" scheme="https://sysin.org/tags/Rapid7/"/>
     
   </entry>
   
   <entry>
-    <title>SonarQube Server 2025.1 LTA - 代码质量、安全与静态分析工具</title>
-    <link href="https://sysin.cn/blog/sonarqube/"/>
-    <id>https://sysin.cn/blog/sonarqube/</id>
+    <title>SonarQube Server 2025.1 LTA (macOS, Linux, Windows) - 代码质量、安全与静态分析工具</title>
+    <link href="https://sysin.org/blog/sonarqube/"/>
+    <id>https://sysin.org/blog/sonarqube/</id>
     <published>2025-01-24T01:25:20.000Z</published>
-    <updated>2025-01-24T01:28:58.237Z</updated>
+    <updated>2025-01-25T04:31:15.296Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/sonarqube/&quot; title=&quot;SonarQube Server 2025.1 LTA - 代码质量、安全与静态分析工具&quot;&gt;SonarQube Server 2025.1 LTA - 代码质量、安全与静态分析工具&lt;/a&gt; 查看最新版。</summary>
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/sonarqube/&quot; title=&quot;SonarQube Server 2025.1 LTA (macOS, Linux, Windows) - 代码质量、安全与静态分析工具&quot;&gt;SonarQube Server 2025.1 LTA (macOS, Linux, Windows) - 代码质量、安全与静态分析工具&lt;/a&gt; 查看最新版。</summary>
         
       
     
     
     
-    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
     
     
-    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
     
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
-    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="Code" scheme="https://sysin.cn/tags/Code/"/>
+    <category term="Code" scheme="https://sysin.org/tags/Code/"/>
     
   </entry>
   
   <entry>
     <title>Windows Server 2025 中文版、英文版下载 (2025 年 1 月更新)</title>
-    <link href="https://sysin.cn/blog/windows-server-2025/"/>
-    <id>https://sysin.cn/blog/windows-server-2025/</id>
+    <link href="https://sysin.org/blog/windows-server-2025/"/>
+    <id>https://sysin.org/blog/windows-server-2025/</id>
     <published>2025-01-24T01:18:15.000Z</published>
     <updated>2025-01-24T04:51:38.433Z</updated>
     
@@ -131,21 +222,21 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
     
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
     
-    <category term="Server" scheme="https://sysin.cn/tags/Server/"/>
+    <category term="Server" scheme="https://sysin.org/tags/Server/"/>
     
   </entry>
   
   <entry>
     <title>Windows Server 2022 中文版、英文版下载 (2025 年 1 月更新)</title>
-    <link href="https://sysin.cn/blog/windows-server-2022/"/>
-    <id>https://sysin.cn/blog/windows-server-2022/</id>
+    <link href="https://sysin.org/blog/windows-server-2022/"/>
+    <id>https://sysin.org/blog/windows-server-2022/</id>
     <published>2025-01-24T01:15:00.000Z</published>
     <updated>2025-01-24T01:25:16.889Z</updated>
     
@@ -160,21 +251,21 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
     
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
     
-    <category term="Server" scheme="https://sysin.cn/tags/Server/"/>
+    <category term="Server" scheme="https://sysin.org/tags/Server/"/>
     
   </entry>
   
   <entry>
     <title>Windows 11 24H2 中文版、英文版 (x64、ARM64) 下载 (2025 年 1 月更新)</title>
-    <link href="https://sysin.cn/blog/windows-11/"/>
-    <id>https://sysin.cn/blog/windows-11/</id>
+    <link href="https://sysin.org/blog/windows-11/"/>
+    <id>https://sysin.org/blog/windows-11/</id>
     <published>2025-01-24T01:13:00.000Z</published>
     <updated>2025-01-24T04:52:40.172Z</updated>
     
@@ -189,19 +280,19 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
     
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
     
   </entry>
   
   <entry>
     <title>Windows 10 version 22H2 中文版、英文版下载 (2025 年 1 月更新)</title>
-    <link href="https://sysin.cn/blog/windows-10/"/>
-    <id>https://sysin.cn/blog/windows-10/</id>
+    <link href="https://sysin.org/blog/windows-10/"/>
+    <id>https://sysin.org/blog/windows-10/</id>
     <published>2025-01-24T01:11:00.000Z</published>
     <updated>2025-01-23T09:40:02.049Z</updated>
     
@@ -216,19 +307,19 @@
     
     
     
-    <category term="Windows" scheme="https://sysin.cn/categories/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/categories/Windows/"/>
     
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
     
   </entry>
   
   <entry>
     <title>Nexpose 7.3.2 for Linux &amp; Windows - 漏洞扫描</title>
-    <link href="https://sysin.cn/blog/nexpose-7/"/>
-    <id>https://sysin.cn/blog/nexpose-7/</id>
+    <link href="https://sysin.org/blog/nexpose-7/"/>
+    <id>https://sysin.org/blog/nexpose-7/</id>
     <published>2025-01-24T01:08:30.000Z</published>
     <updated>2025-01-24T01:15:34.658Z</updated>
     
@@ -243,23 +334,23 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
     
     
-    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
     
-    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="Rapid7" scheme="https://sysin.cn/tags/Rapid7/"/>
+    <category term="Rapid7" scheme="https://sysin.org/tags/Rapid7/"/>
     
   </entry>
   
   <entry>
     <title>Cisco ASAv 9.22.1.3 - 思科自适应安全虚拟设备 (ASAv)</title>
-    <link href="https://sysin.cn/blog/cisco-asav/"/>
-    <id>https://sysin.cn/blog/cisco-asav/</id>
+    <link href="https://sysin.org/blog/cisco-asav/"/>
+    <id>https://sysin.org/blog/cisco-asav/</id>
     <published>2025-01-23T01:12:00.000Z</published>
     <updated>2025-01-23T03:01:36.742Z</updated>
     
@@ -274,21 +365,21 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
     
     
-    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
+    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
     
-    <category term="Firewall" scheme="https://sysin.cn/tags/Firewall/"/>
+    <category term="Firewall" scheme="https://sysin.org/tags/Firewall/"/>
     
-    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
     
   </entry>
   
   <entry>
     <title>Cisco ASA 9.22.1.3 - 思科自适应安全设备 (ASA) 软件</title>
-    <link href="https://sysin.cn/blog/cisco-asa/"/>
-    <id>https://sysin.cn/blog/cisco-asa/</id>
+    <link href="https://sysin.org/blog/cisco-asa/"/>
+    <id>https://sysin.org/blog/cisco-asa/</id>
     <published>2025-01-23T01:10:00.000Z</published>
     <updated>2025-01-23T03:01:31.163Z</updated>
     
@@ -303,21 +394,21 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
     
     
-    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
+    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
     
-    <category term="Firewall" scheme="https://sysin.cn/tags/Firewall/"/>
+    <category term="Firewall" scheme="https://sysin.org/tags/Firewall/"/>
     
-    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
     
   </entry>
   
   <entry>
     <title>CrossOver 24.0.6 for macOS &amp; Linux - 在 macOS 和 Linux 上运行 Windows 应用</title>
-    <link href="https://sysin.cn/blog/crossover/"/>
-    <id>https://sysin.cn/blog/crossover/</id>
+    <link href="https://sysin.org/blog/crossover/"/>
+    <id>https://sysin.org/blog/crossover/</id>
     <published>2025-01-22T01:11:00.000Z</published>
     <updated>2025-01-22T03:02:54.845Z</updated>
     
@@ -332,19 +423,19 @@
     
     
     
-    <category term="macOS" scheme="https://sysin.cn/categories/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
     
     
-    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
     
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
   </entry>
   
   <entry>
     <title>Cisco Nexus 9000v Switch, NX-OS Release 10.5(2)F</title>
-    <link href="https://sysin.cn/blog/cisco-nexus-9000v/"/>
-    <id>https://sysin.cn/blog/cisco-nexus-9000v/</id>
+    <link href="https://sysin.org/blog/cisco-nexus-9000v/"/>
+    <id>https://sysin.org/blog/cisco-nexus-9000v/</id>
     <published>2025-01-21T01:20:00.000Z</published>
     <updated>2025-01-21T02:41:02.704Z</updated>
     
@@ -359,23 +450,23 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
     
     
-    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
     
-    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
+    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
     
-    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
     
-    <category term="NX-OS" scheme="https://sysin.cn/tags/NX-OS/"/>
+    <category term="NX-OS" scheme="https://sysin.org/tags/NX-OS/"/>
     
   </entry>
   
   <entry>
     <title>VMware Tools 13.0.0 发布 - 客户机操作系统无缝交互必备组件</title>
-    <link href="https://sysin.cn/blog/vmware-tools-13/"/>
-    <id>https://sysin.cn/blog/vmware-tools-13/</id>
+    <link href="https://sysin.org/blog/vmware-tools-13/"/>
+    <id>https://sysin.org/blog/vmware-tools-13/</id>
     <published>2025-01-21T01:10:00.000Z</published>
     <updated>2025-01-21T03:54:49.220Z</updated>
     
@@ -390,21 +481,21 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
     
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
     
-    <category term="vSphere" scheme="https://sysin.cn/tags/vSphere/"/>
+    <category term="vSphere" scheme="https://sysin.org/tags/vSphere/"/>
     
   </entry>
   
   <entry>
     <title>Cisco Catalyst 9800 Wireless Controller, IOS XE Release 17.16.1 ED</title>
-    <link href="https://sysin.cn/blog/cisco-catalyst-9800/"/>
-    <id>https://sysin.cn/blog/cisco-catalyst-9800/</id>
+    <link href="https://sysin.org/blog/cisco-catalyst-9800/"/>
+    <id>https://sysin.org/blog/cisco-catalyst-9800/</id>
     <published>2025-01-19T02:08:00.000Z</published>
     <updated>2025-01-19T08:37:40.131Z</updated>
     
@@ -419,23 +510,23 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
     
     
-    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
+    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
     
-    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
     
-    <category term="IOS-XE" scheme="https://sysin.cn/tags/IOS-XE/"/>
+    <category term="IOS-XE" scheme="https://sysin.org/tags/IOS-XE/"/>
     
-    <category term="Wi-Fi" scheme="https://sysin.cn/tags/Wi-Fi/"/>
+    <category term="Wi-Fi" scheme="https://sysin.org/tags/Wi-Fi/"/>
     
   </entry>
   
   <entry>
     <title>Cisco Catalyst 9800-CL Wireless Controller for Cloud, IOS XE Release 17.16.1 ED</title>
-    <link href="https://sysin.cn/blog/cisco-catalyst-9800-cl/"/>
-    <id>https://sysin.cn/blog/cisco-catalyst-9800-cl/</id>
+    <link href="https://sysin.org/blog/cisco-catalyst-9800-cl/"/>
+    <id>https://sysin.org/blog/cisco-catalyst-9800-cl/</id>
     <published>2025-01-19T02:06:00.000Z</published>
     <updated>2025-01-19T08:37:34.202Z</updated>
     
@@ -450,23 +541,23 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
     
     
-    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
+    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
     
-    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
     
-    <category term="IOS-XE" scheme="https://sysin.cn/tags/IOS-XE/"/>
+    <category term="IOS-XE" scheme="https://sysin.org/tags/IOS-XE/"/>
     
-    <category term="Wi-Fi" scheme="https://sysin.cn/tags/Wi-Fi/"/>
+    <category term="Wi-Fi" scheme="https://sysin.org/tags/Wi-Fi/"/>
     
   </entry>
   
   <entry>
     <title>VMware Data Services Manager 2.2 - 数据库管理和数据服务管理</title>
-    <link href="https://sysin.cn/blog/vmware-data-services-manager/"/>
-    <id>https://sysin.cn/blog/vmware-data-services-manager/</id>
+    <link href="https://sysin.org/blog/vmware-data-services-manager/"/>
+    <id>https://sysin.org/blog/vmware-data-services-manager/</id>
     <published>2025-01-18T05:25:38.000Z</published>
     <updated>2025-01-18T07:04:39.463Z</updated>
     
@@ -481,19 +572,19 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
     
     
-    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
     
-    <category term="Cloud" scheme="https://sysin.cn/tags/Cloud/"/>
+    <category term="Cloud" scheme="https://sysin.org/tags/Cloud/"/>
     
   </entry>
   
   <entry>
     <title>Cisco ISR 4000 Series IOS XE Release 17.16.1a ED</title>
-    <link href="https://sysin.cn/blog/cisco-isr-4000/"/>
-    <id>https://sysin.cn/blog/cisco-isr-4000/</id>
+    <link href="https://sysin.org/blog/cisco-isr-4000/"/>
+    <id>https://sysin.org/blog/cisco-isr-4000/</id>
     <published>2025-01-17T01:25:00.000Z</published>
     <updated>2025-01-17T01:27:20.909Z</updated>
     
@@ -508,21 +599,21 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
     
     
-    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
     
-    <category term="IOS-XE" scheme="https://sysin.cn/tags/IOS-XE/"/>
+    <category term="IOS-XE" scheme="https://sysin.org/tags/IOS-XE/"/>
     
-    <category term="Router" scheme="https://sysin.cn/tags/Router/"/>
+    <category term="Router" scheme="https://sysin.org/tags/Router/"/>
     
   </entry>
   
   <entry>
     <title>Cisco ISR 1000 Series IOS XE Release 17.16.1a ED</title>
-    <link href="https://sysin.cn/blog/cisco-isr-1000/"/>
-    <id>https://sysin.cn/blog/cisco-isr-1000/</id>
+    <link href="https://sysin.org/blog/cisco-isr-1000/"/>
+    <id>https://sysin.org/blog/cisco-isr-1000/</id>
     <published>2025-01-17T01:10:38.000Z</published>
     <updated>2025-01-17T01:27:12.247Z</updated>
     
@@ -537,21 +628,21 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
     
     
-    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
     
-    <category term="IOS-XE" scheme="https://sysin.cn/tags/IOS-XE/"/>
+    <category term="IOS-XE" scheme="https://sysin.org/tags/IOS-XE/"/>
     
-    <category term="Router" scheme="https://sysin.cn/tags/Router/"/>
+    <category term="Router" scheme="https://sysin.org/tags/Router/"/>
     
   </entry>
   
   <entry>
     <title>Microsoft Office LTSC 2024 for Mac (Microsoft 365) 16.93</title>
-    <link href="https://sysin.cn/blog/office-2024-for-mac/"/>
-    <id>https://sysin.cn/blog/office-2024-for-mac/</id>
+    <link href="https://sysin.org/blog/office-2024-for-mac/"/>
+    <id>https://sysin.org/blog/office-2024-for-mac/</id>
     <published>2025-01-16T10:29:00.000Z</published>
     <updated>2025-01-17T01:13:05.541Z</updated>
     
@@ -566,21 +657,21 @@
     
     
     
-    <category term="macOS" scheme="https://sysin.cn/categories/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
     
     
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
-    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
     
-    <category term="Office" scheme="https://sysin.cn/tags/Office/"/>
+    <category term="Office" scheme="https://sysin.org/tags/Office/"/>
     
   </entry>
   
   <entry>
     <title>Microsoft Office LTSC 2021 for Mac (Microsoft 365) 16.93</title>
-    <link href="https://sysin.cn/blog/office-2021-for-mac/"/>
-    <id>https://sysin.cn/blog/office-2021-for-mac/</id>
+    <link href="https://sysin.org/blog/office-2021-for-mac/"/>
+    <id>https://sysin.org/blog/office-2021-for-mac/</id>
     <published>2025-01-16T10:28:00.000Z</published>
     <updated>2025-01-17T01:12:57.126Z</updated>
     
@@ -595,21 +686,21 @@
     
     
     
-    <category term="macOS" scheme="https://sysin.cn/categories/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
     
     
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
-    <category term="Microsoft" scheme="https://sysin.cn/tags/Microsoft/"/>
+    <category term="Microsoft" scheme="https://sysin.org/tags/Microsoft/"/>
     
-    <category term="Office" scheme="https://sysin.cn/tags/Office/"/>
+    <category term="Office" scheme="https://sysin.org/tags/Office/"/>
     
   </entry>
   
   <entry>
     <title>Studio 3T 2025.1 (macOS, Linux, Windows) - MongoDB 的终极 GUI、IDE 和 客户端</title>
-    <link href="https://sysin.cn/blog/studio-3t/"/>
-    <id>https://sysin.cn/blog/studio-3t/</id>
+    <link href="https://sysin.org/blog/studio-3t/"/>
+    <id>https://sysin.org/blog/studio-3t/</id>
     <published>2025-01-16T01:20:00.000Z</published>
     <updated>2025-01-16T02:24:00.005Z</updated>
     
@@ -624,23 +715,23 @@
     
     
     
-    <category term="Developer" scheme="https://sysin.cn/categories/Developer/"/>
+    <category term="Developer" scheme="https://sysin.org/categories/Developer/"/>
     
     
-    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
     
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
-    <category term="Database" scheme="https://sysin.cn/tags/Database/"/>
+    <category term="Database" scheme="https://sysin.org/tags/Database/"/>
     
   </entry>
   
   <entry>
     <title>Cisco ACI Simulator 6.1(2g) - ACI 模拟器</title>
-    <link href="https://sysin.cn/blog/cisco-acisim-6/"/>
-    <id>https://sysin.cn/blog/cisco-acisim-6/</id>
+    <link href="https://sysin.org/blog/cisco-acisim-6/"/>
+    <id>https://sysin.org/blog/cisco-acisim-6/</id>
     <published>2025-01-16T01:13:00.000Z</published>
     <updated>2025-01-16T08:22:00.530Z</updated>
     
@@ -655,23 +746,23 @@
     
     
     
-    <category term="Cisco" scheme="https://sysin.cn/categories/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/categories/Cisco/"/>
     
     
-    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
     
-    <category term="OVF" scheme="https://sysin.cn/tags/OVF/"/>
+    <category term="OVF" scheme="https://sysin.org/tags/OVF/"/>
     
-    <category term="Cisco" scheme="https://sysin.cn/tags/Cisco/"/>
+    <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
     
-    <category term="NX-OS" scheme="https://sysin.cn/tags/NX-OS/"/>
+    <category term="NX-OS" scheme="https://sysin.org/tags/NX-OS/"/>
     
   </entry>
   
   <entry>
     <title>Invicti v25.1.0 for Windows - Web 应用程序安全测试</title>
-    <link href="https://sysin.cn/blog/invicti/"/>
-    <id>https://sysin.cn/blog/invicti/</id>
+    <link href="https://sysin.org/blog/invicti/"/>
+    <id>https://sysin.org/blog/invicti/</id>
     <published>2025-01-15T07:10:00.000Z</published>
     <updated>2025-01-16T01:11:58.177Z</updated>
     
@@ -686,21 +777,21 @@
     
     
     
-    <category term="HTTP" scheme="https://sysin.cn/categories/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.org/categories/HTTP/"/>
     
     
-    <category term="HTTP" scheme="https://sysin.cn/tags/HTTP/"/>
+    <category term="HTTP" scheme="https://sysin.org/tags/HTTP/"/>
     
-    <category term="Security" scheme="https://sysin.cn/tags/Security/"/>
+    <category term="Security" scheme="https://sysin.org/tags/Security/"/>
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
   </entry>
   
   <entry>
     <title>Omnissa Secure Email Gateway 2.31 - 电子邮件网关</title>
-    <link href="https://sysin.cn/blog/omnissa-secure-email-gateway/"/>
-    <id>https://sysin.cn/blog/omnissa-secure-email-gateway/</id>
+    <link href="https://sysin.org/blog/omnissa-secure-email-gateway/"/>
+    <id>https://sysin.org/blog/omnissa-secure-email-gateway/</id>
     <published>2025-01-15T01:16:13.000Z</published>
     <updated>2025-01-15T01:58:11.858Z</updated>
     
@@ -715,21 +806,21 @@
     
     
     
-    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
+    <category term="VMware" scheme="https://sysin.org/categories/VMware/"/>
     
     
-    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
+    <category term="VMware" scheme="https://sysin.org/tags/VMware/"/>
     
-    <category term="Omnissa" scheme="https://sysin.cn/tags/Omnissa/"/>
+    <category term="Omnissa" scheme="https://sysin.org/tags/Omnissa/"/>
     
-    <category term="Horizon" scheme="https://sysin.cn/tags/Horizon/"/>
+    <category term="Horizon" scheme="https://sysin.org/tags/Horizon/"/>
     
   </entry>
   
   <entry>
     <title>Audacity 3.7 (Linux, macOS, Windows) - 开源音频编辑器和录音工具</title>
-    <link href="https://sysin.cn/blog/audacity/"/>
-    <id>https://sysin.cn/blog/audacity/</id>
+    <link href="https://sysin.org/blog/audacity/"/>
+    <id>https://sysin.org/blog/audacity/</id>
     <published>2025-01-14T01:03:07.000Z</published>
     <updated>2025-01-14T02:01:19.212Z</updated>
     
@@ -744,21 +835,21 @@
     
     
     
-    <category term="Designer" scheme="https://sysin.cn/categories/Designer/"/>
+    <category term="Designer" scheme="https://sysin.org/categories/Designer/"/>
     
     
-    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
     
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
   </entry>
   
   <entry>
     <title>JASP 0.19 (Linux, macOS, Windows) - 开源免费统计软件</title>
-    <link href="https://sysin.cn/blog/jasp/"/>
-    <id>https://sysin.cn/blog/jasp/</id>
+    <link href="https://sysin.org/blog/jasp/"/>
+    <id>https://sysin.org/blog/jasp/</id>
     <published>2025-01-13T05:19:01.000Z</published>
     <updated>2025-01-13T06:29:09.761Z</updated>
     
@@ -773,21 +864,21 @@
     
     
     
-    <category term="Designer" scheme="https://sysin.cn/categories/Designer/"/>
+    <category term="Designer" scheme="https://sysin.org/categories/Designer/"/>
     
     
-    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
     
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
   </entry>
   
   <entry>
     <title>jamovi 2.6 (Linux, macOS, Windows) - 免费开放统计软件</title>
-    <link href="https://sysin.cn/blog/jamovi/"/>
-    <id>https://sysin.cn/blog/jamovi/</id>
+    <link href="https://sysin.org/blog/jamovi/"/>
+    <id>https://sysin.org/blog/jamovi/</id>
     <published>2025-01-12T01:05:56.000Z</published>
     <updated>2025-01-11T10:03:05.470Z</updated>
     
@@ -802,101 +893,14 @@
     
     
     
-    <category term="Designer" scheme="https://sysin.cn/categories/Designer/"/>
+    <category term="Designer" scheme="https://sysin.org/categories/Designer/"/>
     
     
-    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
     
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Omnissa Dynamic Environment Manager 2412 - 个性化动态 Windows 桌面环境管理</title>
-    <link href="https://sysin.cn/blog/omnissa-dynamic-environment-manager/"/>
-    <id>https://sysin.cn/blog/omnissa-dynamic-environment-manager/</id>
-    <published>2025-01-11T04:16:13.000Z</published>
-    <updated>2025-01-11T06:02:52.590Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/omnissa-dynamic-environment-manager/&quot; title=&quot;Omnissa Dynamic Environment Manager 2412 - 个性化动态 Windows 桌面环境管理&quot;&gt;Omnissa Dynamic Environment Manager 2412 - 个性化动态 Windows 桌面环境管理&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="VMware" scheme="https://sysin.cn/categories/VMware/"/>
-    
-    
-    <category term="VMware" scheme="https://sysin.cn/tags/VMware/"/>
-    
-    <category term="Omnissa" scheme="https://sysin.cn/tags/Omnissa/"/>
-    
-    <category term="Horizon" scheme="https://sysin.cn/tags/Horizon/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Synfig Studio 1.5 (Linux, macOS, Windows) - 开源 2D 动画软件</title>
-    <link href="https://sysin.cn/blog/synfig-studio/"/>
-    <id>https://sysin.cn/blog/synfig-studio/</id>
-    <published>2025-01-11T01:05:01.000Z</published>
-    <updated>2025-01-11T01:10:26.969Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/synfig-studio/&quot; title=&quot;Synfig Studio 1.5 (Linux, macOS, Windows) - 开源 2D 动画软件&quot;&gt;Synfig Studio 1.5 (Linux, macOS, Windows) - 开源 2D 动画软件&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Designer" scheme="https://sysin.cn/categories/Designer/"/>
-    
-    
-    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
-    
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
-    
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Scribus 1.6 (Linux, macOS, Windows) - 开源桌面出版软件</title>
-    <link href="https://sysin.cn/blog/scribus/"/>
-    <id>https://sysin.cn/blog/scribus/</id>
-    <published>2025-01-10T05:01:06.000Z</published>
-    <updated>2025-01-11T01:09:58.214Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/scribus/&quot; title=&quot;Scribus 1.6 (Linux, macOS, Windows) - 开源桌面出版软件&quot;&gt;Scribus 1.6 (Linux, macOS, Windows) - 开源桌面出版软件&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="Designer" scheme="https://sysin.cn/categories/Designer/"/>
-    
-    
-    <category term="Linux" scheme="https://sysin.cn/tags/Linux/"/>
-    
-    <category term="macOS" scheme="https://sysin.cn/tags/macOS/"/>
-    
-    <category term="Windows" scheme="https://sysin.cn/tags/Windows/"/>
+    <category term="Windows" scheme="https://sysin.org/tags/Windows/"/>
     
   </entry>
   
