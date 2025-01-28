@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sysin.cn/blog/macOS-Ventura/</loc>
+    
+    <lastmod>2025-01-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sysin.cn/blog/macOS-Sonoma/</loc>
     
     <lastmod>2025-01-28</lastmod>
@@ -39,15 +48,6 @@
   
   <url>
     <loc>https://sysin.cn/blog/macOS-Sequoia-boot-iso/</loc>
-    
-    <lastmod>2025-01-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sysin.cn/blog/macOS-Ventura/</loc>
     
     <lastmod>2025-01-28</lastmod>
     
@@ -6473,7 +6473,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/jb-idea-2022/</loc>
+    <loc>https://sysin.cn/blog/jb-goland-2023/</loc>
     
     <lastmod>2024-10-29</lastmod>
     
@@ -6482,7 +6482,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/jb-goland-2023/</loc>
+    <loc>https://sysin.cn/blog/jb-idea-2022/</loc>
     
     <lastmod>2024-10-29</lastmod>
     
@@ -8069,14 +8069,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/ESXi/</loc>
+    <loc>https://sysin.cn/tags/vCenter/</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/vCenter/</loc>
+    <loc>https://sysin.cn/tags/ESXi/</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -8517,14 +8517,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/NSX/</loc>
+    <loc>https://sysin.cn/tags/Tanzu/</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/Tanzu/</loc>
+    <loc>https://sysin.cn/tags/NSX/</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
