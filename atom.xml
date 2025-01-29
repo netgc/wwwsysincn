@@ -6,7 +6,7 @@
   <link href="https://sysin.org/atom.xml" rel="self"/>
   
   <link href="https://sysin.org/"/>
-  <updated>2025-01-28T07:35:54.395Z</updated>
+  <updated>2025-01-29T01:27:04.151Z</updated>
   <id>https://sysin.org/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://sysin.org/">sysin</generator>
+  
+  <entry>
+    <title>CrossOver 24.0.7 for macOS &amp; Linux - 领先的 Wine 解决方案</title>
+    <link href="https://sysin.org/blog/crossover/"/>
+    <id>https://sysin.org/blog/crossover/</id>
+    <published>2025-01-29T01:11:00.000Z</published>
+    <updated>2025-01-29T01:27:04.151Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/crossover/&quot; title=&quot;CrossOver 24.0.7 for macOS &amp;amp; Linux - 领先的 Wine 解决方案&quot;&gt;CrossOver 24.0.7 for macOS &amp;amp; Linux - 领先的 Wine 解决方案&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
+    
+    
+    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    
+  </entry>
   
   <entry>
     <title>Apple Safari 18.3 - macOS 专属浏览器 (独立安装包下载)</title>
@@ -649,33 +676,6 @@
     <category term="Firewall" scheme="https://sysin.org/tags/Firewall/"/>
     
     <category term="Cisco" scheme="https://sysin.org/tags/Cisco/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CrossOver 24.0.6 for macOS &amp; Linux - 在 macOS 和 Linux 上运行 Windows 应用</title>
-    <link href="https://sysin.org/blog/crossover/"/>
-    <id>https://sysin.org/blog/crossover/</id>
-    <published>2025-01-22T01:11:00.000Z</published>
-    <updated>2025-01-22T03:02:54.845Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/crossover/&quot; title=&quot;CrossOver 24.0.6 for macOS &amp;amp; Linux - 在 macOS 和 Linux 上运行 Windows 应用&quot;&gt;CrossOver 24.0.6 for macOS &amp;amp; Linux - 在 macOS 和 Linux 上运行 Windows 应用&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
-    
-    
-    <category term="Linux" scheme="https://sysin.org/tags/Linux/"/>
-    
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
     
   </entry>
   

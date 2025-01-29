@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/crossover/</loc>
+    <lastmod>2025-01-29</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/macOS-Ventura/</loc>
     <lastmod>2025-01-28</lastmod>
   </url>
@@ -143,10 +147,6 @@
   <url>
     <loc>https://sysin.org/blog/vmware-esxi-8-u3-oem/</loc>
     <lastmod>2025-01-23</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/crossover/</loc>
-    <lastmod>2025-01-22</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/devices-unsupported-in-esxi-8/</loc>
@@ -1205,11 +1205,11 @@
     <lastmod>2024-12-05</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/rhel-9/</loc>
+    <loc>https://sysin.org/blog/rhel-8/</loc>
     <lastmod>2024-12-05</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/rhel-8/</loc>
+    <loc>https://sysin.org/blog/rhel-9/</loc>
     <lastmod>2024-12-05</lastmod>
   </url>
   <url>
