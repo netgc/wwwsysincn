@@ -15,8 +15,72 @@
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>sysin | SYStem INside | 软件与技术分享</description>
-    <pubDate>Wed, 29 Jan 2025 01:27:04 GMT</pubDate>
+    <pubDate>Fri, 31 Jan 2025 01:11:29 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>AppSpider Pro 7.5.015 for Windows - Web 应用程序安全测试</title>
+      <link>https://sysin.org/blog/appspider/</link>
+      <guid>https://sysin.org/blog/appspider/</guid>
+      <pubDate>Fri, 31 Jan 2025 01:10:09 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/appspider/&quot; title=&quot;AppSpider Pro 7.5.015 for Windows - Web 应用程序安全测试&quot;&gt;AppSpider Pro 7.5.015 for Windows - Web 应用程序安全测试&lt;/a&gt; 查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
+      
+      
+      <category domain="https://sysin.org/tags/Security/">Security</category>
+      
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.org/tags/Rapid7/">Rapid7</category>
+      
+      
+      <comments>https://sysin.org/blog/appspider/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Nexpose 7.4.0 for Linux &amp; Windows - 漏洞扫描</title>
+      <link>https://sysin.org/blog/nexpose-7/</link>
+      <guid>https://sysin.org/blog/nexpose-7/</guid>
+      <pubDate>Fri, 31 Jan 2025 01:08:30 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/nexpose-7/&quot; title=&quot;Nexpose 7.4.0 for Linux &amp;amp; Windows - 漏洞扫描&quot;&gt;Nexpose 7.4.0 for Linux &amp;amp; Windows - 漏洞扫描&lt;/a&gt; 查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
+      
+      
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      
+      <category domain="https://sysin.org/tags/Security/">Security</category>
+      
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.org/tags/Rapid7/">Rapid7</category>
+      
+      
+      <comments>https://sysin.org/blog/nexpose-7/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>CrossOver 24.0.7 for macOS &amp; Linux - 领先的 Wine 解决方案</title>
@@ -633,39 +697,6 @@
     </item>
     
     <item>
-      <title>Nexpose 7.3.2 for Linux &amp; Windows - 漏洞扫描</title>
-      <link>https://sysin.org/blog/nexpose-7/</link>
-      <guid>https://sysin.org/blog/nexpose-7/</guid>
-      <pubDate>Fri, 24 Jan 2025 01:08:30 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/nexpose-7/&quot; title=&quot;Nexpose 7.3.2 for Linux &amp;amp; Windows - 漏洞扫描&quot;&gt;Nexpose 7.3.2 for Linux &amp;amp; Windows - 漏洞扫描&lt;/a&gt; 查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
-      
-      
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
-      
-      <category domain="https://sysin.org/tags/Security/">Security</category>
-      
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
-      
-      <category domain="https://sysin.org/tags/Rapid7/">Rapid7</category>
-      
-      
-      <comments>https://sysin.org/blog/nexpose-7/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
       <title>Cisco ASAv 9.22.1.3 - 思科自适应安全虚拟设备 (ASAv)</title>
       <link>https://sysin.org/blog/cisco-asav/</link>
       <guid>https://sysin.org/blog/cisco-asav/</guid>
@@ -914,37 +945,6 @@
       
       
       <comments>https://sysin.org/blog/cisco-isr-4000/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Cisco ISR 1000 Series IOS XE Release 17.16.1a ED</title>
-      <link>https://sysin.org/blog/cisco-isr-1000/</link>
-      <guid>https://sysin.org/blog/cisco-isr-1000/</guid>
-      <pubDate>Fri, 17 Jan 2025 01:10:38 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-isr-1000/&quot; title=&quot;Cisco ISR 1000 Series IOS XE Release 17.16.1a ED&quot;&gt;Cisco ISR 1000 Series IOS XE Release 17.16.1a ED&lt;/a&gt; 查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
-      
-      
-      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
-      
-      <category domain="https://sysin.org/tags/IOS-XE/">IOS-XE</category>
-      
-      <category domain="https://sysin.org/tags/Router/">Router</category>
-      
-      
-      <comments>https://sysin.org/blog/cisco-isr-1000/#disqus_thread</comments>
       
     </item>
     

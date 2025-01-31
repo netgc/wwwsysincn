@@ -45,9 +45,9 @@
   <meta name="bytedance-verification-code" content="ogpqLENT9c9pWmb2XWie"/>
   
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title> AppSpider Pro 7.5.014 for Windows - Web 应用程序安全测试 - sysin | SYStem INside | 软件与技术分享 </title>
-  <meta name="description" content=" AppSpider Pro 7.5.014 for Windows - Web 应用程序安全测试 - sysin | SYStem INside | 软件与技术分享 "/>
-  <meta name="keyword" content=" AppSpider Pro 7.5.014 for Windows - Web 应用程序安全测试 "/>
+  <title> AppSpider Pro 7.5.015 for Windows - Web 应用程序安全测试 - sysin | SYStem INside | 软件与技术分享 </title>
+  <meta name="description" content=" AppSpider Pro 7.5.015 for Windows - Web 应用程序安全测试 - sysin | SYStem INside | 软件与技术分享 "/>
+  <meta name="keyword" content=" AppSpider Pro 7.5.015 for Windows - Web 应用程序安全测试 "/>
   <link rel="shortcut icon" href="/img/favicon.png"/>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
   <link rel="manifest" href="/site.webmanifest"/>
@@ -391,11 +391,11 @@
               <a class="tag" href="/tags/#Rapid7" title="Rapid7">Rapid7</a>
               
             </div>
-            <h1>AppSpider Pro 7.5.014 for Windows - Web 应用程序安全测试</h1>
-            <h2 class="subheading">Rapid7 Dynamic Application Security Testing (DAST) released November 28, 2024</h2>
+            <h1>AppSpider Pro 7.5.015 for Windows - Web 应用程序安全测试</h1>
+            <h2 class="subheading">Rapid7 Dynamic Application Security Testing (DAST) released Jan 30, 2025</h2>
             <span class="meta">
               Posted by sysin on
-              2024-12-02
+              2025-01-31
             </span>
 
 
@@ -407,7 +407,7 @@
             </span>
             <div class="blank_box"></div>
             <span class="meta">
-              Words <span class="post-count">1.1k</span> In Total
+              Words <span class="post-count">1.3k</span> In Total
             </span>
             <div class="blank_box"></div>
             <!-- WordCount end -->
@@ -466,7 +466,7 @@
         <!-- pageview_count start -->
         
         <div style="color:gray" align="left">
-        更新日期：Mon Dec 02 2024 07:40:09 GMT+0800，阅读量: <span class="waline-pageview-count" />
+        更新日期：Fri Jan 31 2025 09:10:09 GMT+0800，阅读量: <span class="waline-pageview-count" />
         <script type="module">
           import { pageviewCount } from '/js/pageview.mjs';
           pageviewCount({
@@ -486,7 +486,7 @@
         
         <!-- toppromotion end -->
 
-        <p>请访问原文链接：<a href="/blog/appspider/" title="AppSpider Pro 7.5.014 for Windows - Web 应用程序安全测试">AppSpider Pro 7.5.014 for Windows - Web 应用程序安全测试</a> 查看最新版。原创作品，转载请保留出处。</p>
+        <p>请访问原文链接：<a href="/blog/appspider/" title="AppSpider Pro 7.5.015 for Windows - Web 应用程序安全测试">AppSpider Pro 7.5.015 for Windows - Web 应用程序安全测试</a> 查看最新版。原创作品，转载请保留出处。</p>
 <p>作者主页：<a href="https://sysin.org">sysin.org</a></p>
 <hr>
 <p>appspider</p>
@@ -645,30 +645,30 @@
 <li>To successfully install, you will need more free hard disk space than the size of the installer itself (sysin). For more specific information about the space requirements, please contact support</li>
 </ul>
 <h2 id="新增功能-4">新增功能</h2>
-<p>AppSpider Pro 7.5.014（发布于 2024 年 11 月 28 日）</p>
+<p>AppSpider Pro 7.5.015（发布于 2025 年 1 月 30 日）</p>
+<p><strong>新的 Attack 功能和增强功能</strong>：</p>
 <ul>
-<li>
-<p><strong>新的 Attack 功能和增强功能</strong></p>
+<li>BSQL 注入模块通过增强 <code>Time-Based BSQL attacks</code> 进行了改进，有助于减少误报并为返回的结果提供更清晰的证明描述。</li>
+<li>Java FileSystemException 检查的文件包含模块改进。</li>
+<li>SSL 强度模块认证通过添加 <code>SNI(Server Name Indication)</code> 来检查以减少误报。</li>
+<li>改进了有关磁盘空间使用情况的性能日志记录。</li>
+<li>改进了令牌替换失败时的 <code>Token Replacement</code> 日志记录。</li>
+<li>更新了引擎安装程序提供的 C++ Redistributable，以解决 <code>CVE-2024-43590</code>。</li>
+<li>改进了扫描引擎日志编写器和正则表达式处理，以防止可能导致崩溃和长时间运行扫描的格式错误的消息。</li>
+</ul>
+<p><strong>新的爬网/扫描功能和增强功能</strong>：</p>
 <ul>
-<li>当 Content-Type 为 application/json 时，将 XSS 严重性更改为 Low。</li>
+<li>改进的 r7Crawler 服务恢复：
+<ul>
+<li>降低了扫描进入停止/停止状态时出现争用条件的可能性。</li>
+<li>改进了暂停扫描恢复时连续错误限制的处理和触发。</li>
 </ul>
 </li>
-<li>
-<p><strong>新的爬网/扫描功能和增强功能</strong></p>
-<ul>
-<li>增强了爬取期间的会话丢失检测功能。</li>
-<li><strong>自动登录查找器 （ALF） 增强功能</strong>
-<ul>
-<li>通过简化多个 beforeDiscovery 钩子处理来提高 ALF 稳定性</li>
-<li>改进的 Automated Login Finder 词典和钩子文件处理</li>
-</ul>
-</li>
-<li>已将 Selenium ChromeDriver 升级到版本 131.0.6778.69。</li>
-</ul>
-</li>
+<li>改进了 <code>ChromeHost DOM Loaded</code> 检查和事件执行。</li>
+<li>已将 Selenium ChromeDriver 升级到版本 <code>132.0.6834.57</code>。</li>
 </ul>
 <h2 id="下载地址-59">下载地址</h2>
-<p>AppSpider Pro v7.5.014 - released November 28, 2024</p>
+<p>AppSpider Pro v7.5.015 - released Jan 30, 2025</p>
 <ul>
 <li>百度网盘链接：<a target="_blank" rel="noopener" href="https://pan.baidu.com/s/1ScH58FqBRCbK43NnjZ-s7w?pwd=qbfa">https://pan.baidu.com/s/1ScH58FqBRCbK43NnjZ-s7w?pwd=qbfa</a></li>
 </ul>
@@ -707,13 +707,9 @@
         <!-- Pager -->
         <ul class="pager">
           
-          <li class="previous">
-            <a href="/blog/nexpose-6/" data-toggle="tooltip" data-placement="top" title="Nexpose 6.6.281 for Linux & Windows - 漏洞扫描">&larr; Previous Post</a>
-          </li>
-          
           
           <li class="next">
-            <a href="/blog/vmware-nsx-t-3/" data-toggle="tooltip" data-placement="top" title="VMware NSX-T Data Center 3.2.4 - 全栈网络和安全虚拟化">Next Post &rarr;</a>
+            <a href="/blog/nexpose-7/" data-toggle="tooltip" data-placement="top" title="Nexpose 7.4.0 for Linux & Windows - 漏洞扫描">Next Post &rarr;</a>
           </li>
           
         </ul>
