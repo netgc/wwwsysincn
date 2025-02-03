@@ -4,24 +4,55 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>sysin</title>
-    <link>https://sysin.cn/</link>
+    <link>https://sysin.org/</link>
     
     <image>
-      <url>https://sysin.cn/img/favicon.png</url>
+      <url>https://sysin.org/img/favicon.png</url>
       <title>sysin</title>
-      <link>https://sysin.cn/</link>
+      <link>https://sysin.org/</link>
     </image>
     
-    <atom:link href="https://sysin.cn/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     
-    <description>sysin | 软件与技术分享 | SYStem INside</description>
-    <pubDate>Sun, 02 Feb 2025 05:57:55 GMT</pubDate>
+    <description>sysin | SYStem INside | 软件与技术分享</description>
+    <pubDate>Mon, 03 Feb 2025 02:33:46 GMT</pubDate>
     <generator>http://sysin.org/</generator>
     
     <item>
+      <title>Omnissa Horizon Windows OS Optimization Tool 2412 - Windows 系统映像优化工具</title>
+      <link>https://sysin.org/blog/omnissa-os-optimization-tool/</link>
+      <guid>https://sysin.org/blog/omnissa-os-optimization-tool/</guid>
+      <pubDate>Mon, 03 Feb 2025 01:15:13 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/omnissa-os-optimization-tool/&quot; title=&quot;Omnissa Horizon Windows OS Optimization Tool 2412 - Windows 系统映像优化工具&quot;&gt;Omnissa Horizon Windows OS Optimization Tool 2412 - Windows 系统映像优化工具&lt;/a&gt; 查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/VMware/">VMware</category>
+      
+      
+      <category domain="https://sysin.org/tags/VMware/">VMware</category>
+      
+      <category domain="https://sysin.org/tags/Omnissa/">Omnissa</category>
+      
+      <category domain="https://sysin.org/tags/Horizon/">Horizon</category>
+      
+      
+      <comments>https://sysin.org/blog/omnissa-os-optimization-tool/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>VMware Tanzu Kubernetes Grid Integrated Edition (TKGI) 1.21 - 运营商 Kubernetes 解决方案</title>
-      <link>https://sysin.cn/blog/vmware-tkgi/</link>
-      <guid>https://sysin.cn/blog/vmware-tkgi/</guid>
+      <link>https://sysin.org/blog/vmware-tkgi/</link>
+      <guid>https://sysin.org/blog/vmware-tkgi/</guid>
       <pubDate>Sun, 02 Feb 2025 01:15:06 GMT</pubDate>
       
         
@@ -35,24 +66,24 @@
       
       
       
-      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
+      <category domain="https://sysin.org/categories/VMware/">VMware</category>
       
       
-      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
+      <category domain="https://sysin.org/tags/VMware/">VMware</category>
       
-      <category domain="https://sysin.cn/tags/Kubernetes/">Kubernetes</category>
+      <category domain="https://sysin.org/tags/Kubernetes/">Kubernetes</category>
       
-      <category domain="https://sysin.cn/tags/Tanzu/">Tanzu</category>
+      <category domain="https://sysin.org/tags/Tanzu/">Tanzu</category>
       
       
-      <comments>https://sysin.cn/blog/vmware-tkgi/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/vmware-tkgi/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Omnissa Horizon 8 2412 (8.14) - 虚拟桌面基础架构 (VDI) 和应用软件</title>
-      <link>https://sysin.cn/blog/omnissa-horizon-8/</link>
-      <guid>https://sysin.cn/blog/omnissa-horizon-8/</guid>
+      <link>https://sysin.org/blog/omnissa-horizon-8/</link>
+      <guid>https://sysin.org/blog/omnissa-horizon-8/</guid>
       <pubDate>Sun, 02 Feb 2025 01:12:00 GMT</pubDate>
       
         
@@ -66,24 +97,24 @@
       
       
       
-      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
+      <category domain="https://sysin.org/categories/VMware/">VMware</category>
       
       
-      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
+      <category domain="https://sysin.org/tags/VMware/">VMware</category>
       
-      <category domain="https://sysin.cn/tags/Omnissa/">Omnissa</category>
+      <category domain="https://sysin.org/tags/Omnissa/">Omnissa</category>
       
-      <category domain="https://sysin.cn/tags/Horizon/">Horizon</category>
+      <category domain="https://sysin.org/tags/Horizon/">Horizon</category>
       
       
-      <comments>https://sysin.cn/blog/omnissa-horizon-8/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/omnissa-horizon-8/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Omnissa Unified Access Gateway 2412 - 远程安全的应用程序访问</title>
-      <link>https://sysin.cn/blog/omnissa-unified-access-gateway/</link>
-      <guid>https://sysin.cn/blog/omnissa-unified-access-gateway/</guid>
+      <link>https://sysin.org/blog/omnissa-unified-access-gateway/</link>
+      <guid>https://sysin.org/blog/omnissa-unified-access-gateway/</guid>
       <pubDate>Sat, 01 Feb 2025 01:15:13 GMT</pubDate>
       
         
@@ -97,24 +128,24 @@
       
       
       
-      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
+      <category domain="https://sysin.org/categories/VMware/">VMware</category>
       
       
-      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
+      <category domain="https://sysin.org/tags/VMware/">VMware</category>
       
-      <category domain="https://sysin.cn/tags/Omnissa/">Omnissa</category>
+      <category domain="https://sysin.org/tags/Omnissa/">Omnissa</category>
       
-      <category domain="https://sysin.cn/tags/Horizon/">Horizon</category>
+      <category domain="https://sysin.org/tags/Horizon/">Horizon</category>
       
       
-      <comments>https://sysin.cn/blog/omnissa-unified-access-gateway/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/omnissa-unified-access-gateway/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Linux 产品链接汇总</title>
-      <link>https://sysin.cn/blog/linux/</link>
-      <guid>https://sysin.cn/blog/linux/</guid>
+      <link>https://sysin.org/blog/linux/</link>
+      <guid>https://sysin.org/blog/linux/</guid>
       <pubDate>Sat, 01 Feb 2025 01:06:00 GMT</pubDate>
       
         
@@ -128,26 +159,26 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Linux/">Linux</category>
+      <category domain="https://sysin.org/categories/Linux/">Linux</category>
       
       
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.cn/tags/RHEL/">RHEL</category>
+      <category domain="https://sysin.org/tags/RHEL/">RHEL</category>
       
-      <category domain="https://sysin.cn/tags/Ubuntu/">Ubuntu</category>
+      <category domain="https://sysin.org/tags/Ubuntu/">Ubuntu</category>
       
-      <category domain="https://sysin.cn/tags/Debian/">Debian</category>
+      <category domain="https://sysin.org/tags/Debian/">Debian</category>
       
       
-      <comments>https://sysin.cn/blog/linux/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/linux/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>HTTP 协议与安全</title>
-      <link>https://sysin.cn/blog/http/</link>
-      <guid>https://sysin.cn/blog/http/</guid>
+      <link>https://sysin.org/blog/http/</link>
+      <guid>https://sysin.org/blog/http/</guid>
       <pubDate>Sat, 01 Feb 2025 01:03:00 GMT</pubDate>
       
         
@@ -161,28 +192,28 @@
       
       
       
-      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.cn/tags/HTTP/">HTTP</category>
+      <category domain="https://sysin.org/tags/HTTP/">HTTP</category>
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Unix/">Unix</category>
+      <category domain="https://sysin.org/tags/Unix/">Unix</category>
       
       
-      <comments>https://sysin.cn/blog/http/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/http/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>VMware 产品下载汇总</title>
-      <link>https://sysin.cn/blog/vmware/</link>
-      <guid>https://sysin.cn/blog/vmware/</guid>
+      <link>https://sysin.org/blog/vmware/</link>
+      <guid>https://sysin.org/blog/vmware/</guid>
       <pubDate>Sat, 01 Feb 2025 01:02:00 GMT</pubDate>
       
         
@@ -196,20 +227,20 @@
       
       
       
-      <category domain="https://sysin.cn/categories/VMware/">VMware</category>
+      <category domain="https://sysin.org/categories/VMware/">VMware</category>
       
       
-      <category domain="https://sysin.cn/tags/VMware/">VMware</category>
+      <category domain="https://sysin.org/tags/VMware/">VMware</category>
       
       
-      <comments>https://sysin.cn/blog/vmware/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/vmware/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>macOS 下载汇总 (系统、应用和教程)</title>
-      <link>https://sysin.cn/blog/macOS/</link>
-      <guid>https://sysin.cn/blog/macOS/</guid>
+      <link>https://sysin.org/blog/macOS/</link>
+      <guid>https://sysin.org/blog/macOS/</guid>
       <pubDate>Sat, 01 Feb 2025 01:01:00 GMT</pubDate>
       
         
@@ -223,22 +254,22 @@
       
       
       
-      <category domain="https://sysin.cn/categories/macOS/">macOS</category>
+      <category domain="https://sysin.org/categories/macOS/">macOS</category>
       
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Apple/">Apple</category>
+      <category domain="https://sysin.org/tags/Apple/">Apple</category>
       
       
-      <comments>https://sysin.cn/blog/macOS/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/macOS/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>AppSpider Pro 7.5.015 for Windows - Web 应用程序安全测试</title>
-      <link>https://sysin.cn/blog/appspider/</link>
-      <guid>https://sysin.cn/blog/appspider/</guid>
+      <link>https://sysin.org/blog/appspider/</link>
+      <guid>https://sysin.org/blog/appspider/</guid>
       <pubDate>Fri, 31 Jan 2025 01:10:09 GMT</pubDate>
       
         
@@ -252,24 +283,24 @@
       
       
       
-      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.cn/tags/Security/">Security</category>
+      <category domain="https://sysin.org/tags/Security/">Security</category>
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Rapid7/">Rapid7</category>
+      <category domain="https://sysin.org/tags/Rapid7/">Rapid7</category>
       
       
-      <comments>https://sysin.cn/blog/appspider/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/appspider/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Nexpose 7.4.0 for Linux &amp; Windows - 漏洞扫描</title>
-      <link>https://sysin.cn/blog/nexpose-7/</link>
-      <guid>https://sysin.cn/blog/nexpose-7/</guid>
+      <link>https://sysin.org/blog/nexpose-7/</link>
+      <guid>https://sysin.org/blog/nexpose-7/</guid>
       <pubDate>Fri, 31 Jan 2025 01:08:30 GMT</pubDate>
       
         
@@ -283,26 +314,26 @@
       
       
       
-      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.cn/tags/Security/">Security</category>
+      <category domain="https://sysin.org/tags/Security/">Security</category>
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Rapid7/">Rapid7</category>
+      <category domain="https://sysin.org/tags/Rapid7/">Rapid7</category>
       
       
-      <comments>https://sysin.cn/blog/nexpose-7/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/nexpose-7/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>CrossOver 24.0.7 for macOS &amp; Linux - 领先的 Wine 解决方案</title>
-      <link>https://sysin.cn/blog/crossover/</link>
-      <guid>https://sysin.cn/blog/crossover/</guid>
+      <link>https://sysin.org/blog/crossover/</link>
+      <guid>https://sysin.org/blog/crossover/</guid>
       <pubDate>Wed, 29 Jan 2025 01:11:00 GMT</pubDate>
       
         
@@ -316,22 +347,22 @@
       
       
       
-      <category domain="https://sysin.cn/categories/macOS/">macOS</category>
+      <category domain="https://sysin.org/categories/macOS/">macOS</category>
       
       
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
       
-      <comments>https://sysin.cn/blog/crossover/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/crossover/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Apple Safari 18.3 - macOS 专属浏览器 (独立安装包下载)</title>
-      <link>https://sysin.cn/blog/apple-safari-18/</link>
-      <guid>https://sysin.cn/blog/apple-safari-18/</guid>
+      <link>https://sysin.org/blog/apple-safari-18/</link>
+      <guid>https://sysin.org/blog/apple-safari-18/</guid>
       <pubDate>Tue, 28 Jan 2025 07:02:00 GMT</pubDate>
       
         
@@ -345,22 +376,22 @@
       
       
       
-      <category domain="https://sysin.cn/categories/macOS/">macOS</category>
+      <category domain="https://sysin.org/categories/macOS/">macOS</category>
       
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Apple/">Apple</category>
+      <category domain="https://sysin.org/tags/Apple/">Apple</category>
       
       
-      <comments>https://sysin.cn/blog/apple-safari-18/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/apple-safari-18/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>macOS Sequoia 15.3 (24D60) Boot ISO 原版可引导镜像下载</title>
-      <link>https://sysin.cn/blog/macOS-Sequoia-boot-iso/</link>
-      <guid>https://sysin.cn/blog/macOS-Sequoia-boot-iso/</guid>
+      <link>https://sysin.org/blog/macOS-Sequoia-boot-iso/</link>
+      <guid>https://sysin.org/blog/macOS-Sequoia-boot-iso/</guid>
       <pubDate>Tue, 28 Jan 2025 01:12:20 GMT</pubDate>
       
         
@@ -374,22 +405,22 @@
       
       
       
-      <category domain="https://sysin.cn/categories/macOS/">macOS</category>
+      <category domain="https://sysin.org/categories/macOS/">macOS</category>
       
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Apple/">Apple</category>
+      <category domain="https://sysin.org/tags/Apple/">Apple</category>
       
       
-      <comments>https://sysin.cn/blog/macOS-Sequoia-boot-iso/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/macOS-Sequoia-boot-iso/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>macOS Sequoia 15.3 (24D60) 正式版 ISO、IPSW、PKG 下载</title>
-      <link>https://sysin.cn/blog/macOS-Sequoia/</link>
-      <guid>https://sysin.cn/blog/macOS-Sequoia/</guid>
+      <link>https://sysin.org/blog/macOS-Sequoia/</link>
+      <guid>https://sysin.org/blog/macOS-Sequoia/</guid>
       <pubDate>Tue, 28 Jan 2025 01:12:00 GMT</pubDate>
       
         
@@ -403,22 +434,22 @@
       
       
       
-      <category domain="https://sysin.cn/categories/macOS/">macOS</category>
+      <category domain="https://sysin.org/categories/macOS/">macOS</category>
       
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Apple/">Apple</category>
+      <category domain="https://sysin.org/tags/Apple/">Apple</category>
       
       
-      <comments>https://sysin.cn/blog/macOS-Sequoia/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/macOS-Sequoia/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>macOS Sonoma 14.7.3 (23H417) Boot ISO 原版可引导镜像下载</title>
-      <link>https://sysin.cn/blog/macOS-Sonoma-boot-iso/</link>
-      <guid>https://sysin.cn/blog/macOS-Sonoma-boot-iso/</guid>
+      <link>https://sysin.org/blog/macOS-Sonoma-boot-iso/</link>
+      <guid>https://sysin.org/blog/macOS-Sonoma-boot-iso/</guid>
       <pubDate>Tue, 28 Jan 2025 01:11:20 GMT</pubDate>
       
         
@@ -432,22 +463,22 @@
       
       
       
-      <category domain="https://sysin.cn/categories/macOS/">macOS</category>
+      <category domain="https://sysin.org/categories/macOS/">macOS</category>
       
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Apple/">Apple</category>
+      <category domain="https://sysin.org/tags/Apple/">Apple</category>
       
       
-      <comments>https://sysin.cn/blog/macOS-Sonoma-boot-iso/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/macOS-Sonoma-boot-iso/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>macOS Sonoma 14.7.3 (23H417) 正式版 ISO、IPSW、PKG 下载</title>
-      <link>https://sysin.cn/blog/macOS-Sonoma/</link>
-      <guid>https://sysin.cn/blog/macOS-Sonoma/</guid>
+      <link>https://sysin.org/blog/macOS-Sonoma/</link>
+      <guid>https://sysin.org/blog/macOS-Sonoma/</guid>
       <pubDate>Tue, 28 Jan 2025 01:11:00 GMT</pubDate>
       
         
@@ -461,22 +492,22 @@
       
       
       
-      <category domain="https://sysin.cn/categories/macOS/">macOS</category>
+      <category domain="https://sysin.org/categories/macOS/">macOS</category>
       
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Apple/">Apple</category>
+      <category domain="https://sysin.org/tags/Apple/">Apple</category>
       
       
-      <comments>https://sysin.cn/blog/macOS-Sonoma/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/macOS-Sonoma/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>macOS Ventura 13.7.3 (22H417) Boot ISO 原版可引导镜像下载</title>
-      <link>https://sysin.cn/blog/macOS-Ventura-boot-iso/</link>
-      <guid>https://sysin.cn/blog/macOS-Ventura-boot-iso/</guid>
+      <link>https://sysin.org/blog/macOS-Ventura-boot-iso/</link>
+      <guid>https://sysin.org/blog/macOS-Ventura-boot-iso/</guid>
       <pubDate>Tue, 28 Jan 2025 01:08:20 GMT</pubDate>
       
         
@@ -490,22 +521,22 @@
       
       
       
-      <category domain="https://sysin.cn/categories/macOS/">macOS</category>
+      <category domain="https://sysin.org/categories/macOS/">macOS</category>
       
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Apple/">Apple</category>
+      <category domain="https://sysin.org/tags/Apple/">Apple</category>
       
       
-      <comments>https://sysin.cn/blog/macOS-Ventura-boot-iso/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/macOS-Ventura-boot-iso/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>macOS Ventura 13.7.3 (22H417) 正式版 ISO、IPSW、PKG 下载</title>
-      <link>https://sysin.cn/blog/macOS-Ventura/</link>
-      <guid>https://sysin.cn/blog/macOS-Ventura/</guid>
+      <link>https://sysin.org/blog/macOS-Ventura/</link>
+      <guid>https://sysin.org/blog/macOS-Ventura/</guid>
       <pubDate>Tue, 28 Jan 2025 01:08:00 GMT</pubDate>
       
         
@@ -519,22 +550,22 @@
       
       
       
-      <category domain="https://sysin.cn/categories/macOS/">macOS</category>
+      <category domain="https://sysin.org/categories/macOS/">macOS</category>
       
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Apple/">Apple</category>
+      <category domain="https://sysin.org/tags/Apple/">Apple</category>
       
       
-      <comments>https://sysin.cn/blog/macOS-Ventura/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/macOS-Ventura/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Cisco Secure Client 5.1.7.80 (macOS, Linux, Windows &amp; iOS, Andrord) - VPN 和远程访问客户端</title>
-      <link>https://sysin.cn/blog/cisco-secure-client-5/</link>
-      <guid>https://sysin.cn/blog/cisco-secure-client-5/</guid>
+      <link>https://sysin.org/blog/cisco-secure-client-5/</link>
+      <guid>https://sysin.org/blog/cisco-secure-client-5/</guid>
       <pubDate>Mon, 27 Jan 2025 01:08:00 GMT</pubDate>
       
         
@@ -548,22 +579,22 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
+      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
       
       
-      <category domain="https://sysin.cn/tags/Firewall/">Firewall</category>
+      <category domain="https://sysin.org/tags/Firewall/">Firewall</category>
       
-      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
+      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
       
       
-      <comments>https://sysin.cn/blog/cisco-secure-client-5/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/cisco-secure-client-5/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Cisco NX-OS Software Release 10.5(2)F - 网络操作系统软件</title>
-      <link>https://sysin.cn/blog/cisco-nx-os-10/</link>
-      <guid>https://sysin.cn/blog/cisco-nx-os-10/</guid>
+      <link>https://sysin.org/blog/cisco-nx-os-10/</link>
+      <guid>https://sysin.org/blog/cisco-nx-os-10/</guid>
       <pubDate>Sun, 26 Jan 2025 00:02:00 GMT</pubDate>
       
         
@@ -577,26 +608,26 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Cisco/">Cisco</category>
+      <category domain="https://sysin.org/categories/Cisco/">Cisco</category>
       
       
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.cn/tags/OVF/">OVF</category>
+      <category domain="https://sysin.org/tags/OVF/">OVF</category>
       
-      <category domain="https://sysin.cn/tags/Cisco/">Cisco</category>
+      <category domain="https://sysin.org/tags/Cisco/">Cisco</category>
       
-      <category domain="https://sysin.cn/tags/NX-OS/">NX-OS</category>
+      <category domain="https://sysin.org/tags/NX-OS/">NX-OS</category>
       
       
-      <comments>https://sysin.cn/blog/cisco-nx-os-10/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/cisco-nx-os-10/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Burp Suite Professional 2025.1 for Windows x64 - 领先的 Web 渗透测试软件</title>
-      <link>https://sysin.cn/blog/burp-suite-pro-win/</link>
-      <guid>https://sysin.cn/blog/burp-suite-pro-win/</guid>
+      <link>https://sysin.org/blog/burp-suite-pro-win/</link>
+      <guid>https://sysin.org/blog/burp-suite-pro-win/</guid>
       <pubDate>Sat, 25 Jan 2025 02:18:12 GMT</pubDate>
       
         
@@ -610,24 +641,24 @@
       
       
       
-      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.cn/tags/HTTP/">HTTP</category>
+      <category domain="https://sysin.org/tags/HTTP/">HTTP</category>
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Security/">Security</category>
+      <category domain="https://sysin.org/tags/Security/">Security</category>
       
       
-      <comments>https://sysin.cn/blog/burp-suite-pro-win/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/burp-suite-pro-win/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Burp Suite Professional 2025.1 for macOS x64 &amp; ARM64 - 领先的 Web 渗透测试软件</title>
-      <link>https://sysin.cn/blog/burp-suite-pro-mac/</link>
-      <guid>https://sysin.cn/blog/burp-suite-pro-mac/</guid>
+      <link>https://sysin.org/blog/burp-suite-pro-mac/</link>
+      <guid>https://sysin.org/blog/burp-suite-pro-mac/</guid>
       <pubDate>Sat, 25 Jan 2025 02:15:10 GMT</pubDate>
       
         
@@ -641,24 +672,24 @@
       
       
       
-      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.cn/tags/HTTP/">HTTP</category>
+      <category domain="https://sysin.org/tags/HTTP/">HTTP</category>
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Security/">Security</category>
+      <category domain="https://sysin.org/tags/Security/">Security</category>
       
       
-      <comments>https://sysin.cn/blog/burp-suite-pro-mac/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/burp-suite-pro-mac/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Burp Suite Professional 2025.1 (macOS, Linux, Windows) - Web 应用安全、测试和扫描</title>
-      <link>https://sysin.cn/blog/burp-suite-pro/</link>
-      <guid>https://sysin.cn/blog/burp-suite-pro/</guid>
+      <link>https://sysin.org/blog/burp-suite-pro/</link>
+      <guid>https://sysin.org/blog/burp-suite-pro/</guid>
       <pubDate>Sat, 25 Jan 2025 02:10:10 GMT</pubDate>
       
         
@@ -672,28 +703,28 @@
       
       
       
-      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.cn/tags/HTTP/">HTTP</category>
+      <category domain="https://sysin.org/tags/HTTP/">HTTP</category>
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Security/">Security</category>
+      <category domain="https://sysin.org/tags/Security/">Security</category>
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
       
-      <comments>https://sysin.cn/blog/burp-suite-pro/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/burp-suite-pro/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Metasploit Pro 4.22.7-2025012201 (Linux, Windows) - 专业渗透测试框架</title>
-      <link>https://sysin.cn/blog/metasploit-pro-4/</link>
-      <guid>https://sysin.cn/blog/metasploit-pro-4/</guid>
+      <link>https://sysin.org/blog/metasploit-pro-4/</link>
+      <guid>https://sysin.org/blog/metasploit-pro-4/</guid>
       <pubDate>Sat, 25 Jan 2025 01:10:10 GMT</pubDate>
       
         
@@ -707,26 +738,26 @@
       
       
       
-      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.cn/tags/Security/">Security</category>
+      <category domain="https://sysin.org/tags/Security/">Security</category>
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Rapid7/">Rapid7</category>
+      <category domain="https://sysin.org/tags/Rapid7/">Rapid7</category>
       
       
-      <comments>https://sysin.cn/blog/metasploit-pro-4/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/metasploit-pro-4/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Metasploit Framework 6.4.44 (macOS, Linux, Windows) - 开源渗透测试框架</title>
-      <link>https://sysin.cn/blog/metasploit-framework-6/</link>
-      <guid>https://sysin.cn/blog/metasploit-framework-6/</guid>
+      <link>https://sysin.org/blog/metasploit-framework-6/</link>
+      <guid>https://sysin.org/blog/metasploit-framework-6/</guid>
       <pubDate>Sat, 25 Jan 2025 01:10:00 GMT</pubDate>
       
         
@@ -740,28 +771,28 @@
       
       
       
-      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Security/">Security</category>
+      <category domain="https://sysin.org/tags/Security/">Security</category>
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Rapid7/">Rapid7</category>
+      <category domain="https://sysin.org/tags/Rapid7/">Rapid7</category>
       
       
-      <comments>https://sysin.cn/blog/metasploit-framework-6/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/metasploit-framework-6/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>SonarQube Server 2025.1 LTA (macOS, Linux, Windows) - 代码质量、安全与静态分析工具</title>
-      <link>https://sysin.cn/blog/sonarqube/</link>
-      <guid>https://sysin.cn/blog/sonarqube/</guid>
+      <link>https://sysin.org/blog/sonarqube/</link>
+      <guid>https://sysin.org/blog/sonarqube/</guid>
       <pubDate>Fri, 24 Jan 2025 01:25:20 GMT</pubDate>
       
         
@@ -775,28 +806,28 @@
       
       
       
-      <category domain="https://sysin.cn/categories/HTTP/">HTTP</category>
+      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
       
       
-      <category domain="https://sysin.cn/tags/Linux/">Linux</category>
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
       
-      <category domain="https://sysin.cn/tags/macOS/">macOS</category>
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
       
-      <category domain="https://sysin.cn/tags/Security/">Security</category>
+      <category domain="https://sysin.org/tags/Security/">Security</category>
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Code/">Code</category>
+      <category domain="https://sysin.org/tags/Code/">Code</category>
       
       
-      <comments>https://sysin.cn/blog/sonarqube/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/sonarqube/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Windows Server 2025 中文版、英文版下载 (2025 年 1 月更新)</title>
-      <link>https://sysin.cn/blog/windows-server-2025/</link>
-      <guid>https://sysin.cn/blog/windows-server-2025/</guid>
+      <link>https://sysin.org/blog/windows-server-2025/</link>
+      <guid>https://sysin.org/blog/windows-server-2025/</guid>
       <pubDate>Fri, 24 Jan 2025 01:18:15 GMT</pubDate>
       
         
@@ -810,24 +841,24 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
+      <category domain="https://sysin.org/categories/Windows/">Windows</category>
       
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Microsoft/">Microsoft</category>
+      <category domain="https://sysin.org/tags/Microsoft/">Microsoft</category>
       
-      <category domain="https://sysin.cn/tags/Server/">Server</category>
+      <category domain="https://sysin.org/tags/Server/">Server</category>
       
       
-      <comments>https://sysin.cn/blog/windows-server-2025/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/windows-server-2025/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Windows Server 2022 中文版、英文版下载 (2025 年 1 月更新)</title>
-      <link>https://sysin.cn/blog/windows-server-2022/</link>
-      <guid>https://sysin.cn/blog/windows-server-2022/</guid>
+      <link>https://sysin.org/blog/windows-server-2022/</link>
+      <guid>https://sysin.org/blog/windows-server-2022/</guid>
       <pubDate>Fri, 24 Jan 2025 01:15:00 GMT</pubDate>
       
         
@@ -841,24 +872,24 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
+      <category domain="https://sysin.org/categories/Windows/">Windows</category>
       
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Microsoft/">Microsoft</category>
+      <category domain="https://sysin.org/tags/Microsoft/">Microsoft</category>
       
-      <category domain="https://sysin.cn/tags/Server/">Server</category>
+      <category domain="https://sysin.org/tags/Server/">Server</category>
       
       
-      <comments>https://sysin.cn/blog/windows-server-2022/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/windows-server-2022/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Windows 11 24H2 中文版、英文版 (x64、ARM64) 下载 (2025 年 1 月更新)</title>
-      <link>https://sysin.cn/blog/windows-11/</link>
-      <guid>https://sysin.cn/blog/windows-11/</guid>
+      <link>https://sysin.org/blog/windows-11/</link>
+      <guid>https://sysin.org/blog/windows-11/</guid>
       <pubDate>Fri, 24 Jan 2025 01:13:00 GMT</pubDate>
       
         
@@ -872,22 +903,22 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
+      <category domain="https://sysin.org/categories/Windows/">Windows</category>
       
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Microsoft/">Microsoft</category>
+      <category domain="https://sysin.org/tags/Microsoft/">Microsoft</category>
       
       
-      <comments>https://sysin.cn/blog/windows-11/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/windows-11/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Windows 10 on ARM, version 22H2 ARM64 中文版、英文版下载 (2025 年 1 月更新)</title>
-      <link>https://sysin.cn/blog/windows-10-arm/</link>
-      <guid>https://sysin.cn/blog/windows-10-arm/</guid>
+      <link>https://sysin.org/blog/windows-10-arm/</link>
+      <guid>https://sysin.org/blog/windows-10-arm/</guid>
       <pubDate>Fri, 24 Jan 2025 01:12:00 GMT</pubDate>
       
         
@@ -901,44 +932,15 @@
       
       
       
-      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
+      <category domain="https://sysin.org/categories/Windows/">Windows</category>
       
       
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
       
-      <category domain="https://sysin.cn/tags/Microsoft/">Microsoft</category>
-      
-      
-      <comments>https://sysin.cn/blog/windows-10-arm/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Windows 10 version 22H2 中文版、英文版下载 (2025 年 1 月更新)</title>
-      <link>https://sysin.cn/blog/windows-10/</link>
-      <guid>https://sysin.cn/blog/windows-10/</guid>
-      <pubDate>Fri, 24 Jan 2025 01:11:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/windows-10/&quot; title=&quot;Windows 10 version 22H2 中文版、英文版下载 (2025 年 1 月更新)&quot;&gt;Windows 10 version 22H2 中文版、英文版下载 (2025 年 1 月更新)&lt;/a&gt; 查看最新版。</description>
-          
-        
+      <category domain="https://sysin.org/tags/Microsoft/">Microsoft</category>
       
       
-      
-      
-      <category domain="https://sysin.cn/categories/Windows/">Windows</category>
-      
-      
-      <category domain="https://sysin.cn/tags/Windows/">Windows</category>
-      
-      <category domain="https://sysin.cn/tags/Microsoft/">Microsoft</category>
-      
-      
-      <comments>https://sysin.cn/blog/windows-10/#disqus_thread</comments>
+      <comments>https://sysin.org/blog/windows-10-arm/#disqus_thread</comments>
       
     </item>
     
